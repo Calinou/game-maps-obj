@@ -1,0 +1,602 @@
+# mtl file of map
+
+newmtl slot2
+map_Kd data/appleflap/danger.jpg
+
+newmtl slot5
+map_Kd data/trak/trak5/light1a.jpg
+
+newmtl slot6
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot7
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot11
+map_Kd data/philipk/pk01/pan_wall01_d.png
+
+newmtl slot14
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot17
+map_Kd data/unnamed/unnamedmetal05.png
+
+newmtl slot18
+map_Kd data/unnamed/grate01-light.png
+
+newmtl slot20
+map_Kd data/unnamed/panels02a.png
+
+newmtl slot21
+map_Kd data/unnamed/floor01.png
+
+newmtl slot22
+map_Kd data/nobiax/textures/388/diffuse.png
+
+newmtl slot23
+map_Kd nobiax/textures/104/diffus
+
+newmtl slot24
+map_Kd nobiax/textures/105/diffus
+
+newmtl slot26
+map_Kd nobiax/textures/179/diffuse
+
+newmtl slot27
+map_Kd nobiax/textures/182/diffuse
+
+newmtl slot28
+map_Kd nobiax/textures/191/diffuse
+
+newmtl slot29
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot32
+map_Kd nobiax/textures/80/diffus
+
+newmtl slot33
+map_Kd nobiax/textures/91/diffus
+
+newmtl slot34
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot36
+map_Kd data/appleflap/danger.jpg
+
+newmtl slot38
+map_Kd data/jojo/interface01.png
+
+newmtl slot41
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot44
+map_Kd data/trak/trak7/wall1b.jpg
+
+newmtl slot46
+map_Kd data/philipk/pk01/vent_wall02_d.png
+
+newmtl slot48
+map_Kd data/philipk/pk02/light02a_c.png
+
+newmtl slot49
+map_Kd data/philipk/pk02/switches01b_c.png
+
+newmtl slot53
+map_Kd data/unnamed/floor_cyl01.png
+
+newmtl slot54
+map_Kd nobiax/textures/iron/iron_diffuse
+
+newmtl slot59
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot60
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot61
+map_Kd nobiax/textures/iron/iron_diffuse
+
+newmtl slot63
+map_Kd data/textures/edit/edit_1.png
+
+newmtl slot64
+map_Kd nobiax/textures/91/diffus
+
+newmtl slot65
+map_Kd nobiax/textures/76/diffus
+
+newmtl slot66
+map_Kd nobiax/textures/76/diffus
+
+newmtl slot67
+map_Kd nobiax/textures/179/diffuse
+
+newmtl slot68
+map_Kd nobiax/textures/76/diffus
+
+newmtl slot70
+map_Kd nobiax/textures/179/diffuse
+
+newmtl slot71
+map_Kd data/philipk/pk02/wall02a_c.png
+
+newmtl slot72
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot73
+map_Kd data/unnamed/wall03a.png
+
+newmtl slot74
+map_Kd data/misc/doortile.jpg
+
+newmtl slot75
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot76
+map_Kd data/unnamed/floor_cyl01.png
+
+newmtl slot77
+map_Kd data/unnamed/floor_cyl01.png
+
+newmtl slot78
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot79
+map_Kd data/unnamed/unnamedmetal01.png
+
+newmtl slot80
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot81
+map_Kd data/philipk/pk01/vent_wall02_d.png
+
+newmtl slot82
+map_Kd data/philipk/pk01/wall03a_d.png
+
+newmtl slot83
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot84
+map_Kd data/philipk/pk02/switches01c_c.png
+
+newmtl slot85
+map_Kd data/philipk/pk02/computer01a_c.png
+
+newmtl slot86
+map_Kd data/jojo/interface03.png
+
+newmtl slot88
+map_Kd data/jojo/interface06.png
+
+newmtl slot89
+map_Kd data/dziq/metal_paint_old01.jpg
+
+newmtl slot91
+map_Kd data/unnamed/floor01.png
+
+newmtl slot92
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot93
+map_Kd data/unnamed/floor01.png
+
+newmtl slot94
+map_Kd data/unnamed/floor01.png
+
+newmtl slot95
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot96
+map_Kd nobiax/textures/76/diffus
+
+newmtl slot97
+map_Kd data/jojo/windowstile.png
+
+newmtl slot98
+map_Kd data/luckystrike/barlight_end.jpg
+
+newmtl slot99
+map_Kd nobiax/textures/iron/iron_diffuse
+
+newmtl slot100
+map_Kd data/dziq/nicestonetiles.jpg
+
+newmtl slot101
+map_Kd nobiax/textures/216/diffuse
+
+newmtl slot102
+map_Kd nobiax/textures/104/diffus
+
+newmtl slot103
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot104
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot105
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot106
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot107
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot108
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot109
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot110
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot111
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot112
+map_Kd data/philipk/pk01/pan_trim01_d.png
+
+newmtl slot113
+map_Kd data/philipk/pk01/pan_wall01_d.png
+
+newmtl slot114
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot115
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot116
+map_Kd data/philipk/pk02/light02a_c.png
+
+newmtl slot117
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot118
+map_Kd data/unnamed/unnamedmetal01.png
+
+newmtl slot119
+map_Kd nobiax/textures/216/diffuse
+
+newmtl slot121
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot122
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot123
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot124
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot125
+map_Kd data/unnamed/unnamedmetal05.png
+
+newmtl slot126
+map_Kd data/appleflap/danger.jpg
+
+newmtl slot127
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot128
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot129
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot131
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot132
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot133
+map_Kd data/unnamed/grate01-light.png
+
+newmtl slot134
+map_Kd data/unnamed/unnamedlight05a.png
+
+newmtl slot135
+map_Kd data/unnamed/unnamedlight05a.png
+
+newmtl slot136
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot137
+map_Kd data/nobiax/textures/388/diffuse.png
+
+newmtl slot138
+map_Kd data/trak/trak5/panel1a.jpg
+
+newmtl slot139
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot140
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot141
+map_Kd data/philipk/pk01/pan_trim01_d.png
+
+newmtl slot142
+map_Kd data/jojo/windowstile.png
+
+newmtl slot143
+map_Kd data/torley/desat/likehair.png
+
+newmtl slot144
+map_Kd nobiax/textures/191/diffuse
+
+newmtl slot145
+map_Kd data/philipk/pk01/panel01b_d.png
+
+newmtl slot146
+map_Kd data/philipk/pk01/pan_trim01_d.png
+
+newmtl slot147
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot148
+map_Kd data/philipk/pk01/pan_wall01_d.png
+
+newmtl slot149
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot150
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot151
+map_Kd data/trak/trak5/light1a.jpg
+
+newmtl slot152
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot153
+map_Kd data/trak/trak6/trim2.jpg
+
+newmtl slot154
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot155
+map_Kd data/unnamed/floor01.png
+
+newmtl slot156
+map_Kd data/unnamed/floor01.png
+
+newmtl slot157
+map_Kd data/philipk/pk01/roof01_d.png
+
+newmtl slot158
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot159
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot160
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot161
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot162
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot163
+map_Kd data/trak/trak5/light1a.jpg
+
+newmtl slot164
+map_Kd data/philipk/pk02/switches01b_c.png
+
+newmtl slot166
+map_Kd data/jojo/map.png
+
+newmtl slot167
+map_Kd data/philipk/pk02/switches01c_c.png
+
+newmtl slot169
+map_Kd data/trak/trak5/light1a.jpg
+
+newmtl slot170
+map_Kd data/trak/trak6/trim2.jpg
+
+newmtl slot171
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot172
+map_Kd data/philipk/pk01/pan_trim01_d.png
+
+newmtl slot173
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot174
+map_Kd data/unnamed/floor01.png
+
+newmtl slot175
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot176
+map_Kd data/philipk/pk01/wall03a_d.png
+
+newmtl slot177
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot178
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot179
+map_Kd data/jojo/windowstile.png
+
+newmtl slot180
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot181
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot183
+map_Kd nobiax/textures/76/diffus
+
+newmtl slot184
+map_Kd data/unnamed/floor_cyl01.png
+
+newmtl slot185
+map_Kd data/unnamed/floor_cyl01.png
+
+newmtl slot186
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot187
+map_Kd data/philipk/pk02/light02a_c.png
+
+newmtl slot188
+map_Kd nobiax/textures/216/diffuse
+
+newmtl slot189
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot190
+map_Kd nobiax/textures/216/diffuse
+
+newmtl slot191
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot192
+map_Kd data/philipk/pk01/pan_trim01_d.png
+
+newmtl slot193
+map_Kd nobiax/textures/216/diffuse
+
+newmtl slot194
+map_Kd nobiax/textures/91/diffus
+
+newmtl slot195
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot196
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot198
+map_Kd data/philipk/pk01/wall03a_d.png
+
+newmtl slot199
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot200
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot201
+map_Kd data/unnamed/floor01.png
+
+newmtl slot202
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot203
+map_Kd data/unnamed/unnamedpipes01.png
+
+newmtl slot204
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot205
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot206
+map_Kd data/philipk/pk02/wall02a_c.png
+
+newmtl slot207
+map_Kd data/trak/trak5/vertpanel1a.jpg
+
+newmtl slot208
+map_Kd data/trak/trak5/light1a.jpg
+
+newmtl slot209
+map_Kd data/jojo/interface01.png
+
+newmtl slot210
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot211
+map_Kd data/unnamed/floor_cyl01.png
+
+newmtl slot212
+map_Kd data/philipk/pk02/light02a_c.png
+
+newmtl slot213
+map_Kd data/unnamed/unnamedmetal05.png
+
+newmtl slot214
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot215
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot216
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot217
+map_Kd data/philipk/pk02/switches01b_c.png
+
+newmtl slot218
+map_Kd data/philipk/pk02/switches01c_c.png
+
+newmtl slot219
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot220
+map_Kd data/unnamed/unnamedmetal01.png
+
+newmtl slot221
+map_Kd data/unnamed/grate01-light.png
+
+newmtl slot222
+map_Kd data/unnamed/unnamedlight05a.png
+
+newmtl slot223
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot224
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot225
+map_Kd data/jojo/interface06.png
+
+newmtl slot227
+map_Kd data/philipk/pk02/switches01c_c.png
+
+newmtl slot228
+map_Kd data/philipk/pk02/switches01b_c.png
+
+newmtl slot229
+map_Kd data/philipk/pk02/computer01a_c.png
+
+newmtl slot230
+map_Kd data/philipk/pk01/vent_wall02_d.png
+
+newmtl slot231
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot232
+map_Kd nobiax/textures/steel/steel_diffuse
+
+newmtl slot233
+map_Kd nobiax/textures/213/diffuse
+
+newmtl slot234
+map_Kd data/unnamed/unnamedlight01.png
+
+newmtl slot235
+map_Kd data/unnamed/floor_cyl01.png
+
+newmtl slot236
+map_Kd data/unnamed/floor_cyl01.png
+
+newmtl slot237
+map_Kd data/philipk/pk02/light02a_c.png
+
+newmtl slot238
+map_Kd data/trak/trak5/light1a.jpg
+
+newmtl slot239
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot240
+map_Kd data/unnamed/floor_cyl01.png
+

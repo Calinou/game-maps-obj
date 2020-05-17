@@ -1,0 +1,53 @@
+# mtl file of Cube 2 level
+
+newmtl slot2
+map_Kd packages/aard/aardograss_1.jpg
+
+newmtl slot4
+map_Kd packages/ik2k/ik_floor_wood128b.jpg
+
+newmtl slot13
+map_Kd packages/dg/floor_pavement_stone5_2.jpg
+
+newmtl slot29
+map_Kd packages/dg/mur067.jpg
+
+newmtl slot35
+map_Kd packages/dg/sup075.jpg
+
+newmtl slot48
+map_Kd packages/tech1soc/032-10a.jpg
+
+newmtl slot65
+map_Kd packages/tech1soc/064-20a.jpg
+
+newmtl slot104
+map_Kd packages/tech1soc/s064-03a.jpg
+
+newmtl slot113
+map_Kd packages/tech1soc/s256-01c.jpg
+
+newmtl slot121
+map_Kd packages/ik2k/ik_brick_6464a.jpg
+
+newmtl slot143
+map_Kd packages/ik2k/ik_wpaperplain128b.jpg
+
+newmtl slot144
+map_Kd packages/ik2k/ik_wpaperplain128c.jpg
+
+newmtl slot164
+map_Kd packages/ikbase/ik_gtrimv_lit3b.jpg
+
+newmtl slot235
+map_Kd packages/egyptsoc/128-04a.jpg
+
+newmtl slot240
+map_Kd packages/egyptsoc/block01d.jpg
+
+newmtl slot244
+map_Kd packages/egyptsoc/lig_032-01r1.jpg
+
+newmtl slot276
+map_Kd packages/egyptsoc/128-02a.jpg
+

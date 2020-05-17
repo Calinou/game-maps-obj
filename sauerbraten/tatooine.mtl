@@ -1,0 +1,176 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/textures/default.png
+
+newmtl slot416
+map_Kd packages/lunaran/box1b_d.jpg
+
+newmtl slot417
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot419
+map_Kd packages/lunaran/grate1_d.jpg
+
+newmtl slot433
+map_Kd packages/lunaran/panel64_2a_d.jpg
+
+newmtl slot434
+map_Kd packages/lunaran/panel64_2b_d.jpg
+
+newmtl slot448
+map_Kd packages/lunaran/pwpip1_d.jpg
+
+newmtl slot453
+map_Kd packages/lunaran/support1_d.jpg
+
+newmtl slot455
+map_Kd packages/lunaran/cord1_d.jpg
+
+newmtl slot460
+map_Kd packages/lunaran/light_flouro0a_d.jpg
+
+newmtl slot465
+map_Kd packages/lunaran/light_r1_d.jpg
+
+newmtl slot470
+map_Kd packages/lunaran/qcomp4_d.jpg
+
+newmtl slot471
+map_Kd packages/lunaran/qcomp5_d.jpg
+
+newmtl slot777
+map_Kd packages/textures/nieb/rubber-trim.jpg
+
+newmtl slot800
+map_Kd packages/textures/nieb/stone1.jpg
+
+newmtl slot801
+map_Kd packages/textures/nieb/stone1b.jpg
+
+newmtl slot802
+map_Kd packages/textures/nieb/stone2.jpg
+
+newmtl slot804
+map_Kd packages/textures/nieb/rough1.jpg
+
+newmtl slot815
+map_Kd packages/trak5/base1c.jpg
+
+newmtl slot832
+map_Kd packages/trak5/pipe1b.jpg
+
+newmtl slot951
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot959
+map_Kd packages/textures/nieb/garden/sand1.jpg
+
+newmtl slot966
+map_Kd packages/textures/nieb/garden/stone4.jpg
+
+newmtl slot1466
+map_Kd packages/textures/nieb/autumn/rock.jpg
+
+newmtl slot1467
+map_Kd packages/textures/nieb/stone3.jpg
+
+newmtl slot1468
+map_Kd packages/textures/nieb/garden/sand1.jpg
+
+newmtl slot1469
+map_Kd packages/textures/nieb/garden/sand1.jpg
+
+newmtl slot1470
+map_Kd packages/textures/nieb/autumn/rock.jpg
+
+newmtl slot1471
+map_Kd packages/textures/nieb/garden/sand1.jpg
+
+newmtl slot1472
+map_Kd packages/lunaran/panel64_2a_d.jpg
+
+newmtl slot1473
+map_Kd packages/lunaran/light_r1_d.jpg
+
+newmtl slot1474
+map_Kd packages/lunaran/panel64_0_d.jpg
+
+newmtl slot1475
+map_Kd packages/lunaran/light_flouro0a_d.jpg
+
+newmtl slot1476
+map_Kd packages/lunaran/light_flouro0a_d.jpg
+
+newmtl slot1478
+map_Kd packages/lunaran/panel64_2b_d.jpg
+
+newmtl slot1479
+map_Kd packages/textures/nieb/garden/sand1.jpg
+
+newmtl slot1484
+map_Kd packages/lunaran/panel128_2_d.jpg
+
+newmtl slot1485
+map_Kd packages/lunaran/light_r1_d.jpg
+
+newmtl slot1486
+map_Kd packages/lunaran/panel64_2a_d.jpg
+
+newmtl slot1487
+map_Kd packages/lunaran/light_r1_d.jpg
+
+newmtl slot1488
+map_Kd packages/lunaran/panel64_2_d.jpg
+
+newmtl slot1489
+map_Kd packages/lunaran/panel64_2a_d.jpg
+
+newmtl slot1490
+map_Kd packages/textures/nieb/garden/sand1.jpg
+
+newmtl slot1491
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot1492
+map_Kd packages/textures/nieb/stone3.jpg
+
+newmtl slot1498
+map_Kd packages/lunaran/light_flouro0a_d.jpg
+
+newmtl slot1499
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1500
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1505
+map_Kd packages/lunaran/panel128_2_d.jpg
+
+newmtl slot1506
+map_Kd packages/lunaran/box1b_d.jpg
+
+newmtl slot1507
+map_Kd packages/lunaran/box1b_d.jpg
+
+newmtl slot1508
+map_Kd packages/lunaran/light_flouro0a_d.jpg
+
+newmtl slot1509
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1510
+map_Kd packages/trak5/glass.jpg
+
+newmtl slot1511
+map_Kd packages/trak5/stair1a.jpg
+
+newmtl slot1512
+map_Kd packages/textures/nieb/stone3.jpg
+
+newmtl slot1513
+map_Kd packages/lunaran/light_flouro0a_d.jpg
+
+newmtl slot1516
+map_Kd packages/trak5/glass.jpg
+

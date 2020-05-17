@@ -1,0 +1,164 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/blindabuser/ba_grass_cc.jpg
+
+newmtl slot2
+map_Kd packages/blindabuser/ba_base_dirt_cc.jpg
+
+newmtl slot3
+map_Kd packages/blindabuser/ba_rock_cc.jpg
+
+newmtl slot18
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot19
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot20
+map_Kd packages/gor/GR_GK_007_cc.jpg
+
+newmtl slot21
+map_Kd packages/gor/WT_GK_010_cc.jpg
+
+newmtl slot22
+map_Kd packages/gor/WT_GK_012_cc.jpg
+
+newmtl slot23
+map_Kd packages/gor/MEB_GK_001_cc.jpg
+
+newmtl slot24
+map_Kd packages/gor/WT_GK_007_cc.jpg
+
+newmtl slot25
+map_Kd packages/gor/WT_GK_009_cc.jpg
+
+newmtl slot26
+map_Kd packages/blindabuser/ba_wood_cc.jpg
+
+newmtl slot27
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot28
+map_Kd packages/lunaran/rock1_moss_d.jpg
+
+newmtl slot29
+map_Kd packages/blindabuser/pk_vitreaux_cc.jpg
+
+newmtl slot30
+map_Kd packages/gor/ST_GK_005_zu_001_cc.jpg
+
+newmtl slot31
+map_Kd packages/gor/WTA_GK_002_cc.jpg
+
+newmtl slot32
+map_Kd packages/gor/MEB_GK_001_cc.jpg
+
+newmtl slot33
+map_Kd packages/blindabuser/ba_scroll_cc.jpg
+
+newmtl slot34
+map_Kd packages/gor/WTA_GK_005_cc.jpg
+
+newmtl slot35
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot36
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot37
+map_Kd packages/aftas/pedras.jpg
+
+newmtl slot38
+map_Kd packages/aftas/tabua.jpg
+
+newmtl slot39
+map_Kd packages/aftas/tabua.jpg
+
+newmtl slot40
+map_Kd packages/aftas/piso5.jpg
+
+newmtl slot41
+map_Kd packages/kurt/logwall01_d.jpg
+
+newmtl slot42
+map_Kd packages/kurt/logwall02_d.jpg
+
+newmtl slot43
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot45
+map_Kd packages/gor/WT_GK_005_cc.jpg
+
+newmtl slot46
+map_Kd packages/gor/WT_GK_005_cc.jpg
+
+newmtl slot47
+map_Kd packages/gor/WT_GK_005_cc.jpg
+
+newmtl slot48
+map_Kd packages/gor/WT_GK_005_cc.jpg
+
+newmtl slot49
+map_Kd packages/kurt/logwall01_d.jpg
+
+newmtl slot50
+map_Kd packages/aftas/detalhe1.jpg
+
+newmtl slot51
+map_Kd packages/mitaman/mm-brickold88a.jpg
+
+newmtl slot52
+map_Kd packages/gor/WT_GK_008_cc.jpg
+
+newmtl slot53
+map_Kd packages/lunaran/panel64_2a_d.jpg
+
+newmtl slot54
+map_Kd packages/lunaran/panel64_2a_d.jpg
+
+newmtl slot55
+map_Kd packages/blindabuser/redflag.jpg
+
+newmtl slot56
+map_Kd packages/blindabuser/blueflag.jpg
+
+newmtl slot57
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot58
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot59
+map_Kd packages/g_pack/g-concrete05.jpg
+
+newmtl slot60
+map_Kd packages/loopix/cobbst2.jpg
+
+newmtl slot61
+map_Kd packages/blindabuser/ba_scroll_cc.jpg
+
+newmtl slot62
+map_Kd packages/mitaman/mm-concretetrim07a.jpg
+
+newmtl slot63
+map_Kd packages/aftas/piso3.jpg
+
+newmtl slot64
+map_Kd packages/blindabuser/blueflag.jpg
+
+newmtl slot65
+map_Kd packages/rorschach/1_concrete01.jpg
+
+newmtl slot66
+map_Kd packages/aftas/par9.jpg
+
+newmtl slot68
+map_Kd packages/rorschach/4_conc_floor01.jpg
+
+newmtl slot69
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot8224
+map_Kd packages/blindabuser/ba_grass_cc.jpg
+

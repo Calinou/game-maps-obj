@@ -1,0 +1,29 @@
+# mtl file of Cube 2 level
+
+newmtl slot4
+map_Kd media/base/base4.png
+
+newmtl slot14
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot21
+map_Kd media/nieb/complex/tile01.png
+
+newmtl slot22
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot41
+map_Kd media/agf81/concrete4_diffuse.png
+
+newmtl slot48
+map_Kd media/nobiax/pattern044_diffuse.png
+
+newmtl slot56
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot57
+map_Kd media/agf81/concrete4_diffuse.png
+
+newmtl slot58
+map_Kd media/agf81/concrete4_diffuse.png
+

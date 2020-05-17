@@ -1,0 +1,209 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/textures/default.png
+
+newmtl slot2
+map_Kd packages/aard/aardograss_1.jpg
+
+newmtl slot4
+map_Kd packages/ik2k/ik_floor_wood128b.jpg
+
+newmtl slot21
+map_Kd packages/dg/floor_tile_ceramicBlue.jpg
+
+newmtl slot24
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot25
+map_Kd packages/dg/mad063.jpg
+
+newmtl slot36
+map_Kd packages/dg/sup079.jpg
+
+newmtl slot92
+map_Kd packages/tech1soc/matbrown_lgt2.jpg
+
+newmtl slot121
+map_Kd packages/ik2k/ik_brick_6464a.jpg
+
+newmtl slot122
+map_Kd packages/ik2k/ik_brick_12832a.jpg
+
+newmtl slot124
+map_Kd packages/ik2k/ik_brick_trimh32a.jpg
+
+newmtl slot131
+map_Kd packages/ik2k/ik_ground_lawn128.jpg
+
+newmtl slot136
+map_Kd packages/ik2k/ik_woodv256a.jpg
+
+newmtl slot140
+map_Kd packages/ik2k/ik_wood_trimh64d.jpg
+
+newmtl slot142
+map_Kd packages/ik2k/ik_wpaperplain128a.jpg
+
+newmtl slot143
+map_Kd packages/ik2k/ik_wpaperplain128b.jpg
+
+newmtl slot144
+map_Kd packages/ik2k/ik_wpaperplain128c.jpg
+
+newmtl slot145
+map_Kd packages/ik2k/ik_wpaperplain128d.jpg
+
+newmtl slot146
+map_Kd packages/ik2k/ik_wpaperplain128e.jpg
+
+newmtl slot151
+map_Kd packages/ikbase/ik_floor_conc128a.jpg
+
+newmtl slot152
+map_Kd packages/ikbase/ik_floor_conc128b.jpg
+
+newmtl slot171
+map_Kd packages/ikbase/ik_itrimv_128b.jpg
+
+newmtl slot192
+map_Kd packages/payne/Tile28b.jpg
+
+newmtl slot216
+map_Kd packages/tech1soc/spring3.jpg
+
+newmtl slot240
+map_Kd packages/egyptsoc/block01d.jpg
+
+newmtl slot268
+map_Kd packages/egyptsoc/wood17.jpg
+
+newmtl slot350
+map_Kd packages/rorschach/4_conc_floor01.jpg
+
+newmtl slot401
+map_Kd packages/g_pack/g-metbas0c1.jpg
+
+newmtl slot417
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot546
+map_Kd packages/gibbie/lite2_d.jpg
+
+newmtl slot594
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot600
+map_Kd packages/gor/GR_GK_007_cc.jpg
+
+newmtl slot601
+map_Kd packages/gor/GR_GK_008_cc.jpg
+
+newmtl slot602
+map_Kd packages/gor/GR_GK_009_cc.jpg
+
+newmtl slot603
+map_Kd packages/gor/GR_GK_010_cc.jpg
+
+newmtl slot607
+map_Kd packages/gor/ST_GK_003_cc.jpg
+
+newmtl slot618
+map_Kd packages/gor/WT_GK_002_cc.jpg
+
+newmtl slot633
+map_Kd packages/gor/ST_GK_011_cc.jpg
+
+newmtl slot637
+map_Kd packages/gor/WT_GK_012_cc.jpg
+
+newmtl slot642
+map_Kd packages/gor/WT_GK_017_cc.jpg
+
+newmtl slot652
+map_Kd packages/aftas/piso2.jpg
+
+newmtl slot700
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot701
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot734
+map_Kd packages/mitaman/mm-grassdead42.jpg
+
+newmtl slot737
+map_Kd packages/noctua/planks01.jpg
+
+newmtl slot738
+map_Kd packages/noctua/planks01.jpg
+
+newmtl slot753
+map_Kd packages/painkillah/pk_arlequin_brown_cc.jpg
+
+newmtl slot771
+map_Kd packages/textures/nieb/concrete-tan.jpg
+
+newmtl slot801
+map_Kd packages/textures/nieb/stone1b.jpg
+
+newmtl slot802
+map_Kd packages/textures/nieb/stone2.jpg
+
+newmtl slot803
+map_Kd packages/textures/nieb/stone3.jpg
+
+newmtl slot951
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot996
+map_Kd packages/textures/medieval_soc/wood_browndark.jpg
+
+newmtl slot1029
+map_Kd packages/gor/GR_GK_010_cc.jpg
+
+newmtl slot1030
+map_Kd packages/ik2k/ik_brick_trimh32a.jpg
+
+newmtl slot1031
+map_Kd packages/textures/nieb/stone2.jpg
+
+newmtl slot1032
+map_Kd packages/ik2k/ik_brick_trimh32a.jpg
+
+newmtl slot1033
+map_Kd packages/aard/aardograss_1.jpg
+
+newmtl slot1034
+map_Kd packages/gor/ST_GK_003_cc.jpg
+
+newmtl slot1035
+map_Kd packages/egyptsoc/wood17.jpg
+
+newmtl slot1036
+map_Kd packages/aard/aardograss_1.jpg
+
+newmtl slot1040
+map_Kd packages/egyptsoc/wood17.jpg
+
+newmtl slot1041
+map_Kd packages/textures/nieb/stone2.jpg
+
+newmtl slot1042
+map_Kd packages/ik2k/ik_brick_6432a.jpg
+
+newmtl slot1043
+map_Kd packages/ik2k/ik_brick_6432a.jpg
+
+newmtl slot1045
+map_Kd packages/ik2k/ik_brick_12864a.jpg
+
+newmtl slot1047
+map_Kd packages/gor/GR_GK_007_cc.jpg
+
+newmtl slot1053
+map_Kd packages/textures/nieb/stone2.jpg
+
+newmtl slot1054
+map_Kd packages/gor/GR_GK_007_cc.jpg
+

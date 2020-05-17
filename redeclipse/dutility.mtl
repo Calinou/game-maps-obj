@@ -1,0 +1,83 @@
+# mtl file of map
+
+newmtl slot11
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot13
+map_Kd data/trak/trak5/base1c.jpg
+
+newmtl slot14
+map_Kd data/trak/trak5/holes1a.jpg
+
+newmtl slot15
+map_Kd data/trak/trak5/base1b.jpg
+
+newmtl slot16
+map_Kd textures/blank
+
+newmtl slot17
+map_Kd textures/blank
+
+newmtl slot18
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot19
+map_Kd data/trak/trak6/pipe2.jpg
+
+newmtl slot20
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot21
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot22
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot23
+map_Kd data/trak/trak6/pipe2.jpg
+
+newmtl slot24
+map_Kd data/appleflap/danger.jpg
+
+newmtl slot25
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot26
+map_Kd data/trak/trak5/base1b.jpg
+
+newmtl slot27
+map_Kd data/trak/trak6/pipe2.jpg
+
+newmtl slot28
+map_Kd data/trak/trak6/pipe2.jpg
+
+newmtl slot29
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot30
+map_Kd data/jojo/ladder01.png
+
+newmtl slot31
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot32
+map_Kd data/trak/trak6/pipe2.jpg
+
+newmtl slot33
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot34
+map_Kd data/trak/trak6/pipe2.jpg
+
+newmtl slot35
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot36
+map_Kd data/trak/trak6/pipe2.jpg
+
+newmtl slot37
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot38
+map_Kd data/luckystrike/barlight.jpg
+

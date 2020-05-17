@@ -1,0 +1,59 @@
+# mtl file of Cube 2 level
+
+newmtl slot3
+map_Kd packages/rorschach/128_tar_metflr01.jpg
+
+newmtl slot4
+map_Kd packages/rorschach/1r_clocktrim01.jpg
+
+newmtl slot5
+map_Kd packages/rorschach/1r_clocktrim03b.jpg
+
+newmtl slot8
+map_Kd packages/rorschach/1r_grill02.jpg
+
+newmtl slot13
+map_Kd packages/rorschach/1r_metwl01.jpg
+
+newmtl slot14
+map_Kd packages/rorschach/1r_plain_met02.jpg
+
+newmtl slot18
+map_Kd packages/rorschach/1r_thickpan03.jpg
+
+newmtl slot19
+map_Kd packages/rorschach/1_concrete01.jpg
+
+newmtl slot35
+map_Kd packages/rorschach/2_256_red_thin02.jpg
+
+newmtl slot45
+map_Kd packages/rorschach/2_floor02.jpg
+
+newmtl slot58
+map_Kd packages/rorschach/3r_plaster02.jpg
+
+newmtl slot59
+map_Kd packages/rorschach/4_conc_floor01.jpg
+
+newmtl slot65
+map_Kd packages/rorschach/5_light01b.jpg
+
+newmtl slot136
+map_Kd packages/ikbase/ik_floor_met64e.jpg
+
+newmtl slot140
+map_Kd packages/ikbase/ik_gtrimh_64b.jpg
+
+newmtl slot141
+map_Kd packages/ikbase/ik_gtrimh_lit1a.jpg
+
+newmtl slot142
+map_Kd packages/ikbase/ik_gtrimv_64b.jpg
+
+newmtl slot143
+map_Kd packages/ikbase/ik_gtrimv_lit1a.jpg
+
+newmtl slot154
+map_Kd packages/ikbase/ik_wtrimh_32a.jpg
+

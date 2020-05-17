@@ -1,0 +1,16 @@
+cyanide-tesseract by Molexted and unixfreak
+
+This is a derivative of the original map Cyanide for Cube 2, ported to Tesseract with some modifications to geometry and texturing.
+There have also been small modifications to accomodate the physics of Red Eclipse 2, with different clipping and obstacle placement.
+
+It is likewise licensed CC-BY-SA v3.0.
+
+*** Original License Text ***
+
+This work, "Cyanide", is created by Ricky Thomson "unixfreak" <punkalert@gmail.com>
+
+It is licensed under the Creative Commons Attribution ShareAlike (CC-BY-SA)
+Unported License version 3.0
+
+To view a copy of this license, read "cc-by-sa.txt" or visit
+<http://creativecommons.org/licenses/by-sa/3.0/>

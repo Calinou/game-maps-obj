@@ -1,0 +1,56 @@
+# mtl file of Cube 2 level
+
+newmtl slot2
+map_Kd packages/rorschach/128_ivbr_trim02.jpg
+
+newmtl slot3
+map_Kd packages/rorschach/128_tar_metflr01.jpg
+
+newmtl slot4
+map_Kd packages/rorschach/1r_clocktrim01.jpg
+
+newmtl slot5
+map_Kd packages/rorschach/1r_clocktrim03b.jpg
+
+newmtl slot6
+map_Kd packages/rorschach/1r_column01.jpg
+
+newmtl slot7
+map_Kd packages/rorschach/1r_floor02.jpg
+
+newmtl slot9
+map_Kd packages/rorschach/1r_light01.jpg
+
+newmtl slot14
+map_Kd packages/rorschach/1r_plain_met02.jpg
+
+newmtl slot15
+map_Kd packages/rorschach/1r_squ_pan03.jpg
+
+newmtl slot19
+map_Kd packages/rorschach/1_concrete01.jpg
+
+newmtl slot21
+map_Kd packages/rorschach/1_rust_grill02.jpg
+
+newmtl slot24
+map_Kd packages/rorschach/1_th_trim01.jpg
+
+newmtl slot51
+map_Kd packages/rorschach/3i_crust.jpg
+
+newmtl slot54
+map_Kd packages/rorschach/3r_colrust01b.jpg
+
+newmtl slot58
+map_Kd packages/rorschach/3r_plaster02.jpg
+
+newmtl slot59
+map_Kd packages/rorschach/4_conc_floor01.jpg
+
+newmtl slot61
+map_Kd packages/rorschach/4_met05b.jpg
+
+newmtl slot72
+map_Kd packages/rorschach/hh3_m_light01.jpg
+

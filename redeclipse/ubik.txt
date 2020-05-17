@@ -1,0 +1,2 @@
+Originally by LuckyStrike-Rx
+Ported to Red Eclipse 2.0+ by Ricky "unixfreak" Thomson

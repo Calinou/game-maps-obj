@@ -1,0 +1,764 @@
+# mtl file of map
+
+newmtl slot3
+map_Kd data/appleflap/danger.jpg
+
+newmtl slot7
+map_Kd data/jojo/map.png
+
+newmtl slot8
+map_Kd data/jojo/interface01.png
+
+newmtl slot13
+map_Kd data/jojo/windowstile04.png
+
+newmtl slot17
+map_Kd data/trak/trak5/base1b.jpg
+
+newmtl slot19
+map_Kd data/trak/trak5/panel2a.jpg
+
+newmtl slot20
+map_Kd data/trak/trak5/holes1a.jpg
+
+newmtl slot21
+map_Kd data/trak/trak5/holes1b.jpg
+
+newmtl slot23
+map_Kd data/trak/trak5/vertpanel1e.jpg
+
+newmtl slot24
+map_Kd data/trak/trak5/wall7a.jpg
+
+newmtl slot25
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot26
+map_Kd data/trak/trak6/light1.jpg
+
+newmtl slot27
+map_Kd data/trak/trak6/pipe2.jpg
+
+newmtl slot29
+map_Kd data/trak/trak7/treadplate1.png
+
+newmtl slot30
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot32
+map_Kd data/luckystrike/conc02.jpg
+
+newmtl slot33
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot34
+map_Kd data/luckystrike/paris_roof.jpg
+
+newmtl slot35
+map_Kd data/luckystrike/conc.jpg
+
+newmtl slot39
+map_Kd data/misc/agf81/concrete1_diffuse.png
+
+newmtl slot40
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot41
+map_Kd data/misc/agf81/concrete4_diffuse.png
+
+newmtl slot43
+map_Kd data/misc/doortile.jpg
+
+newmtl slot45
+map_Kd data/nieb/complex/step01.png
+
+newmtl slot46
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot47
+map_Kd data/nieb/complex/tile02.png
+
+newmtl slot48
+map_Kd data/nieb/complex/wall01.png
+
+newmtl slot49
+map_Kd data/nobiax/textures/139/diffuse.png
+
+newmtl slot50
+map_Kd data/philipk/pk01/vent_wall03_d.png
+
+newmtl slot51
+map_Kd data/philipk/pk02/light02c_c.png
+
+newmtl slot52
+map_Kd data/philipk/pk02/light03_c.png
+
+newmtl slot53
+map_Kd data/philipk/pk02/pipes01_c.png
+
+newmtl slot54
+map_Kd data/philipk/pk02/switches01b_c.png
+
+newmtl slot55
+map_Kd data/philipk/pk02/switches01c_c.png
+
+newmtl slot56
+map_Kd data/philipk/pk02/floor01_c.png
+
+newmtl slot57
+map_Kd data/philipk/pk02/floor02_c.png
+
+newmtl slot58
+map_Kd data/philipk/pk02/floor03_c.png
+
+newmtl slot59
+map_Kd data/philipk/pk02/floor05_c.png
+
+newmtl slot60
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot63
+map_Kd data/philipk/pk02/wall_big01b_c.png
+
+newmtl slot68
+map_Kd data/torley/desat/wereheroes.png
+
+newmtl slot71
+map_Kd data/unnamed/unnamedbarlight.png
+
+newmtl slot73
+map_Kd data/unnamed/unnamedpipes01.png
+
+newmtl slot76
+map_Kd data/unnamed/wall01-f.png
+
+newmtl slot84
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot85
+map_Kd data/philipk/pk02/sand01_c.png
+
+newmtl slot86
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot87
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot88
+map_Kd data/jojo/windowstile03lit.png
+
+newmtl slot89
+map_Kd data/jojo/windowstile03lit.png
+
+newmtl slot90
+map_Kd data/torley/desat/mottledcrew.png
+
+newmtl slot91
+map_Kd data/trak/trak6/trim2.jpg
+
+newmtl slot92
+map_Kd data/misc/panel_blank.png
+
+newmtl slot93
+map_Kd data/unnamed/rust01.png
+
+newmtl slot94
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot95
+map_Kd data/luckystrike/paris_roof.jpg
+
+newmtl slot96
+map_Kd data/luckystrike/paris_roof.jpg
+
+newmtl slot97
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot98
+map_Kd data/dziq/metal_rusty01a.jpg
+
+newmtl slot99
+map_Kd data/trak/trak6/trim2.jpg
+
+newmtl slot100
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot101
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot102
+map_Kd data/dziq/old_airbricks.png
+
+newmtl slot103
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot104
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot106
+map_Kd data/torley/desat/secretorganics.png
+
+newmtl slot107
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot108
+map_Kd data/luckystrike/paris_roof.jpg
+
+newmtl slot109
+map_Kd data/philipk/pk02/sand01_c.png
+
+newmtl slot110
+map_Kd data/luckystrike/asphalt_01.jpg
+
+newmtl slot111
+map_Kd data/dziq/old_airbricks.png
+
+newmtl slot112
+map_Kd data/misc/doortile.jpg
+
+newmtl slot113
+map_Kd data/nobiax/textures/139/diffuse.png
+
+newmtl slot114
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot115
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot116
+map_Kd data/jojo/interface01.png
+
+newmtl slot117
+map_Kd data/unnamed/unnamedlight04.png
+
+newmtl slot118
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot119
+map_Kd data/unnamed/unnamedlight05c.png
+
+newmtl slot120
+map_Kd data/luckystrike/paris_roof.jpg
+
+newmtl slot121
+map_Kd data/misc/agf81/concrete1_diffuse.png
+
+newmtl slot122
+map_Kd data/unnamed/unnamedbarlight.png
+
+newmtl slot123
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot124
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot125
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot126
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot127
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot128
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot129
+map_Kd data/jojo/windowstile03.png
+
+newmtl slot130
+map_Kd data/philipk/pk02/floor03_c.png
+
+newmtl slot131
+map_Kd data/philipk/pk02/trim02_c.png
+
+newmtl slot132
+map_Kd data/philipk/pk02/trim02_c.png
+
+newmtl slot133
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot134
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot135
+map_Kd data/dziq/old_airbricks.png
+
+newmtl slot136
+map_Kd data/luckystrike/barlight_end.jpg
+
+newmtl slot137
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot138
+map_Kd data/luckystrike/barlight_end.jpg
+
+newmtl slot139
+map_Kd data/misc/doortile.jpg
+
+newmtl slot140
+map_Kd data/jojo/windowstile03lit.png
+
+newmtl slot141
+map_Kd data/jojo/windowstile03lit.png
+
+newmtl slot142
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot143
+map_Kd data/jojo/concrete03.png
+
+newmtl slot144
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot145
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot146
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot147
+map_Kd data/misc/agf81/concrete1_diffuse.png
+
+newmtl slot148
+map_Kd data/misc/agf81/concrete5_diffuse.png
+
+newmtl slot149
+map_Kd data/unnamed/wall01-c.png
+
+newmtl slot150
+map_Kd data/trak/trak5/base1b.jpg
+
+newmtl slot151
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot152
+map_Kd data/jojo/interface01.png
+
+newmtl slot153
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot154
+map_Kd data/acerspyro/light2/light2.png
+
+newmtl slot155
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot156
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot157
+map_Kd data/misc/doortile.jpg
+
+newmtl slot158
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot159
+map_Kd data/trak/trak5/panel2a.jpg
+
+newmtl slot160
+map_Kd data/trak/trak5/panel2a.jpg
+
+newmtl slot161
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot162
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot163
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot164
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot165
+map_Kd data/trak/trak6/trim2.jpg
+
+newmtl slot166
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot167
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot168
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot169
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot170
+map_Kd data/jojo/interface03.png
+
+newmtl slot171
+map_Kd data/philipk/pk02/trim02_c.png
+
+newmtl slot172
+map_Kd data/trak/trak5/panel2a.jpg
+
+newmtl slot173
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot174
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot175
+map_Kd data/dziq/old_airbricks.png
+
+newmtl slot176
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot177
+map_Kd data/dziq/old_airbricks.png
+
+newmtl slot178
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot179
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot180
+map_Kd data/philipk/pk02/pipes01_c.png
+
+newmtl slot181
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot182
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot183
+map_Kd data/jojo/logo01.png
+
+newmtl slot184
+map_Kd data/jojo/logo01.png
+
+newmtl slot185
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot186
+map_Kd data/unnamed/wall01-f.png
+
+newmtl slot187
+map_Kd data/jojo/interface03.png
+
+newmtl slot189
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot190
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot191
+map_Kd data/trak/trak6/light1.jpg
+
+newmtl slot192
+map_Kd data/misc/panel_blank.png
+
+newmtl slot193
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot194
+map_Kd data/unnamed/panel04-a.png
+
+newmtl slot195
+map_Kd data/philipk/pk02/switches01b_c.png
+
+newmtl slot196
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot197
+map_Kd data/philipk/pk02/switches01c_c.png
+
+newmtl slot198
+map_Kd data/jojo/interface03.png
+
+newmtl slot199
+map_Kd data/trak/trak5/panel2a.jpg
+
+newmtl slot200
+map_Kd data/trak/trak5/panel2a.jpg
+
+newmtl slot201
+map_Kd data/trak/trak5/panel2a.jpg
+
+newmtl slot202
+map_Kd data/jojo/logo01.png
+
+newmtl slot203
+map_Kd data/trak/trak5/ceil1a.jpg
+
+newmtl slot204
+map_Kd data/trak/trak6/grate2.jpg
+
+newmtl slot205
+map_Kd data/unnamed/panel04-a.png
+
+newmtl slot206
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot207
+map_Kd data/philipk/pk02/floor05_c.png
+
+newmtl slot208
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot209
+map_Kd data/misc/agf81/concrete5_diffuse.png
+
+newmtl slot210
+map_Kd data/luckystrike/barlight_end.jpg
+
+newmtl slot211
+map_Kd data/luckystrike/barlight_end.jpg
+
+newmtl slot212
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot213
+map_Kd data/jojo/interface03.png
+
+newmtl slot215
+map_Kd data/jojo/interface03.png
+
+newmtl slot216
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot217
+map_Kd data/trak/trak5/pipez1a.jpg
+
+newmtl slot218
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot219
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot220
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot222
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot223
+map_Kd data/jojo/interface03.png
+
+newmtl slot224
+map_Kd data/misc/unixfreak/edge/textures/ledbanner3.png
+
+newmtl slot225
+map_Kd data/textures/edit/edit_1.png
+
+newmtl slot226
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot227
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot228
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot229
+map_Kd data/trak/trak5/ceil1a.jpg
+
+newmtl slot230
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot231
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot232
+map_Kd data/unnamed/unnamedlight05c.png
+
+newmtl slot234
+map_Kd data/jojo/interface03.png
+
+newmtl slot235
+map_Kd data/jojo/windowstile03lit.png
+
+newmtl slot236
+map_Kd data/jojo/windowstile03lit.png
+
+newmtl slot237
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot238
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot239
+map_Kd data/luckystrike/pub2.jpg
+
+newmtl slot241
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot242
+map_Kd data/jojo/windowstile03lit.png
+
+newmtl slot243
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot244
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot245
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot246
+map_Kd data/jojo/windowstile03.png
+
+newmtl slot247
+map_Kd data/trak/trak5/ceil1a.jpg
+
+newmtl slot248
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot249
+map_Kd data/misc/unixfreak/edge/textures/ledbanner2.png
+
+newmtl slot250
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot251
+map_Kd data/dziq/old_airbricks.png
+
+newmtl slot252
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot253
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot255
+map_Kd data/unnamed/unnamedbarlight.png
+
+newmtl slot256
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot257
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot258
+map_Kd data/trak/trak5/base1b.jpg
+
+newmtl slot259
+map_Kd data/trak/trak5/ceil1a.jpg
+
+newmtl slot260
+map_Kd data/philipk/pk02/floor01_c.png
+
+newmtl slot262
+map_Kd data/appleflap/applequote.jpg
+
+newmtl slot263
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot264
+map_Kd data/luckystrike/pub2.jpg
+
+newmtl slot265
+map_Kd data/trak/trak5/ceil1a.jpg
+
+newmtl slot266
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot267
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot268
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot269
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot270
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot271
+map_Kd data/jojo/windowstile02.png
+
+newmtl slot272
+map_Kd data/jojo/windowstile02.png
+
+newmtl slot273
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot274
+map_Kd data/textures/edit/edit_1.png
+
+newmtl slot275
+map_Kd data/luckystrike/paris_roof.jpg
+
+newmtl slot277
+map_Kd data/luckystrike/pub2.jpg
+
+newmtl slot278
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot279
+map_Kd data/jojo/interface03.png
+
+newmtl slot280
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot282
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot284
+map_Kd data/luckystrike/pub2.jpg
+
+newmtl slot285
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot286
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot287
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot288
+map_Kd data/trak/trak6/light1.jpg
+
+newmtl slot289
+map_Kd data/unnamed/unnamedpipes01.png
+
+newmtl slot290
+map_Kd data/dziq/old_airbricks.png
+
+newmtl slot291
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot292
+map_Kd data/misc/unixfreak/edge/textures/ledbanner.png
+
+newmtl slot293
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot294
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot295
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot296
+map_Kd data/trak/trak5/base1b.jpg
+
+newmtl slot297
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot298
+map_Kd data/jojo/windowstile03.png
+
+newmtl slot299
+map_Kd data/unnamed/unnamedpipes01.png
+
+newmtl slot300
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot301
+map_Kd data/jojo/windowstile03lit.png
+
+newmtl slot302
+map_Kd data/misc/agf81/concrete3_diffuse.png
+
+newmtl slot303
+map_Kd data/trak/trak7/wallplain1.png
+
+newmtl slot305
+map_Kd data/luckystrike/pub3.jpg
+

@@ -1,0 +1,212 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/subverse/stone_path.jpg
+
+newmtl slot2
+map_Kd packages/kurt/logwall01_d.jpg
+
+newmtl slot3
+map_Kd packages/kurt/logwall01_d.jpg
+
+newmtl slot4
+map_Kd packages/kurt/logwall02_d.jpg
+
+newmtl slot5
+map_Kd packages/aftas/detalhe1.jpg
+
+newmtl slot6
+map_Kd packages/blindabuser/ba_grass_cc.jpg
+
+newmtl slot7
+map_Kd packages/blindabuser/ba_base_dirt_cc.jpg
+
+newmtl slot10
+map_Kd packages/blindabuser/ba_wood_cc.jpg
+
+newmtl slot11
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot12
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot13
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot14
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot15
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot16
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot17
+map_Kd packages/gor/MEB_GK_001_cc.jpg
+
+newmtl slot18
+map_Kd packages/gor/MEB_GK_001_cc.jpg
+
+newmtl slot19
+map_Kd packages/gor/ST_GK_005_zu_001_cc.jpg
+
+newmtl slot20
+map_Kd packages/gor/WTA_GK_002_cc.jpg
+
+newmtl slot21
+map_Kd packages/g_pack/g-concrete05.jpg
+
+newmtl slot22
+map_Kd packages/loopix/cobbst2.jpg
+
+newmtl slot23
+map_Kd packages/mitaman/mm-concretetrim07a.jpg
+
+newmtl slot24
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot25
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot26
+map_Kd packages/gor/WTA_GK_005_cc.jpg
+
+newmtl slot27
+map_Kd packages/gor/GR_GK_007_cc.jpg
+
+newmtl slot28
+map_Kd packages/gor/WT_GK_007_cc.jpg
+
+newmtl slot29
+map_Kd packages/gor/WT_GK_009_cc.jpg
+
+newmtl slot30
+map_Kd packages/gor/WT_GK_012_cc.jpg
+
+newmtl slot31
+map_Kd packages/gor/WT_GK_005_cc.jpg
+
+newmtl slot32
+map_Kd packages/gor/WT_GK_005_cc.jpg
+
+newmtl slot33
+map_Kd packages/gor/WT_GK_005_cc.jpg
+
+newmtl slot34
+map_Kd packages/gor/WT_GK_005_cc.jpg
+
+newmtl slot35
+map_Kd packages/gor/WT_GK_008_cc.jpg
+
+newmtl slot36
+map_Kd packages/lunaran/panel64_2a_d.jpg
+
+newmtl slot37
+map_Kd packages/lunaran/panel64_2a_d.jpg
+
+newmtl slot40
+map_Kd packages/aftas/tabua.jpg
+
+newmtl slot41
+map_Kd packages/aftas/tabua.jpg
+
+newmtl slot42
+map_Kd packages/aftas/piso3.jpg
+
+newmtl slot43
+map_Kd packages/aftas/piso5.jpg
+
+newmtl slot44
+map_Kd packages/rorschach/1_concrete01.jpg
+
+newmtl slot45
+map_Kd packages/aftas/par9.jpg
+
+newmtl slot46
+map_Kd packages/rorschach/4_conc_floor01.jpg
+
+newmtl slot48
+map_Kd packages/mitaman/mm-brickold88a.jpg
+
+newmtl slot49
+map_Kd packages/evil_textures/e7brickfloor01.jpg
+
+newmtl slot50
+map_Kd packages/evil_textures/e7bricks01.jpg
+
+newmtl slot51
+map_Kd packages/evil_textures/e7swindow.jpg
+
+newmtl slot53
+map_Kd packages/painkillah/pk_arabic_rosetonB_cc.jpg
+
+newmtl slot56
+map_Kd packages/painkillah/pk_arlequin_blue_cc.jpg
+
+newmtl slot57
+map_Kd packages/painkillah/pk_arlequin_brown_cc.jpg
+
+newmtl slot58
+map_Kd packages/painkillah/pk_arlequin_cc.jpg
+
+newmtl slot65
+map_Kd packages/mitaman/mm-brick13.jpg
+
+newmtl slot66
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot67
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot68
+map_Kd packages/mitaman/mm-border24.jpg
+
+newmtl slot69
+map_Kd packages/mitaman/mm-brick56.jpg
+
+newmtl slot71
+map_Kd packages/mitaman/mm-woodshutter.jpg
+
+newmtl slot72
+map_Kd packages/mitaman/mm-tile38.jpg
+
+newmtl slot73
+map_Kd packages/dg/mad067.jpg
+
+newmtl slot76
+map_Kd packages/gor/WTA_GK_001_cc.jpg
+
+newmtl slot77
+map_Kd packages/gor/WT_GK_003_cc.jpg
+
+newmtl slot78
+map_Kd packages/gor/WT_GK_004_cc.jpg
+
+newmtl slot79
+map_Kd packages/gor/WT_GK_006_cc.jpg
+
+newmtl slot80
+map_Kd packages/blindabuser/ba_rooftile_cc.jpg
+
+newmtl slot81
+map_Kd packages/blindabuser/ba_rooftile_cc.jpg
+
+newmtl slot82
+map_Kd packages/blindabuser/ba_rooftile_cc.jpg
+
+newmtl slot83
+map_Kd packages/blindabuser/ba_rooftile_cc.jpg
+
+newmtl slot84
+map_Kd packages/rorschach/5_slabfloor.jpg
+
+newmtl slot85
+map_Kd packages/blindabuser/ba_base_dirt_cc.jpg
+
+newmtl slot1027
+map_Kd packages/textures/notexture.png
+
+newmtl slot1028
+map_Kd packages/painkillah/pk_arabic_rosetonB_cc.jpg
+

@@ -1,0 +1,8 @@
+Echo to the Future by dc
+
+This is a derivative of the original map Echo for Cube 2 made by JoJo, W!CK3D and Ulukai, This map is ported to Tesseract with some modifications to geometry and texturing.
+There have also been small modifications to accomodate the physics of Red Eclipse 2, with different clipping and obstacle placement.
+
+This work by "dc" is licensed under the Creative Commons 
+Attribution-ShareAlike 4.0 International License. To view a copy 
+of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.

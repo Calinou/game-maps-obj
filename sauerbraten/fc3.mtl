@@ -1,0 +1,83 @@
+# mtl file of Cube 2 level
+
+newmtl slot2
+map_Kd packages/aard/aardograss_1.jpg
+
+newmtl slot3
+map_Kd packages/dg/mad064.jpg
+
+newmtl slot4
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot5
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot6
+map_Kd packages/dg/mad067.jpg
+
+newmtl slot8
+map_Kd packages/dg/floor_grass1.jpg
+
+newmtl slot9
+map_Kd packages/dg/floor_grass3&soil.jpg
+
+newmtl slot19
+map_Kd packages/dg/floor_paving_littleStones3.jpg
+
+newmtl slot23
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot31
+map_Kd packages/dg/muv158.jpg
+
+newmtl slot34
+map_Kd packages/dg/sue011.jpg
+
+newmtl slot40
+map_Kd packages/dg/mur043.jpg
+
+newmtl slot54
+map_Kd packages/dg/mur088.jpg
+
+newmtl slot55
+map_Kd packages/dg/mur109.jpg
+
+newmtl slot58
+map_Kd packages/dg/mur139.jpg
+
+newmtl slot59
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot62
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot63
+map_Kd packages/dg/muv030.jpg
+
+newmtl slot64
+map_Kd packages/dg/muv032.jpg
+
+newmtl slot65
+map_Kd packages/dg/mur000.jpg
+
+newmtl slot67
+map_Kd packages/dg/mad051.jpg
+
+newmtl slot68
+map_Kd packages/dg/muv025.jpg
+
+newmtl slot71
+map_Kd packages/dg/trail.jpg
+
+newmtl slot95
+map_Kd packages/ik2k/ik_wpaperplain128b.jpg
+
+newmtl slot96
+map_Kd packages/ik2k/ik_wpaperplain128c.jpg
+
+newmtl slot98
+map_Kd packages/ik2k/ik_wpaperplain128e.jpg
+
+newmtl slot99
+map_Kd packages/dg/trail.jpg
+

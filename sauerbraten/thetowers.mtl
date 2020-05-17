@@ -1,0 +1,167 @@
+# mtl file of Cube 2 level
+
+newmtl slot2
+map_Kd packages/rorschach/128_ivbr_trim02.jpg
+
+newmtl slot3
+map_Kd packages/rorschach/128_tar_metflr01.jpg
+
+newmtl slot4
+map_Kd packages/rorschach/1r_clocktrim01.jpg
+
+newmtl slot5
+map_Kd packages/rorschach/1r_clocktrim03b.jpg
+
+newmtl slot6
+map_Kd packages/rorschach/1r_column01.jpg
+
+newmtl slot7
+map_Kd packages/rorschach/1r_floor02.jpg
+
+newmtl slot8
+map_Kd packages/rorschach/1r_grill02.jpg
+
+newmtl slot11
+map_Kd packages/rorschach/1r_metpan05.jpg
+
+newmtl slot13
+map_Kd packages/rorschach/1r_metwl01.jpg
+
+newmtl slot14
+map_Kd packages/rorschach/1r_plain_met02.jpg
+
+newmtl slot15
+map_Kd packages/rorschach/1r_squ_pan03.jpg
+
+newmtl slot18
+map_Kd packages/rorschach/1r_thickpan03.jpg
+
+newmtl slot19
+map_Kd packages/rorschach/1_concrete01.jpg
+
+newmtl slot20
+map_Kd packages/rorschach/1_rust_grill01.jpg
+
+newmtl slot22
+map_Kd packages/rorschach/1_rust_grill02b.jpg
+
+newmtl slot24
+map_Kd packages/rorschach/1_th_trim01.jpg
+
+newmtl slot26
+map_Kd packages/rorschach/256_gate_rock07.jpg
+
+newmtl slot30
+map_Kd packages/rorschach/256_tar_ccolumn01.jpg
+
+newmtl slot31
+map_Kd packages/rorschach/2r_plaster_floor01.jpg
+
+newmtl slot32
+map_Kd packages/rorschach/2_064_red_girder02.jpg
+
+newmtl slot33
+map_Kd packages/rorschach/2_128_redpan02.jpg
+
+newmtl slot34
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot36
+map_Kd packages/rorschach/2_256_red_thin03.jpg
+
+newmtl slot37
+map_Kd packages/rorschach/2_32_red_thin02.jpg
+
+newmtl slot39
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot40
+map_Kd packages/rorschach/2_conc_l01.jpg
+
+newmtl slot41
+map_Kd packages/rorschach/2_conc_wall02.jpg
+
+newmtl slot44
+map_Kd packages/rorschach/2_c_tiles01.jpg
+
+newmtl slot45
+map_Kd packages/rorschach/2_floor02.jpg
+
+newmtl slot46
+map_Kd packages/rorschach/2_largemet03.jpg
+
+newmtl slot47
+map_Kd packages/rorschach/2_redtrim03.jpg
+
+newmtl slot48
+map_Kd packages/rorschach/2_red_floorr01.jpg
+
+newmtl slot51
+map_Kd packages/rorschach/3i_crust.jpg
+
+newmtl slot53
+map_Kd packages/rorschach/3m_metflr_tiles.jpg
+
+newmtl slot55
+map_Kd packages/rorschach/3r_light01b.jpg
+
+newmtl slot56
+map_Kd packages/rorschach/3r_lighthh01b.jpg
+
+newmtl slot58
+map_Kd packages/rorschach/3r_plaster02.jpg
+
+newmtl slot59
+map_Kd packages/rorschach/4_conc_floor01.jpg
+
+newmtl slot60
+map_Kd packages/rorschach/4_met01.jpg
+
+newmtl slot63
+map_Kd packages/rorschach/5_bricks01.jpg
+
+newmtl slot64
+map_Kd packages/rorschach/5_faces.jpg
+
+newmtl slot65
+map_Kd packages/rorschach/5_light01b.jpg
+
+newmtl slot67
+map_Kd packages/rorschach/5_trim02.jpg
+
+newmtl slot70
+map_Kd packages/rorschach/hh3_mw_light01.jpg
+
+newmtl slot72
+map_Kd packages/rorschach/hh3_m_light01.jpg
+
+newmtl slot74
+map_Kd packages/rorschach/j128_brick01.jpg
+
+newmtl slot75
+map_Kd packages/rorschach/j128_item.jpg
+
+newmtl slot76
+map_Kd packages/rorschach/j128_metpan01.jpg
+
+newmtl slot77
+map_Kd packages/rorschach/j128_metpan05.jpg
+
+newmtl slot78
+map_Kd packages/rorschach/j256_cobl01.jpg
+
+newmtl slot88
+map_Kd packages/subverse/metal_siding_kinks.jpg
+
+newmtl slot141
+map_Kd packages/ikbase/ik_gtrimh_lit1a.jpg
+
+newmtl slot143
+map_Kd packages/ikbase/ik_gtrimv_lit1a.jpg
+
+newmtl slot148
+map_Kd packages/ikbase/ik_htrimh_64c.jpg
+
+newmtl slot151
+map_Kd packages/ikbase/ik_htrimv_64c.jpg
+

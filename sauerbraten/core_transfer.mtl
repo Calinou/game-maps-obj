@@ -1,0 +1,203 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/blikjebier/concrete/concrete_002.jpg
+
+newmtl slot4
+map_Kd packages/blikjebier/concrete/concrete_008.jpg
+
+newmtl slot5
+map_Kd packages/blikjebier/concrete/concrete_009.jpg
+
+newmtl slot6
+map_Kd packages/blikjebier/metal/metal_006.jpg
+
+newmtl slot7
+map_Kd packages/blindabuser/ba_grass_cc.jpg
+
+newmtl slot8
+map_Kd packages/blindabuser/ba_base_dirt_cc.jpg
+
+newmtl slot9
+map_Kd packages/philipk/pk01_gra_floor02_d.jpg
+
+newmtl slot11
+map_Kd packages/lunaran/panel64_6_d.jpg
+
+newmtl slot12
+map_Kd packages/lunaran/support1_d.jpg
+
+newmtl slot14
+map_Kd packages/lunaran/qcomp1_d.jpg
+
+newmtl slot15
+map_Kd packages/g_pack/g-metfloor7b.jpg
+
+newmtl slot16
+map_Kd packages/g_pack/g-concrete05.jpg
+
+newmtl slot17
+map_Kd packages/gor/WT_GK_013_cc.jpg
+
+newmtl slot18
+map_Kd packages/gor/ST_GK_009_cc.jpg
+
+newmtl slot19
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot20
+map_Kd packages/lunaran/glue2_d.jpg
+
+newmtl slot21
+map_Kd packages/lunaran/grate1_d.jpg
+
+newmtl slot22
+map_Kd packages/lunaran/light_fifty1_d.jpg
+
+newmtl slot23
+map_Kd packages/lunaran/light_fifty1_d.jpg
+
+newmtl slot24
+map_Kd packages/lunaran/light_fifty2_d.jpg
+
+newmtl slot25
+map_Kd packages/lunaran/light_fifty2_d.jpg
+
+newmtl slot26
+map_Kd packages/lunaran/light_fifty_d.jpg
+
+newmtl slot28
+map_Kd packages/lunaran/light_flouro0a_d.jpg
+
+newmtl slot29
+map_Kd packages/lunaran/light_flouro0_d.jpg
+
+newmtl slot30
+map_Kd packages/lunaran/light_flouro0_d.jpg
+
+newmtl slot31
+map_Kd packages/lunaran/pwpip1_d.jpg
+
+newmtl slot32
+map_Kd packages/lunaran/pwpip1_d.jpg
+
+newmtl slot34
+map_Kd packages/lunaran/wires1_d.jpg
+
+newmtl slot35
+map_Kd packages/philipk/pk01_gra_floor01_d.jpg
+
+newmtl slot37
+map_Kd packages/philipk/pk01_pan_floor02b_d.jpg
+
+newmtl slot39
+map_Kd packages/philipk/pk01_pan_wall02a2_d.jpg
+
+newmtl slot40
+map_Kd packages/philipk/pk01_pan_wall02b2_d.jpg
+
+newmtl slot41
+map_Kd packages/philipk/pk01_pan_wall02b2_d.jpg
+
+newmtl slot42
+map_Kd packages/philipk/pk01_roof01_d.jpg
+
+newmtl slot44
+map_Kd packages/philipk/pk01_thin_wall02b_d.jpg
+
+newmtl slot45
+map_Kd packages/philipk/pk01_tile_floor01a_d.jpg
+
+newmtl slot46
+map_Kd packages/philipk/pk01_tile_floor01b_d.jpg
+
+newmtl slot47
+map_Kd packages/philipk/pk01_vent_wall01b_d.jpg
+
+newmtl slot48
+map_Kd packages/philipk/pk01_vent_wall03_d.jpg
+
+newmtl slot49
+map_Kd packages/philipk/pk01_wall03a_d.jpg
+
+newmtl slot50
+map_Kd packages/philipk/pk01_wall03b_d.jpg
+
+newmtl slot51
+map_Kd packages/philipk/pk01_panel03a_d.jpg
+
+newmtl slot52
+map_Kd packages/philipk/pk01_panel03b_d.jpg
+
+newmtl slot53
+map_Kd packages/philipk/pk01_panel_small01_d.jpg
+
+newmtl slot54
+map_Kd packages/philipk/pk01_panel_small02_d.jpg
+
+newmtl slot56
+map_Kd packages/philipk/pk01_pan_trim01_d.jpg
+
+newmtl slot57
+map_Kd packages/philipk/pk01_trim02b_d.jpg
+
+newmtl slot59
+map_Kd packages/philipk/pk01_trim05b_d.jpg
+
+newmtl slot60
+map_Kd packages/philipk/pk01_trim05b_d.jpg
+
+newmtl slot61
+map_Kd packages/philipk/pk01_trim06b_d.jpg
+
+newmtl slot62
+map_Kd packages/philipk/pk01_trim06b_d.jpg
+
+newmtl slot63
+map_Kd packages/philipk/pk01_trim07b_d.jpg
+
+newmtl slot64
+map_Kd packages/philipk/pk01_trim07b_d.jpg
+
+newmtl slot65
+map_Kd packages/philipk/pk01_trim01b_d.jpg
+
+newmtl slot66
+map_Kd packages/philipk/pk01_trim01b_d.jpg
+
+newmtl slot67
+map_Kd packages/philipk/pk01_trim08b_d.jpg
+
+newmtl slot68
+map_Kd packages/philipk/pk01_trim08b_d.jpg
+
+newmtl slot70
+map_Kd packages/lunaran/mech1_d.jpg
+
+newmtl slot71
+map_Kd packages/lunaran/qcomp1g_d.jpg
+
+newmtl slot72
+map_Kd packages/lunaran/mech1_d.jpg
+
+newmtl slot73
+map_Kd packages/blindabuser/ba_grass_cc.jpg
+
+newmtl slot74
+map_Kd packages/gor/ST_GK_009_cc.jpg
+
+newmtl slot4112
+map_Kd packages/blikjebier/concrete/concrete_002.jpg
+
+newmtl slot8224
+map_Kd packages/blikjebier/concrete/concrete_002.jpg
+
+newmtl slot8225
+map_Kd packages/blikjebier/concrete/concrete_002.jpg
+
+newmtl slot8738
+map_Kd packages/blikjebier/concrete/concrete_002.jpg
+
+newmtl slot9252
+map_Kd packages/blikjebier/concrete/concrete_002.jpg
+

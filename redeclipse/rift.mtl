@@ -1,0 +1,752 @@
+# mtl file of map
+
+newmtl slot1
+map_Kd data/textures/default.png
+
+newmtl slot3
+map_Kd data/philipk/pk01/vent_wall03_d.png
+
+newmtl slot4
+map_Kd data/trak/trak7/tile2.png
+
+newmtl slot5
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot6
+map_Kd data/philipk/pk01/floor01a_d.png
+
+newmtl slot8
+map_Kd data/philipk/pk02/floor12a_c.png
+
+newmtl slot9
+map_Kd data/philipk/pk02/wall04a_c.png
+
+newmtl slot10
+map_Kd data/acerspyro/light2/light2.png
+
+newmtl slot11
+map_Kd data/appleflap/danger.jpg
+
+newmtl slot12
+map_Kd data/jojo/concrete02.png
+
+newmtl slot13
+map_Kd data/trak/trak5/crate1e.jpg
+
+newmtl slot15
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot16
+map_Kd data/philipk/pk02/pipes01_c.png
+
+newmtl slot17
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot22
+map_Kd data/philipk/pk01/gra_floor02_d.png
+
+newmtl slot23
+map_Kd data/philipk/pk02/floor01_c.png
+
+newmtl slot24
+map_Kd data/philipk/pk02/floor10_c.png
+
+newmtl slot25
+map_Kd data/philipk/pk02/floor13a_c.png
+
+newmtl slot26
+map_Kd data/philipk/pk02/wall02b_c.png
+
+newmtl slot28
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot29
+map_Kd data/philipk/pk02/floor09a_c.png
+
+newmtl slot30
+map_Kd data/philipk/pk02/computer01a_c.png
+
+newmtl slot33
+map_Kd data/philipk/pk02/trim_set02a_c.png
+
+newmtl slot34
+map_Kd data/philipk/pk02/wall03a_c.png
+
+newmtl slot36
+map_Kd data/philipk/pk02/wall02a_c.png
+
+newmtl slot39
+map_Kd data/philipk/pk02/floor07_c.png
+
+newmtl slot42
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot43
+map_Kd data/philipk/pk02/generic01a_c.png
+
+newmtl slot44
+map_Kd data/nobiax/textures/139/diffuse.png
+
+newmtl slot45
+map_Kd data/philipk/pk01/gra_floor01_d.png
+
+newmtl slot47
+map_Kd data/philipk/pk02/ceiling03_c.png
+
+newmtl slot48
+map_Kd data/philipk/pk02/floor04_c.png
+
+newmtl slot49
+map_Kd data/philipk/pk02/floor06a_c.png
+
+newmtl slot50
+map_Kd data/philipk/pk02/floor08a_c.png
+
+newmtl slot52
+map_Kd data/philipk/pk02/panels01a_c.png
+
+newmtl slot53
+map_Kd data/philipk/pk02/panels01c_c.png
+
+newmtl slot54
+map_Kd data/philipk/pk02/wall01_c.png
+
+newmtl slot55
+map_Kd data/philipk/pk02/wall04b_c.png
+
+newmtl slot56
+map_Kd data/philipk/pk02/wall05b_c.png
+
+newmtl slot58
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot60
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot61
+map_Kd data/philipk/pk02/generic01a_c.png
+
+newmtl slot64
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot65
+map_Kd data/philipk/pk02/floor01_c.png
+
+newmtl slot66
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot67
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot68
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot69
+map_Kd data/luckystrike/conc02.jpg
+
+newmtl slot70
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot71
+map_Kd data/nobiax/textures/79/diffuse.png
+
+newmtl slot72
+map_Kd data/philipk/pk02/wall04a_c.png
+
+newmtl slot73
+map_Kd data/philipk/pk02/wall04a_c.png
+
+newmtl slot74
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot75
+map_Kd data/misc/agf81/concrete1_diffuse.png
+
+newmtl slot76
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot77
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot78
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot79
+map_Kd data/philipk/pk02/wall02b_c.png
+
+newmtl slot80
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot81
+map_Kd data/luckystrike/conc02.jpg
+
+newmtl slot82
+map_Kd data/jojo/concrete02.png
+
+newmtl slot83
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot84
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot85
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot86
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot87
+map_Kd data/nobiax/textures/139/diffuse.png
+
+newmtl slot88
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot89
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot90
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot91
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot92
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot93
+map_Kd data/misc/agf81/concrete1_diffuse.png
+
+newmtl slot94
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot95
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot96
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot97
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot98
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot99
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot100
+map_Kd data/philipk/pk02/floor12a_c.png
+
+newmtl slot101
+map_Kd data/philipk/pk02/generic01a_c.png
+
+newmtl slot102
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot103
+map_Kd data/misc/panel_blank.png
+
+newmtl slot104
+map_Kd data/nobiax/textures/79/diffuse.png
+
+newmtl slot106
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot107
+map_Kd data/jojo/concrete02.png
+
+newmtl slot108
+map_Kd data/philipk/pk02/ceiling03_c.png
+
+newmtl slot109
+map_Kd data/philipk/pk02/computer01a_c.png
+
+newmtl slot110
+map_Kd data/philipk/pk02/computer01a_c.png
+
+newmtl slot111
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot112
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot113
+map_Kd data/jojo/concrete02.png
+
+newmtl slot114
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot115
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot116
+map_Kd data/philipk/pk02/generic01a_c.png
+
+newmtl slot117
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot118
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot119
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot120
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot121
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot122
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot123
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot124
+map_Kd data/jojo/concrete02.png
+
+newmtl slot125
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot126
+map_Kd data/philipk/pk02/wall03b_c.png
+
+newmtl slot127
+map_Kd data/philipk/pk01/floor01a_d.png
+
+newmtl slot128
+map_Kd data/trak/trak5/wall1e.jpg
+
+newmtl slot129
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot130
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot131
+map_Kd data/trak/trak5/crate1e.jpg
+
+newmtl slot132
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot133
+map_Kd data/philipk/pk02/computer01c_c.png
+
+newmtl slot134
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot135
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot136
+map_Kd data/philipk/pk02/wall03a_c.png
+
+newmtl slot137
+map_Kd data/nobiax/textures/139/diffuse.png
+
+newmtl slot138
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot139
+map_Kd data/philipk/pk02/ceiling03_c.png
+
+newmtl slot140
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot141
+map_Kd data/misc/agf81/concrete1_diffuse.png
+
+newmtl slot142
+map_Kd data/jojo/concrete02.png
+
+newmtl slot143
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot144
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot145
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot146
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot147
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot148
+map_Kd data/philipk/pk02/ceiling03_c.png
+
+newmtl slot149
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot150
+map_Kd data/trak/trak7/tile2.png
+
+newmtl slot151
+map_Kd data/trak/trak7/tile2.png
+
+newmtl slot152
+map_Kd data/trak/trak7/tile2.png
+
+newmtl slot153
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot154
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot155
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot156
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot157
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot158
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot159
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot160
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot161
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot162
+map_Kd data/trak/trak7/tile2.png
+
+newmtl slot163
+map_Kd data/trak/trak7/tile2.png
+
+newmtl slot164
+map_Kd data/philipk/pk02/trim_set02a_c.png
+
+newmtl slot165
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot166
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot167
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot168
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot169
+map_Kd data/jojo/concrete02.png
+
+newmtl slot170
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot171
+map_Kd data/jojo/concrete02.png
+
+newmtl slot172
+map_Kd data/acerspyro/light2/light2.png
+
+newmtl slot173
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot174
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot175
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot176
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot177
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot178
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot179
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot180
+map_Kd data/philipk/pk02/floor01_c.png
+
+newmtl slot181
+map_Kd data/philipk/pk02/floor10_c.png
+
+newmtl slot182
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot183
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot184
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot185
+map_Kd data/philipk/pk02/generic01a_c.png
+
+newmtl slot186
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot187
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot188
+map_Kd data/misc/panel_blank.png
+
+newmtl slot189
+map_Kd data/misc/agf81/concrete1_diffuse.png
+
+newmtl slot190
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot191
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot192
+map_Kd data/acerspyro/light2/light2.png
+
+newmtl slot193
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot194
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot195
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot196
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot198
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot199
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot200
+map_Kd data/acerspyro/light2/light2.png
+
+newmtl slot201
+map_Kd data/trak/trak7/tile2.png
+
+newmtl slot202
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot203
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot204
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot205
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot206
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot207
+map_Kd data/appleflap/danger_gray.jpg
+
+newmtl slot208
+map_Kd data/appleflap/danger_gray.jpg
+
+newmtl slot209
+map_Kd data/molexted/wood01/wood01_c.png
+
+newmtl slot210
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot211
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot212
+map_Kd data/misc/agf81/concrete1_diffuse.png
+
+newmtl slot213
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot214
+map_Kd data/acerspyro/light2/light2.png
+
+newmtl slot215
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot216
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot217
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot218
+map_Kd data/philipk/pk02/floor12a_c.png
+
+newmtl slot219
+map_Kd data/philipk/pk02/wall02b_c.png
+
+newmtl slot220
+map_Kd data/philipk/pk02/wall02a_c.png
+
+newmtl slot221
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot222
+map_Kd data/philipk/pk02/wall03b_c.png
+
+newmtl slot223
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot224
+map_Kd data/acerspyro/light2/light2.png
+
+newmtl slot225
+map_Kd data/trak/trak6/crate1.jpg
+
+newmtl slot226
+map_Kd data/appleflap/danger.jpg
+
+newmtl slot227
+map_Kd data/jojo/concrete02.png
+
+newmtl slot228
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot229
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot230
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot231
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot232
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot233
+map_Kd data/misc/panel_blank.png
+
+newmtl slot234
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot235
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot236
+map_Kd data/misc/agf81/concrete1_diffuse.png
+
+newmtl slot237
+map_Kd data/philipk/pk02/wall03b_c.png
+
+newmtl slot238
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot239
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot240
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot241
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot242
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot243
+map_Kd data/misc/panel_blank.png
+
+newmtl slot244
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot245
+map_Kd data/philipk/pk01/floor01a_d.png
+
+newmtl slot246
+map_Kd data/philipk/pk02/ceiling03_c.png
+
+newmtl slot247
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot248
+map_Kd data/philipk/pk01/vent_wall03_d.png
+
+newmtl slot249
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot250
+map_Kd data/trak/trak5/wall1e.jpg
+
+newmtl slot251
+map_Kd data/trak/trak5/wall1e.jpg
+
+newmtl slot252
+map_Kd data/jojo/concrete02.png
+
+newmtl slot253
+map_Kd data/philipk/pk02/wall02b_c.png
+
+newmtl slot254
+map_Kd data/trak/trak5/base1a.jpg
+
+newmtl slot255
+map_Kd data/luckystrike/barlight_end.jpg
+
+newmtl slot256
+map_Kd data/luckystrike/barlight.jpg
+
+newmtl slot257
+map_Kd data/luckystrike/barlight_end.jpg
+
+newmtl slot258
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot259
+map_Kd data/philipk/pk02/floor12a_c.png
+
+newmtl slot260
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot261
+map_Kd data/trak/trak5/crate1e.jpg
+
+newmtl slot262
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot263
+map_Kd data/trak/trak5/base1a.jpg
+
+newmtl slot264
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot265
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot266
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot267
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot268
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot269
+map_Kd data/philipk/pk01/pan_floor01b_d.png
+
+newmtl slot270
+map_Kd data/acerspyro/light1/light1.png
+
+newmtl slot271
+map_Kd data/philipk/pk02/floor_cyl01_c.png
+
+newmtl slot272
+map_Kd data/philipk/pk02/wall02b_c.png
+
+newmtl slot273
+map_Kd data/nieb/complex/step03.png
+

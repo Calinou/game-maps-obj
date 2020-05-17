@@ -1,0 +1,68 @@
+# mtl file of Cube 2 level
+
+newmtl slot2
+map_Kd packages/aard/aardograss_1.jpg
+
+newmtl slot3
+map_Kd packages/ik2k/ik_floor_brick128a.jpg
+
+newmtl slot4
+map_Kd packages/ik2k/ik_floor_wood128b.jpg
+
+newmtl slot6
+map_Kd packages/ik2k/ik_brick_3216d.jpg
+
+newmtl slot39
+map_Kd packages/tech1soc/sqrlig03bc.jpg
+
+newmtl slot47
+map_Kd packages/tech1soc/032-03d.jpg
+
+newmtl slot57
+map_Kd packages/tech1soc/032lig12bb.jpg
+
+newmtl slot67
+map_Kd packages/tech1soc/064-22b.jpg
+
+newmtl slot72
+map_Kd packages/tech1soc/128-05b.jpg
+
+newmtl slot73
+map_Kd packages/tech1soc/128-05c.jpg
+
+newmtl slot75
+map_Kd packages/tech1soc/blank01c.jpg
+
+newmtl slot78
+map_Kd packages/tech1soc/blank03a.jpg
+
+newmtl slot81
+map_Kd packages/tech1soc/block01c.jpg
+
+newmtl slot82
+map_Kd packages/tech1soc/block10b.jpg
+
+newmtl slot85
+map_Kd packages/tech1soc/grate1b.jpg
+
+newmtl slot90
+map_Kd packages/tech1soc/half_grill_wall03b.jpg
+
+newmtl slot108
+map_Kd packages/tech1soc/s128-02a.jpg
+
+newmtl slot155
+map_Kd packages/ikbase/ik_floor_met64e.jpg
+
+newmtl slot156
+map_Kd packages/ikbase/ik_floor_met64f.jpg
+
+newmtl slot175
+map_Kd packages/ikbase/ik_wtrimh_32c.jpg
+
+newmtl slot182
+map_Kd packages/ikbase/ik_wtrimv_32c.jpg
+
+newmtl slot197
+map_Kd packages/than_ind/light03.jpg
+

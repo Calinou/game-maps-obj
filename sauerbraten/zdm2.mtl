@@ -1,0 +1,254 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/textures/default.png
+
+newmtl slot21
+map_Kd packages/dg/floor_tile_ceramicBlue.jpg
+
+newmtl slot27
+map_Kd packages/dg/mur073.jpg
+
+newmtl slot92
+map_Kd packages/tech1soc/matbrown_lgt2.jpg
+
+newmtl slot108
+map_Kd packages/tech1soc/s128-02a.jpg
+
+newmtl slot113
+map_Kd packages/tech1soc/s256-01c.jpg
+
+newmtl slot115
+map_Kd packages/tech1soc/s256-02a.jpg
+
+newmtl slot119
+map_Kd packages/ik2k/ik_brickwall_gry.jpg
+
+newmtl slot144
+map_Kd packages/ik2k/ik_wpaperplain128c.jpg
+
+newmtl slot188
+map_Kd packages/payne/Brick52a.jpg
+
+newmtl slot189
+map_Kd packages/payne/Brick58_512x512.jpg
+
+newmtl slot294
+map_Kd packages/rorschach/128_tar_metflr01.jpg
+
+newmtl slot324
+map_Kd packages/rorschach/2_128_redpan02.jpg
+
+newmtl slot325
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot329
+map_Kd packages/rorschach/2_conc_celing01.jpg
+
+newmtl slot339
+map_Kd packages/rorschach/2_red_floorr01.jpg
+
+newmtl slot350
+map_Kd packages/rorschach/4_conc_floor01.jpg
+
+newmtl slot410
+map_Kd packages/jf1/jfyellow.jpg
+
+newmtl slot417
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot418
+map_Kd packages/lunaran/glue2_d.jpg
+
+newmtl slot424
+map_Kd packages/lunaran/panel128_1_d.jpg
+
+newmtl slot448
+map_Kd packages/lunaran/pwpip1_d.jpg
+
+newmtl slot552
+map_Kd packages/philipk/pk01_gra_floor02_d.jpg
+
+newmtl slot662
+map_Kd packages/mitaman/mm-tile38.jpg
+
+newmtl slot674
+map_Kd packages/mitaman/mm-rust07.jpg
+
+newmtl slot685
+map_Kd packages/mitaman/mm-wood02_fade.jpg
+
+newmtl slot686
+map_Kd packages/mitaman/mm-planksnew01.jpg
+
+newmtl slot693
+map_Kd packages/mitaman/mm-metalplates51.jpg
+
+newmtl slot695
+map_Kd packages/mitaman/mm-metalseam25.jpg
+
+newmtl slot700
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot701
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot704
+map_Kd packages/mitaman/mm-bricksmall121.jpg
+
+newmtl slot710
+map_Kd packages/mitaman/mm-cementbase1.jpg
+
+newmtl slot711
+map_Kd packages/mitaman/mm-steellfloor.jpg
+
+newmtl slot716
+map_Kd packages/mitaman/mm-metalstone.jpg
+
+newmtl slot719
+map_Kd packages/mitaman/mm-meters12.jpg
+
+newmtl slot720
+map_Kd packages/mitaman/mm-meters12a.jpg
+
+newmtl slot724
+map_Kd packages/mitaman/mm-metaltrim02.jpg
+
+newmtl slot732
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot736
+map_Kd packages/noctua/plast07.jpg
+
+newmtl slot743
+map_Kd packages/loopix/cobbst2.jpg
+
+newmtl slot746
+map_Kd packages/g_pack/g-concrete05.jpg
+
+newmtl slot748
+map_Kd packages/ikbase/specialbrick.jpg
+
+newmtl slot752
+map_Kd packages/painkillah/pk_arlequin_blue_cc.jpg
+
+newmtl slot763
+map_Kd packages/tomek/snow8_d.jpg
+
+newmtl slot765
+map_Kd packages/textures/nieb/floor1.jpg
+
+newmtl slot767
+map_Kd packages/textures/nieb/grass1.jpg
+
+newmtl slot779
+map_Kd packages/textures/nieb/metal-orange.jpg
+
+newmtl slot831
+map_Kd packages/trak5/pipe1a.jpg
+
+newmtl slot832
+map_Kd packages/trak5/pipe1b.jpg
+
+newmtl slot833
+map_Kd packages/trak5/pipe1c.jpg
+
+newmtl slot834
+map_Kd packages/trak5/pipe1d.jpg
+
+newmtl slot951
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot958
+map_Kd packages/textures/nieb/garden/metal1.jpg
+
+newmtl slot989
+map_Kd packages/textures/medieval_soc/rooftile1.jpg
+
+newmtl slot996
+map_Kd packages/textures/medieval_soc/wood_browndark.jpg
+
+newmtl slot998
+map_Kd packages/textures/medieval_soc/wood_grey.jpg
+
+newmtl slot1005
+map_Kd packages/textures/terrain_soc/rock_brown3.jpg
+
+newmtl slot1010
+map_Kd packages/textures/terrain_soc/ter_moss1.jpg
+
+newmtl slot1466
+map_Kd packages/textures/nieb/floor1.jpg
+
+newmtl slot1468
+map_Kd packages/g_pack/g-bricks03.jpg
+
+newmtl slot1469
+map_Kd packages/textures/medieval_soc/rooftile1.jpg
+
+newmtl slot1470
+map_Kd packages/ikbase/specialbrick.jpg
+
+newmtl slot1471
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1472
+map_Kd packages/mitaman/mm-ceilinglite3.jpg
+
+newmtl slot1473
+map_Kd packages/mitaman/mm-cementbase1.jpg
+
+newmtl slot1474
+map_Kd packages/rorschach/1r_light01.jpg
+
+newmtl slot1475
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1476
+map_Kd packages/payne/Brick58_512x512.jpg
+
+newmtl slot1478
+map_Kd packages/rorschach/2_red_floorr01.jpg
+
+newmtl slot1480
+map_Kd packages/textures/default.png
+
+newmtl slot1484
+map_Kd packages/ikbase/specialbrick.jpg
+
+newmtl slot1485
+map_Kd packages/ikbase/specialbrick.jpg
+
+newmtl slot1486
+map_Kd packages/mitaman/mm-ceilinglite3.jpg
+
+newmtl slot1488
+map_Kd packages/ikbase/specialbrick.jpg
+
+newmtl slot1489
+map_Kd packages/mitaman/mm-tiles126.jpg
+
+newmtl slot1490
+map_Kd packages/mitaman/mm-planksnew01.jpg
+
+newmtl slot1491
+map_Kd packages/mitaman/mm-wood02_fade.jpg
+
+newmtl slot1492
+map_Kd packages/textures/terrain_soc/rock_brown3.jpg
+
+newmtl slot1493
+map_Kd packages/ikbase/specialbrick.jpg
+
+newmtl slot1494
+map_Kd packages/ikbase/specialbrick.jpg
+
+newmtl slot1495
+map_Kd packages/ikbase/specialbrick.jpg
+
+newmtl slot1496
+map_Kd packages/textures/medieval_soc/rooftile1.jpg
+
+newmtl slot1497
+map_Kd packages/dg/mur073.jpg
+

@@ -1,0 +1,26 @@
+# mtl file of Cube 2 level
+
+newmtl slot3
+map_Kd packages/aftas/piso5.jpg
+
+newmtl slot4
+map_Kd packages/aftas/par9.jpg
+
+newmtl slot5
+map_Kd packages/aftas/par10_a.jpg
+
+newmtl slot8
+map_Kd packages/aftas/piso2.jpg
+
+newmtl slot12
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot16
+map_Kd packages/aftas/pedras.jpg
+
+newmtl slot17
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot52
+map_Kd packages/golgotha/water2.jpg
+

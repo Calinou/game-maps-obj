@@ -1,0 +1,83 @@
+# mtl file of Cube 2 level
+
+newmtl slot15
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot16
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot18
+map_Kd media/nieb/complex/step02.png
+
+newmtl slot21
+map_Kd media/nieb/complex/tile01.png
+
+newmtl slot23
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot25
+map_Kd media/nieb/complex/woodfloor01.png
+
+newmtl slot31
+map_Kd media/cgtextures/carpet01.png
+
+newmtl slot41
+map_Kd media/agf81/concrete4_diffuse.png
+
+newmtl slot42
+map_Kd media/agf81/concrete5_diffuse.png
+
+newmtl slot46
+map_Kd media/nobiax/pattern037_diffuse.png
+
+newmtl slot58
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot59
+map_Kd media/agf81/concrete4_diffuse.png
+
+newmtl slot60
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot61
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot62
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot63
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot64
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot65
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot66
+map_Kd media/agf81/concrete5_diffuse.png
+
+newmtl slot67
+map_Kd media/agf81/concrete5_diffuse.png
+
+newmtl slot68
+map_Kd media/agf81/concrete5_diffuse.png
+
+newmtl slot69
+map_Kd media/agf81/concrete5_diffuse.png
+
+newmtl slot70
+map_Kd media/agf81/concrete5_diffuse.png
+
+newmtl slot71
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot72
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot73
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot74
+map_Kd media/nieb/complex/vent.png
+

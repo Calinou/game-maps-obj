@@ -1,0 +1,71 @@
+# mtl file of Cube 2 level
+
+newmtl slot3
+map_Kd packages/ik2k/ik_floor_brick128a.jpg
+
+newmtl slot4
+map_Kd packages/ik2k/ik_floor_wood128b.jpg
+
+newmtl slot21
+map_Kd packages/ik2k/ik_ground_pebbles128.jpg
+
+newmtl slot36
+map_Kd packages/ikbase/ik_cwall03a2.jpg
+
+newmtl slot41
+map_Kd packages/ikbase/ik_floor_met1f.jpg
+
+newmtl slot42
+map_Kd packages/ikbase/ik_floor_met64d.jpg
+
+newmtl slot43
+map_Kd packages/ikbase/ik_floor_met64e.jpg
+
+newmtl slot59
+map_Kd packages/ikbase/ik_itrimv_128b.jpg
+
+newmtl slot60
+map_Kd packages/ikbase/ik_metplatef_6464b.jpg
+
+newmtl slot61
+map_Kd packages/ikbase/ik_wtrimh_32a.jpg
+
+newmtl slot64
+map_Kd packages/ikbase/ik_wtrimh_32d.jpg
+
+newmtl slot67
+map_Kd packages/ikbase/ik_wtrimh_64d.jpg
+
+newmtl slot71
+map_Kd packages/ikbase/ik_wtrimv_32d.jpg
+
+newmtl slot74
+map_Kd packages/ikbase/ik_wtrimv_64d.jpg
+
+newmtl slot105
+map_Kd packages/tech1soc/sqrlig02wb.jpg
+
+newmtl slot132
+map_Kd packages/egyptsoc/lig_032-01b1.jpg
+
+newmtl slot133
+map_Kd packages/egyptsoc/lig_032-01r1.jpg
+
+newmtl slot139
+map_Kd packages/egyptsoc/lig_064-02r1.jpg
+
+newmtl slot149
+map_Kd packages/egyptsoc/solidgrate1b.jpg
+
+newmtl slot210
+map_Kd packages/tech1soc/128-05c.jpg
+
+newmtl slot215
+map_Kd packages/tech1soc/blank03a.jpg
+
+newmtl slot219
+map_Kd packages/tech1soc/block10b.jpg
+
+newmtl slot253
+map_Kd packages/tech1soc/s256-02b.jpg
+

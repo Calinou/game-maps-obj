@@ -1,0 +1,740 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/textures/default.png
+
+newmtl slot710
+map_Kd packages/mitaman/mm-cementbase1.jpg
+
+newmtl slot747
+map_Kd packages/textures/nieb/rock01.jpg
+
+newmtl slot768
+map_Kd packages/textures/nieb/rock02.jpg
+
+newmtl slot769
+map_Kd packages/textures/nieb/sand01.jpg
+
+newmtl slot777
+map_Kd packages/textures/nieb/rubber-trim.jpg
+
+newmtl slot806
+map_Kd packages/trak5/comp1a.jpg
+
+newmtl slot808
+map_Kd packages/trak5/comp1c.jpg
+
+newmtl slot809
+map_Kd packages/trak5/comp1d.jpg
+
+newmtl slot810
+map_Kd packages/trak5/comp1e.jpg
+
+newmtl slot813
+map_Kd packages/trak5/base1a.jpg
+
+newmtl slot814
+map_Kd packages/trak5/base1b.jpg
+
+newmtl slot815
+map_Kd packages/trak5/base1c.jpg
+
+newmtl slot819
+map_Kd packages/trak5/crate1d.jpg
+
+newmtl slot820
+map_Kd packages/trak5/crate1e.jpg
+
+newmtl slot821
+map_Kd packages/trak5/graypanel1.jpg
+
+newmtl slot822
+map_Kd packages/trak5/graypanel2.jpg
+
+newmtl slot823
+map_Kd packages/trak5/ceil1a.jpg
+
+newmtl slot825
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot826
+map_Kd packages/trak5/panel1a.jpg
+
+newmtl slot827
+map_Kd packages/trak5/panel2a.jpg
+
+newmtl slot828
+map_Kd packages/trak5/pits1a.jpg
+
+newmtl slot829
+map_Kd packages/trak5/holes1a.jpg
+
+newmtl slot830
+map_Kd packages/trak5/holes1b.jpg
+
+newmtl slot832
+map_Kd packages/trak5/pipe1b.jpg
+
+newmtl slot833
+map_Kd packages/trak5/pipe1c.jpg
+
+newmtl slot835
+map_Kd packages/trak5/floor2a.jpg
+
+newmtl slot837
+map_Kd packages/trak5/floor2c.jpg
+
+newmtl slot838
+map_Kd packages/trak5/floor2d.jpg
+
+newmtl slot839
+map_Kd packages/trak5/floor2e.jpg
+
+newmtl slot840
+map_Kd packages/trak5/floor2f.jpg
+
+newmtl slot841
+map_Kd packages/trak5/grate2a.jpg
+
+newmtl slot843
+map_Kd packages/trak5/pipez1a.jpg
+
+newmtl slot844
+map_Kd packages/trak5/ribs1a.jpg
+
+newmtl slot845
+map_Kd packages/trak5/stair1a.jpg
+
+newmtl slot846
+map_Kd packages/trak5/thingy1a.jpg
+
+newmtl slot847
+map_Kd packages/trak5/tile1a.jpg
+
+newmtl slot848
+map_Kd packages/trak5/tile1b.jpg
+
+newmtl slot849
+map_Kd packages/trak5/tile1c.jpg
+
+newmtl slot850
+map_Kd packages/trak5/tile1d.jpg
+
+newmtl slot851
+map_Kd packages/trak5/tile1e.jpg
+
+newmtl slot852
+map_Kd packages/trak5/tile2a.jpg
+
+newmtl slot854
+map_Kd packages/trak5/tile2c.jpg
+
+newmtl slot857
+map_Kd packages/trak5/tile3b.jpg
+
+newmtl slot858
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot859
+map_Kd packages/trak5/tile3d.jpg
+
+newmtl slot860
+map_Kd packages/trak5/tile3e.jpg
+
+newmtl slot861
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot862
+map_Kd packages/trak5/tile4b.jpg
+
+newmtl slot863
+map_Kd packages/trak5/tile4c.jpg
+
+newmtl slot864
+map_Kd packages/trak5/tile4d.jpg
+
+newmtl slot865
+map_Kd packages/trak5/tile4e.jpg
+
+newmtl slot866
+map_Kd packages/trak5/tile5a.jpg
+
+newmtl slot867
+map_Kd packages/trak5/tile5b.jpg
+
+newmtl slot868
+map_Kd packages/trak5/tile5c.jpg
+
+newmtl slot869
+map_Kd packages/trak5/tile5d.jpg
+
+newmtl slot870
+map_Kd packages/trak5/tile5e.jpg
+
+newmtl slot871
+map_Kd packages/trak5/trim1a.jpg
+
+newmtl slot872
+map_Kd packages/trak5/trim1b.jpg
+
+newmtl slot873
+map_Kd packages/trak5/trim2a.jpg
+
+newmtl slot874
+map_Kd packages/trak5/trim2b.jpg
+
+newmtl slot875
+map_Kd packages/trak5/trim3a.jpg
+
+newmtl slot876
+map_Kd packages/trak5/trim3b.jpg
+
+newmtl slot878
+map_Kd packages/trak5/trim3d.jpg
+
+newmtl slot879
+map_Kd packages/trak5/trim3e.jpg
+
+newmtl slot882
+map_Kd packages/trak5/trim4c.jpg
+
+newmtl slot883
+map_Kd packages/trak5/trim4d.jpg
+
+newmtl slot884
+map_Kd packages/trak5/trim4e.jpg
+
+newmtl slot886
+map_Kd packages/trak5/trim5b.jpg
+
+newmtl slot889
+map_Kd packages/trak5/trim5e.jpg
+
+newmtl slot890
+map_Kd packages/trak5/trim6a.jpg
+
+newmtl slot891
+map_Kd packages/trak5/trim6b.jpg
+
+newmtl slot893
+map_Kd packages/trak5/trim6d.jpg
+
+newmtl slot894
+map_Kd packages/trak5/trim6e.jpg
+
+newmtl slot896
+map_Kd packages/trak5/trim7b.jpg
+
+newmtl slot901
+map_Kd packages/trak5/trim8b.jpg
+
+newmtl slot903
+map_Kd packages/trak5/trim8d.jpg
+
+newmtl slot904
+map_Kd packages/trak5/trim8e.jpg
+
+newmtl slot914
+map_Kd packages/trak5/vertpanel1a.jpg
+
+newmtl slot915
+map_Kd packages/trak5/vertpanel1b.jpg
+
+newmtl slot916
+map_Kd packages/trak5/vertpanel1c.jpg
+
+newmtl slot917
+map_Kd packages/trak5/vertpanel1d.jpg
+
+newmtl slot918
+map_Kd packages/trak5/vertpanel1e.jpg
+
+newmtl slot920
+map_Kd packages/trak5/vertpanel2b.jpg
+
+newmtl slot921
+map_Kd packages/trak5/vertpanel2c.jpg
+
+newmtl slot923
+map_Kd packages/trak5/vertpanel2e.jpg
+
+newmtl slot927
+map_Kd packages/trak5/wall1d.jpg
+
+newmtl slot930
+map_Kd packages/trak5/wall2b.jpg
+
+newmtl slot931
+map_Kd packages/trak5/wall2c.jpg
+
+newmtl slot932
+map_Kd packages/trak5/wall2d.jpg
+
+newmtl slot933
+map_Kd packages/trak5/wall2e.jpg
+
+newmtl slot934
+map_Kd packages/trak5/wall3a.jpg
+
+newmtl slot935
+map_Kd packages/trak5/wall3b.jpg
+
+newmtl slot938
+map_Kd packages/trak5/wall3e.jpg
+
+newmtl slot939
+map_Kd packages/trak5/wall4a.jpg
+
+newmtl slot940
+map_Kd packages/trak5/wall4b.jpg
+
+newmtl slot941
+map_Kd packages/trak5/wall4c.jpg
+
+newmtl slot942
+map_Kd packages/trak5/wall4d.jpg
+
+newmtl slot943
+map_Kd packages/trak5/wall4e.jpg
+
+newmtl slot944
+map_Kd packages/trak5/wall5a.jpg
+
+newmtl slot945
+map_Kd packages/trak5/wall5b.jpg
+
+newmtl slot948
+map_Kd packages/trak5/wall5e.jpg
+
+newmtl slot949
+map_Kd packages/trak5/wall6a.jpg
+
+newmtl slot1028
+map_Kd packages/textures/nieb/rock01.jpg
+
+newmtl slot1029
+map_Kd packages/trak5/crate1a.jpg
+
+newmtl slot1030
+map_Kd packages/trak5/trim2b.jpg
+
+newmtl slot1031
+map_Kd packages/trak5/wall1e.jpg
+
+newmtl slot1032
+map_Kd packages/trak5/crate1e.jpg
+
+newmtl slot1033
+map_Kd packages/trak5/trim1b.jpg
+
+newmtl slot1034
+map_Kd packages/trak5/wall4a.jpg
+
+newmtl slot1035
+map_Kd packages/trak5/vertpanel1e.jpg
+
+newmtl slot1036
+map_Kd packages/trak5/wall3e.jpg
+
+newmtl slot1037
+map_Kd packages/trak5/pipe1a.jpg
+
+newmtl slot1038
+map_Kd packages/trak5/crate1d.jpg
+
+newmtl slot1039
+map_Kd packages/trak5/wall1e.jpg
+
+newmtl slot1045
+map_Kd packages/trak5/trim2a.jpg
+
+newmtl slot1047
+map_Kd packages/trak5/panel2a.jpg
+
+newmtl slot1048
+map_Kd packages/trak5/light2a.jpg
+
+newmtl slot1050
+map_Kd packages/trak5/panel1a.jpg
+
+newmtl slot1051
+map_Kd packages/trak5/tile5c.jpg
+
+newmtl slot1052
+map_Kd packages/trak5/wall2e.jpg
+
+newmtl slot1054
+map_Kd packages/trak5/trim3e.jpg
+
+newmtl slot1055
+map_Kd packages/trak5/wall6a.jpg
+
+newmtl slot1056
+map_Kd packages/trak5/wall3a.jpg
+
+newmtl slot1058
+map_Kd packages/trak5/wall3e.jpg
+
+newmtl slot1059
+map_Kd packages/trak5/wall5b.jpg
+
+newmtl slot1060
+map_Kd packages/trak5/vertpanel2e.jpg
+
+newmtl slot1061
+map_Kd packages/trak5/wall3c.jpg
+
+newmtl slot1064
+map_Kd packages/trak5/tile5d.jpg
+
+newmtl slot1066
+map_Kd packages/trak5/tile3d.jpg
+
+newmtl slot1068
+map_Kd packages/trak5/tile3d.jpg
+
+newmtl slot1073
+map_Kd packages/trak5/wall3e.jpg
+
+newmtl slot1074
+map_Kd packages/trak5/wall3c.jpg
+
+newmtl slot1075
+map_Kd packages/trak5/wall1c.jpg
+
+newmtl slot1076
+map_Kd packages/trak5/wall6a.jpg
+
+newmtl slot1077
+map_Kd packages/trak5/wall6a.jpg
+
+newmtl slot1078
+map_Kd packages/trak5/tile3d.jpg
+
+newmtl slot1079
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot1080
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot1081
+map_Kd packages/trak5/wall3e.jpg
+
+newmtl slot1082
+map_Kd packages/trak5/trim8e.jpg
+
+newmtl slot1083
+map_Kd packages/trak5/trim8e.jpg
+
+newmtl slot1086
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1087
+map_Kd packages/trak5/trim6e.jpg
+
+newmtl slot1088
+map_Kd packages/trak5/tile3b.jpg
+
+newmtl slot1089
+map_Kd packages/trak5/tile5b.jpg
+
+newmtl slot1090
+map_Kd packages/trak5/wall3e.jpg
+
+newmtl slot1091
+map_Kd packages/trak5/trim4c.jpg
+
+newmtl slot1092
+map_Kd packages/trak5/trim1a.jpg
+
+newmtl slot1093
+map_Kd packages/trak5/tile5e.jpg
+
+newmtl slot1094
+map_Kd packages/trak5/tile5b.jpg
+
+newmtl slot1095
+map_Kd packages/trak5/ceil1a.jpg
+
+newmtl slot1097
+map_Kd packages/trak5/ribs1a.jpg
+
+newmtl slot1100
+map_Kd packages/trak5/tile2a.jpg
+
+newmtl slot1102
+map_Kd packages/trak5/trim6b.jpg
+
+newmtl slot1103
+map_Kd packages/trak5/tile3e.jpg
+
+newmtl slot1104
+map_Kd packages/trak5/trim5b.jpg
+
+newmtl slot1105
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot1106
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot1107
+map_Kd packages/trak5/wall4e.jpg
+
+newmtl slot1108
+map_Kd packages/trak5/tile5e.jpg
+
+newmtl slot1109
+map_Kd packages/trak5/trim5e.jpg
+
+newmtl slot1111
+map_Kd packages/trak5/comp1e.jpg
+
+newmtl slot1112
+map_Kd packages/trak5/panel2a.jpg
+
+newmtl slot1113
+map_Kd packages/trak5/panel2a.jpg
+
+newmtl slot1114
+map_Kd packages/trak5/comp1e.jpg
+
+newmtl slot1115
+map_Kd packages/trak5/tile4e.jpg
+
+newmtl slot1116
+map_Kd packages/trak5/vertpanel2b.jpg
+
+newmtl slot1118
+map_Kd packages/trak5/wall3e.jpg
+
+newmtl slot1119
+map_Kd packages/trak5/wall5e.jpg
+
+newmtl slot1120
+map_Kd packages/trak5/trim3e.jpg
+
+newmtl slot1121
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot1122
+map_Kd packages/trak5/tile5e.jpg
+
+newmtl slot1127
+map_Kd packages/trak5/tile4e.jpg
+
+newmtl slot1131
+map_Kd packages/trak5/tile1b.jpg
+
+newmtl slot1132
+map_Kd packages/trak5/thingy1a.jpg
+
+newmtl slot1133
+map_Kd packages/trak5/light2a.jpg
+
+newmtl slot1138
+map_Kd packages/trak5/wall3e.jpg
+
+newmtl slot1139
+map_Kd packages/trak5/trim1b.jpg
+
+newmtl slot1142
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot1143
+map_Kd packages/trak5/tile4e.jpg
+
+newmtl slot1144
+map_Kd packages/trak5/tile1c.jpg
+
+newmtl slot1145
+map_Kd packages/trak5/comp1e.jpg
+
+newmtl slot1146
+map_Kd packages/trak5/panel1a.jpg
+
+newmtl slot1147
+map_Kd packages/trak5/tile3b.jpg
+
+newmtl slot1148
+map_Kd packages/trak5/tile5b.jpg
+
+newmtl slot1149
+map_Kd packages/trak5/panel1a.jpg
+
+newmtl slot1150
+map_Kd packages/trak5/vertpanel2e.jpg
+
+newmtl slot1151
+map_Kd packages/trak5/wall3e.jpg
+
+newmtl slot1152
+map_Kd packages/trak5/tile3b.jpg
+
+newmtl slot1153
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1154
+map_Kd packages/trak5/wall3e.jpg
+
+newmtl slot1155
+map_Kd packages/textures/nieb/rock01.jpg
+
+newmtl slot1157
+map_Kd packages/trak5/graypanel3.jpg
+
+newmtl slot1159
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1161
+map_Kd packages/trak5/panel1a.jpg
+
+newmtl slot1162
+map_Kd packages/trak5/wall5e.jpg
+
+newmtl slot1165
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot1168
+map_Kd packages/trak5/trim8d.jpg
+
+newmtl slot1169
+map_Kd packages/trak5/wall5b.jpg
+
+newmtl slot1170
+map_Kd packages/trak5/tile4c.jpg
+
+newmtl slot1175
+map_Kd packages/trak5/tile5e.jpg
+
+newmtl slot1176
+map_Kd packages/trak5/trim4e.jpg
+
+newmtl slot1177
+map_Kd packages/trak5/trim4e.jpg
+
+newmtl slot1178
+map_Kd packages/trak5/wall2e.jpg
+
+newmtl slot1183
+map_Kd packages/trak5/tile1c.jpg
+
+newmtl slot1186
+map_Kd packages/trak5/tile1a.jpg
+
+newmtl slot1187
+map_Kd packages/trak5/trim8e.jpg
+
+newmtl slot1188
+map_Kd packages/trak5/tile5a.jpg
+
+newmtl slot1189
+map_Kd packages/trak5/vertpanel1a.jpg
+
+newmtl slot1190
+map_Kd packages/trak5/vertpanel2a.jpg
+
+newmtl slot1191
+map_Kd packages/trak5/trim6d.jpg
+
+newmtl slot1193
+map_Kd packages/trak5/ceil1a.jpg
+
+newmtl slot1194
+map_Kd packages/trak5/panel1a.jpg
+
+newmtl slot1196
+map_Kd packages/trak5/light2a.jpg
+
+newmtl slot1197
+map_Kd packages/trak5/trim4e.jpg
+
+newmtl slot1198
+map_Kd packages/trak5/wall2d.jpg
+
+newmtl slot1199
+map_Kd packages/trak5/wall2e.jpg
+
+newmtl slot1203
+map_Kd packages/trak5/trim4e.jpg
+
+newmtl slot1204
+map_Kd packages/trak5/ribs1a.jpg
+
+newmtl slot1205
+map_Kd packages/trak5/wall5d.jpg
+
+newmtl slot1206
+map_Kd packages/trak5/vertpanel2d.jpg
+
+newmtl slot1208
+map_Kd packages/trak5/tile5e.jpg
+
+newmtl slot1211
+map_Kd packages/trak5/tile3e.jpg
+
+newmtl slot1213
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1214
+map_Kd packages/trak5/tile4e.jpg
+
+newmtl slot1215
+map_Kd packages/trak5/tile3e.jpg
+
+newmtl slot1216
+map_Kd packages/trak5/wall3a.jpg
+
+newmtl slot1218
+map_Kd packages/trak5/wall5b.jpg
+
+newmtl slot1219
+map_Kd packages/trak5/tile4e.jpg
+
+newmtl slot1220
+map_Kd packages/trak5/comp1e.jpg
+
+newmtl slot1222
+map_Kd packages/trak5/tile2c.jpg
+
+newmtl slot1223
+map_Kd packages/trak5/tile1a.jpg
+
+newmtl slot1224
+map_Kd packages/trak5/tile4b.jpg
+
+newmtl slot1227
+map_Kd packages/trak5/vertpanel2e.jpg
+
+newmtl slot1232
+map_Kd packages/trak5/tile4b.jpg
+
+newmtl slot1233
+map_Kd packages/trak5/wall5b.jpg
+
+newmtl slot1238
+map_Kd packages/trak5/wall5b.jpg
+
+newmtl slot1239
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot1241
+map_Kd packages/trak5/tile3e.jpg
+
+newmtl slot1243
+map_Kd packages/trak5/wall5e.jpg
+
+newmtl slot1245
+map_Kd packages/trak5/crate1e.jpg
+
+newmtl slot1246
+map_Kd packages/trak5/vertpanel1d.jpg
+
+newmtl slot1247
+map_Kd packages/trak5/comp1e.jpg
+
+newmtl slot1248
+map_Kd packages/trak5/graypanel1.jpg
+
+newmtl slot1249
+map_Kd packages/trak5/panel1a.jpg
+

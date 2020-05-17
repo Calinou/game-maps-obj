@@ -1,0 +1,122 @@
+# mtl file of Cube 2 level
+
+newmtl slot2
+map_Kd packages/rorschach/128_ivbr_trim02.jpg
+
+newmtl slot3
+map_Kd packages/rorschach/128_tar_metflr01.jpg
+
+newmtl slot4
+map_Kd packages/rorschach/1r_clocktrim01.jpg
+
+newmtl slot5
+map_Kd packages/rorschach/1r_clocktrim03b.jpg
+
+newmtl slot6
+map_Kd packages/rorschach/1r_column01.jpg
+
+newmtl slot7
+map_Kd packages/rorschach/1r_floor02.jpg
+
+newmtl slot9
+map_Kd packages/rorschach/1r_light01.jpg
+
+newmtl slot14
+map_Kd packages/rorschach/1r_plain_met02.jpg
+
+newmtl slot22
+map_Kd packages/rorschach/1_rust_grill02b.jpg
+
+newmtl slot24
+map_Kd packages/rorschach/1_th_trim01.jpg
+
+newmtl slot25
+map_Kd packages/rorschach/1_th_trim02.jpg
+
+newmtl slot30
+map_Kd packages/rorschach/256_tar_ccolumn01.jpg
+
+newmtl slot31
+map_Kd packages/rorschach/2r_plaster_floor01.jpg
+
+newmtl slot38
+map_Kd packages/kurt/rock01.jpg
+
+newmtl slot44
+map_Kd packages/rorschach/2_c_tiles01.jpg
+
+newmtl slot51
+map_Kd packages/rorschach/3i_crust.jpg
+
+newmtl slot54
+map_Kd packages/rorschach/3r_colrust01b.jpg
+
+newmtl slot55
+map_Kd packages/rorschach/3r_light01b.jpg
+
+newmtl slot59
+map_Kd packages/rorschach/4_conc_floor01.jpg
+
+newmtl slot84
+map_Kd packages/subverse/dry_mud1.jpg
+
+newmtl slot112
+map_Kd packages/kurt/snowgrass01.jpg
+
+newmtl slot128
+map_Kd packages/ikbase/ik_conc_gmoss.jpg
+
+newmtl slot129
+map_Kd packages/ikbase/ik_cwall03a2.jpg
+
+newmtl slot131
+map_Kd packages/ikbase/ik_cwall06a.jpg
+
+newmtl slot135
+map_Kd packages/ikbase/ik_floor_met64d.jpg
+
+newmtl slot136
+map_Kd packages/ikbase/ik_floor_met64e.jpg
+
+newmtl slot140
+map_Kd packages/ikbase/ik_gtrimh_64b.jpg
+
+newmtl slot141
+map_Kd packages/ikbase/ik_gtrimh_lit1a.jpg
+
+newmtl slot142
+map_Kd packages/ikbase/ik_gtrimv_64b.jpg
+
+newmtl slot143
+map_Kd packages/ikbase/ik_gtrimv_lit1a.jpg
+
+newmtl slot149
+map_Kd packages/ikbase/ik_htrimh_64d.jpg
+
+newmtl slot154
+map_Kd packages/ikbase/ik_wtrimh_32a.jpg
+
+newmtl slot157
+map_Kd packages/ikbase/ik_wtrimh_32d.jpg
+
+newmtl slot158
+map_Kd packages/ikbase/ik_wtrimh_64a.jpg
+
+newmtl slot160
+map_Kd packages/ikbase/ik_wtrimh_64d.jpg
+
+newmtl slot161
+map_Kd packages/ikbase/ik_wtrimv_32a.jpg
+
+newmtl slot164
+map_Kd packages/ikbase/ik_wtrimv_32d.jpg
+
+newmtl slot165
+map_Kd packages/ikbase/ik_wtrimv_64a.jpg
+
+newmtl slot167
+map_Kd packages/ikbase/ik_wtrimv_64d.jpg
+
+newmtl slot174
+map_Kd packages/than_ind/trlight01.jpg
+

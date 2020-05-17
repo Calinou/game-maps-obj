@@ -1,0 +1,308 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/textures/default.png
+
+newmtl slot2
+map_Kd packages/aard/aardograss_1.jpg
+
+newmtl slot3
+map_Kd packages/textures/terrain_soc/rock_brown2.jpg
+
+newmtl slot4
+map_Kd packages/textures/terrain_soc/rock_brown3.jpg
+
+newmtl slot6
+map_Kd packages/gor/WTX_GK_001_cc.jpg
+
+newmtl slot7
+map_Kd packages/gor/ST_GK_005_cc.jpg
+
+newmtl slot8
+map_Kd packages/gor/ST_GK_005_zu_001_cc.jpg
+
+newmtl slot9
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot10
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot11
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot12
+map_Kd packages/mitaman/mm-cementbase1.jpg
+
+newmtl slot13
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot14
+map_Kd packages/mitaman/mm-brick56.jpg
+
+newmtl slot15
+map_Kd packages/mitaman/mm-brick13.jpg
+
+newmtl slot16
+map_Kd packages/egyptsoc/032-01a.jpg
+
+newmtl slot17
+map_Kd packages/egyptsoc/032-03a.jpg
+
+newmtl slot18
+map_Kd packages/egyptsoc/032-04a.jpg
+
+newmtl slot19
+map_Kd packages/egyptsoc/v064-02a.jpg
+
+newmtl slot20
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot21
+map_Kd packages/textures/nieb/autumn/face3.jpg
+
+newmtl slot22
+map_Kd packages/textures/nieb/autumn/stone1.jpg
+
+newmtl slot23
+map_Kd packages/textures/nieb/garden/stone4.jpg
+
+newmtl slot24
+map_Kd packages/textures/medieval_soc/metal1.jpg
+
+newmtl slot25
+map_Kd packages/textures/medieval_soc/woodplank_2.jpg
+
+newmtl slot26
+map_Kd packages/aftas/piso5.jpg
+
+newmtl slot27
+map_Kd packages/g_pack/g-concrete05.jpg
+
+newmtl slot28
+map_Kd packages/painkillah/pk_arlequin_brown_cc.jpg
+
+newmtl slot29
+map_Kd packages/misanthropx/white.jpg
+
+newmtl slot1027
+map_Kd packages/textures/terrain_soc/rock_brown3.jpg
+
+newmtl slot1028
+map_Kd packages/textures/nieb/rock02.jpg
+
+newmtl slot1029
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1030
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1031
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1032
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1033
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1034
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1035
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1036
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1037
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1038
+map_Kd packages/gor/ST_GK_005_zu_001_cc.jpg
+
+newmtl slot1039
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1040
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1041
+map_Kd packages/egyptsoc/v064-02a.jpg
+
+newmtl slot1045
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1048
+map_Kd packages/gor/WTX_GK_001_cc.jpg
+
+newmtl slot1049
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1051
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1052
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1053
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot1054
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot1055
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot1056
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot1057
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1058
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1059
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1060
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1061
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1062
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1064
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot1065
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1066
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1067
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1068
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1069
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1070
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot1073
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot1074
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot1075
+map_Kd packages/gor/ST_GK_005_zu_001_cc.jpg
+
+newmtl slot1076
+map_Kd packages/gor/ST_GK_005_cc.jpg
+
+newmtl slot1077
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1078
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot1081
+map_Kd packages/gor/ST_GK_005_zu_001_cc.jpg
+
+newmtl slot1082
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot1083
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1085
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1086
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1087
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot1088
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot1091
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot1092
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot1093
+map_Kd packages/gor/ST_GK_005_zu_001_cc.jpg
+
+newmtl slot1094
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1096
+map_Kd packages/gor/DW_GK_001_cc.jpg
+
+newmtl slot1098
+map_Kd packages/gor/DW_GK_001_ext_cc.jpg
+
+newmtl slot1104
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1105
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1106
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1107
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1108
+map_Kd packages/textures/nieb/autumn/face0c.jpg
+
+newmtl slot1111
+map_Kd packages/gor/ST_GK_005_cc.jpg
+
+newmtl slot1113
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1115
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1117
+map_Kd packages/textures/medieval_soc/woodplank_2.jpg
+
+newmtl slot1118
+map_Kd packages/mitaman/mm-brick56.jpg
+
+newmtl slot1122
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1123
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1128
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1129
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1130
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1131
+map_Kd packages/misanthropx/white.jpg
+
+newmtl slot1132
+map_Kd packages/misanthropx/white.jpg
+
+newmtl slot1137
+map_Kd packages/textures/nieb/garden/stone4.jpg
+

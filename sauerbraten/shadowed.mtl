@@ -1,0 +1,71 @@
+# mtl file of Cube 2 level
+
+newmtl slot2
+map_Kd packages/dg/mad064.jpg
+
+newmtl slot3
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot4
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot5
+map_Kd packages/dg/mad067.jpg
+
+newmtl slot6
+map_Kd packages/dg/mur013.jpg
+
+newmtl slot7
+map_Kd packages/dg/mur017.jpg
+
+newmtl slot9
+map_Kd packages/dg/mur043.jpg
+
+newmtl slot11
+map_Kd packages/dg/mur049.jpg
+
+newmtl slot13
+map_Kd packages/dg/mur058.jpg
+
+newmtl slot14
+map_Kd packages/dg/mur060.jpg
+
+newmtl slot20
+map_Kd packages/dg/mur081.jpg
+
+newmtl slot25
+map_Kd packages/dg/mur127.jpg
+
+newmtl slot48
+map_Kd packages/dg/mur078.jpg
+
+newmtl slot93
+map_Kd packages/rorschach/1r_plain_met02.jpg
+
+newmtl slot94
+map_Kd packages/rorschach/1r_squ_pan03.jpg
+
+newmtl slot98
+map_Kd packages/rorschach/1_concrete01.jpg
+
+newmtl slot123
+map_Kd packages/rorschach/2_c_tiles01.jpg
+
+newmtl slot134
+map_Kd packages/rorschach/3r_light01b.jpg
+
+newmtl slot135
+map_Kd packages/rorschach/3r_lighthh01b.jpg
+
+newmtl slot137
+map_Kd packages/rorschach/3r_plaster02.jpg
+
+newmtl slot142
+map_Kd packages/rorschach/5_bricks01.jpg
+
+newmtl slot143
+map_Kd packages/rorschach/5_faces.jpg
+
+newmtl slot151
+map_Kd packages/rorschach/hh3_m_light01.jpg
+

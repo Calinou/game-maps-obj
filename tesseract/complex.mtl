@@ -1,0 +1,407 @@
+# mtl file of Cube 2 level
+
+newmtl slot5
+map_Kd media/philipk2/pk02_generic01b_C.png
+
+newmtl slot6
+map_Kd media/cgtextures/carpet01.png
+
+newmtl slot8
+map_Kd media/nieb/complex/tile01.png
+
+newmtl slot10
+map_Kd media/philipk2/pk02_generic01b_C.png
+
+newmtl slot11
+map_Kd media/agf81/concrete1w_diffuse.png
+
+newmtl slot13
+map_Kd media/philipk2/pk02_generic01b_C.png
+
+newmtl slot16
+map_Kd media/nieb/complex/door_rail.png
+
+newmtl slot18
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot19
+map_Kd media/nobiax/pattern057_diffuse.png
+
+newmtl slot23
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot25
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot26
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot27
+map_Kd media/nieb/complex/electrical-outlet.png
+
+newmtl slot28
+map_Kd media/nieb/complex/light-switch.png
+
+newmtl slot29
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot30
+map_Kd media/nieb/complex/wall01.png
+
+newmtl slot31
+map_Kd media/cgtextures/buildingshighrise0436.png
+
+newmtl slot32
+map_Kd media/base/white.png
+
+newmtl slot34
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot37
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot41
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot43
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot44
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot45
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot46
+map_Kd media/nieb/complex/tile01.png
+
+newmtl slot47
+map_Kd media/cgtextures/buildingshighrise0290.png
+
+newmtl slot49
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot50
+map_Kd media/cgtextures/buildingshighrise0290.png
+
+newmtl slot51
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot52
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot53
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot54
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot55
+map_Kd media/nieb/complex/light-switch.png
+
+newmtl slot56
+map_Kd media/nieb/complex/wall01.png
+
+newmtl slot57
+map_Kd media/agf81/concrete1w_diffuse.png
+
+newmtl slot59
+map_Kd media/agf81/door_texture_2.png
+
+newmtl slot60
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot61
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot62
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot63
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot64
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot65
+map_Kd media/philipk2/pk02_generic01b_C.png
+
+newmtl slot66
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot67
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot68
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot70
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot71
+map_Kd media/nieb/complex/door_rail.png
+
+newmtl slot72
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot73
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot74
+map_Kd media/agf81/door_texture_2.png
+
+newmtl slot75
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot76
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot81
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot83
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot84
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot85
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot86
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot87
+map_Kd media/nieb/complex/step02.png
+
+newmtl slot88
+map_Kd media/nieb/complex/step02.png
+
+newmtl slot89
+map_Kd media/nieb/complex/step02.png
+
+newmtl slot90
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot91
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot92
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot93
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot94
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot95
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot96
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot97
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot98
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot99
+map_Kd media/nieb/complex/step02.png
+
+newmtl slot100
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot102
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot103
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot104
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot105
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot107
+map_Kd media/agf81/door_texture_2.png
+
+newmtl slot108
+map_Kd media/agf81/door_texture_2.png
+
+newmtl slot109
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot111
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot112
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot113
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot116
+map_Kd media/agf81/door_texture_2.png
+
+newmtl slot117
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot118
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot119
+map_Kd media/agf81/concrete1w_diffuse.png
+
+newmtl slot121
+map_Kd media/cgtextures/buildingshighrise0341.png
+
+newmtl slot122
+map_Kd media/cgtextures/buildingshighrise0341.png
+
+newmtl slot123
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot124
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot125
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot126
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot127
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot128
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot129
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot130
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot131
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot132
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot135
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot136
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot137
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot138
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot139
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot140
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot141
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot142
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot143
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot144
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot147
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot148
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot149
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot150
+map_Kd media/agf81/concrete1w_diffuse.png
+
+newmtl slot151
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot152
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot155
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot156
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot159
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot160
+map_Kd media/agf81/door_texture_2.png
+
+newmtl slot161
+map_Kd media/nieb/complex/door_rail.png
+
+newmtl slot162
+map_Kd media/agf81/door_texture_2.png
+
+newmtl slot163
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot165
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot166
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot167
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot168
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot169
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot170
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot171
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot172
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot173
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot174
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot175
+map_Kd media/cgtextures/ceilingtile01.png
+
+newmtl slot176
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot178
+map_Kd media/agf81/door_texture_2.png
+
+newmtl slot179
+map_Kd media/nieb/complex/tile02.png
+
+newmtl slot181
+map_Kd media/nieb/complex/tile02.png
+

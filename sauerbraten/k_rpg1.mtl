@@ -1,0 +1,197 @@
+# mtl file of Cube 2 level
+
+newmtl slot2
+map_Kd packages/dg/mad064.jpg
+
+newmtl slot3
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot4
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot5
+map_Kd packages/dg/mad067.jpg
+
+newmtl slot6
+map_Kd packages/dg/mur013.jpg
+
+newmtl slot7
+map_Kd packages/dg/mur017.jpg
+
+newmtl slot9
+map_Kd packages/dg/mur043.jpg
+
+newmtl slot11
+map_Kd packages/dg/mur049.jpg
+
+newmtl slot13
+map_Kd packages/dg/mur058.jpg
+
+newmtl slot14
+map_Kd packages/dg/mur060.jpg
+
+newmtl slot15
+map_Kd packages/dg/mur067.jpg
+
+newmtl slot17
+map_Kd packages/dg/mur067.jpg
+
+newmtl slot18
+map_Kd packages/dg/mur067.jpg
+
+newmtl slot19
+map_Kd packages/dg/mur080.jpg
+
+newmtl slot20
+map_Kd packages/dg/mur081.jpg
+
+newmtl slot22
+map_Kd packages/dg/mur087.jpg
+
+newmtl slot24
+map_Kd packages/dg/mur109.jpg
+
+newmtl slot25
+map_Kd packages/dg/mur127.jpg
+
+newmtl slot26
+map_Kd packages/dg/mur135.jpg
+
+newmtl slot29
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot31
+map_Kd packages/dg/floor_pavement_stone4_3.jpg
+
+newmtl slot32
+map_Kd packages/dg/floor_pavement_stone4_4moss.jpg
+
+newmtl slot41
+map_Kd packages/dg/floor_tile_ceramicBlue.jpg
+
+newmtl slot44
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot45
+map_Kd packages/dg/mad063.jpg
+
+newmtl slot47
+map_Kd packages/dg/mur073.jpg
+
+newmtl slot50
+map_Kd packages/dg/mur142.jpg
+
+newmtl slot52
+map_Kd packages/gor/ST_GK_008_cc.jpg
+
+newmtl slot64
+map_Kd packages/subverse/floor_tile_1.jpg
+
+newmtl slot68
+map_Kd packages/subverse/rock_vinelike.jpg
+
+newmtl slot99
+map_Kd packages/ik2k/ik_wood_trimh64d.jpg
+
+newmtl slot103
+map_Kd packages/ik2k/ik_wpaperplain128c.jpg
+
+newmtl slot106
+map_Kd packages/dg/trail.jpg
+
+newmtl slot107
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot108
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot109
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot110
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot111
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot112
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot113
+map_Kd packages/kurt/pathdirt.jpg
+
+newmtl slot114
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot125
+map_Kd packages/kurt/ceil1.jpg
+
+newmtl slot126
+map_Kd packages/kurt/ceil2.jpg
+
+newmtl slot127
+map_Kd packages/kurt/ceil3.jpg
+
+newmtl slot128
+map_Kd packages/kurt/ceil4.jpg
+
+newmtl slot129
+map_Kd packages/kurt/ceil5.jpg
+
+newmtl slot143
+map_Kd packages/rorschach/1r_plain_met02.jpg
+
+newmtl slot173
+map_Kd packages/rorschach/2_c_tiles01.jpg
+
+newmtl slot180
+map_Kd packages/rorschach/3i_crust.jpg
+
+newmtl slot192
+map_Kd packages/rorschach/5_bricks01.jpg
+
+newmtl slot207
+map_Kd packages/rorschach/j256_cobl01.jpg
+
+newmtl slot208
+map_Kd packages/kurt/carpet01.jpg
+
+newmtl slot209
+map_Kd packages/kurt/carpet02.jpg
+
+newmtl slot210
+map_Kd packages/kurt/carpet03.jpg
+
+newmtl slot211
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot212
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot213
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot214
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot218
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot219
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot221
+map_Kd packages/gor/GR_GK_001_cc.jpg
+
+newmtl slot222
+map_Kd packages/kurt/logwall01_d.jpg
+
+newmtl slot223
+map_Kd packages/kurt/logwall02_d.jpg
+
+newmtl slot224
+map_Kd packages/kurt/logwall01_d.jpg
+
+newmtl slot257
+map_Kd packages/gor/GR_GK_001_cc.jpg
+

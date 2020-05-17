@@ -1,0 +1,242 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/textures/default.png
+
+newmtl slot2
+map_Kd packages/aard/aardograss_1.jpg
+
+newmtl slot4
+map_Kd packages/ik2k/ik_floor_wood128b.jpg
+
+newmtl slot20
+map_Kd packages/dg/floor_soil&grave3.jpg
+
+newmtl slot23
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot24
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot25
+map_Kd packages/dg/mad063.jpg
+
+newmtl slot49
+map_Kd packages/tech1soc/032-10b.jpg
+
+newmtl slot91
+map_Kd packages/tech1soc/mat4b.jpg
+
+newmtl slot136
+map_Kd packages/ik2k/ik_woodv256a.jpg
+
+newmtl slot145
+map_Kd packages/ik2k/ik_wpaperplain128d.jpg
+
+newmtl slot202
+map_Kd packages/jf1/jf32.jpg
+
+newmtl slot212
+map_Kd packages/jf1/jfrust.jpg
+
+newmtl slot224
+map_Kd packages/aard/aardmmet32_1.jpg
+
+newmtl slot230
+map_Kd packages/egyptsoc/032-05d.jpg
+
+newmtl slot234
+map_Kd packages/egyptsoc/128-03c.jpg
+
+newmtl slot235
+map_Kd packages/egyptsoc/128-04a.jpg
+
+newmtl slot240
+map_Kd packages/egyptsoc/block01d.jpg
+
+newmtl slot256
+map_Kd packages/egyptsoc/s064-01b.jpg
+
+newmtl slot268
+map_Kd packages/egyptsoc/wood17.jpg
+
+newmtl slot279
+map_Kd packages/egyptsoc/block03b.jpg
+
+newmtl slot284
+map_Kd packages/egyptsoc/stone03d.jpg
+
+newmtl slot285
+map_Kd packages/egyptsoc/stone04d.jpg
+
+newmtl slot296
+map_Kd packages/rorschach/1r_clocktrim03b.jpg
+
+newmtl slot300
+map_Kd packages/rorschach/1r_light01.jpg
+
+newmtl slot305
+map_Kd packages/rorschach/1r_plain_met02.jpg
+
+newmtl slot308
+map_Kd packages/rorschach/1r_steps.jpg
+
+newmtl slot310
+map_Kd packages/rorschach/1_concrete01.jpg
+
+newmtl slot323
+map_Kd packages/rorschach/2_064_red_girder02.jpg
+
+newmtl slot324
+map_Kd packages/rorschach/2_128_redpan02.jpg
+
+newmtl slot326
+map_Kd packages/rorschach/2_256_red_thin02.jpg
+
+newmtl slot337
+map_Kd packages/rorschach/2_largemet03.jpg
+
+newmtl slot418
+map_Kd packages/lunaran/glue2_d.jpg
+
+newmtl slot452
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot474
+map_Kd packages/gibbie/base03_d.jpg
+
+newmtl slot480
+map_Kd packages/gibbie/base09_d.jpg
+
+newmtl slot481
+map_Kd packages/gibbie/base10_d.jpg
+
+newmtl slot504
+map_Kd packages/gibbie/base25_d.jpg
+
+newmtl slot514
+map_Kd packages/gibbie/base36_d.jpg
+
+newmtl slot601
+map_Kd packages/gor/GR_GK_008_cc.jpg
+
+newmtl slot621
+map_Kd packages/gor/WTA_GK_002_cc.jpg
+
+newmtl slot689
+map_Kd packages/mitaman/mm-brick71a.jpg
+
+newmtl slot734
+map_Kd packages/mitaman/mm-grassdead42.jpg
+
+newmtl slot768
+map_Kd packages/textures/nieb/rock02.jpg
+
+newmtl slot771
+map_Kd packages/textures/nieb/concrete-tan.jpg
+
+newmtl slot777
+map_Kd packages/textures/nieb/rubber-trim.jpg
+
+newmtl slot976
+map_Kd packages/egyptsoc/stone04d.jpg
+
+newmtl slot977
+map_Kd packages/egyptsoc/128-01pc.jpg
+
+newmtl slot978
+map_Kd packages/egyptsoc/stone04d.jpg
+
+newmtl slot979
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot980
+map_Kd packages/egyptsoc/wood17.jpg
+
+newmtl slot981
+map_Kd packages/egyptsoc/wood17.jpg
+
+newmtl slot982
+map_Kd packages/jf1/jf32.jpg
+
+newmtl slot984
+map_Kd packages/gor/WTA_GK_002_cc.jpg
+
+newmtl slot985
+map_Kd packages/ik2k/ik_woodv256a.jpg
+
+newmtl slot986
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot987
+map_Kd packages/ik2k/ik_woodv256a.jpg
+
+newmtl slot988
+map_Kd packages/rorschach/3r_plaster02.jpg
+
+newmtl slot989
+map_Kd packages/rorschach/1r_clocktrim03b.jpg
+
+newmtl slot990
+map_Kd packages/rorschach/3r_plaster02.jpg
+
+newmtl slot991
+map_Kd packages/rorschach/3r_plaster02.jpg
+
+newmtl slot993
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot994
+map_Kd packages/egyptsoc/128-03c.jpg
+
+newmtl slot995
+map_Kd packages/gibbie/base09_d.jpg
+
+newmtl slot999
+map_Kd packages/egyptsoc/128-03c.jpg
+
+newmtl slot1000
+map_Kd packages/gibbie/base10_d.jpg
+
+newmtl slot1001
+map_Kd packages/mitaman/mm-metalbase2.jpg
+
+newmtl slot1002
+map_Kd packages/jf1/jfrust.jpg
+
+newmtl slot1003
+map_Kd packages/mitaman/mm-metaltrim02.jpg
+
+newmtl slot1004
+map_Kd packages/mitaman/mm-metaltrim02.jpg
+
+newmtl slot1005
+map_Kd packages/egyptsoc/wood17.jpg
+
+newmtl slot1006
+map_Kd packages/egyptsoc/wood17.jpg
+
+newmtl slot1009
+map_Kd packages/egyptsoc/128-01pc.jpg
+
+newmtl slot1010
+map_Kd packages/egyptsoc/128-01pc.jpg
+
+newmtl slot1011
+map_Kd packages/gibbie/base04_d.jpg
+
+newmtl slot1013
+map_Kd packages/gibbie/base10_d.jpg
+
+newmtl slot1014
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot1015
+map_Kd packages/rorschach/3r_plaster02.jpg
+
+newmtl slot1016
+map_Kd packages/rorschach/3r_plaster02.jpg
+
+newmtl slot1018
+map_Kd packages/egyptsoc/stone04d.jpg
+

@@ -1,0 +1,431 @@
+# mtl file of Cube 2 level
+
+newmtl slot4
+map_Kd media/base/base4.png
+
+newmtl slot6
+map_Kd media/base/black.png
+
+newmtl slot8
+map_Kd media/nieb/complex/door_rail.png
+
+newmtl slot10
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot11
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot18
+map_Kd media/nieb/complex/step02.png
+
+newmtl slot23
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot46
+map_Kd media/nobiax/pattern037_diffuse.png
+
+newmtl slot62
+map_Kd media/philipk2/pk02_floor03_C.png
+
+newmtl slot65
+map_Kd media/philipk2/pk02_floor06a_C.png
+
+newmtl slot67
+map_Kd media/philipk2/pk02_floor07_C.png
+
+newmtl slot81
+map_Kd media/philipk2/pk02_generic01b_C.png
+
+newmtl slot82
+map_Kd media/philipk2/pk02_light01a_C.png
+
+newmtl slot87
+map_Kd media/philipk2/pk02_plates01a_C.png
+
+newmtl slot95
+map_Kd media/philipk2/pk02_trim04a_C.png
+
+newmtl slot96
+map_Kd media/philipk2/pk02_trim04b_C.png
+
+newmtl slot99
+map_Kd media/philipk2/pk02_trim_set02a_C.png
+
+newmtl slot121
+map_Kd media/philipk2/pk02_computer01b_C.png
+
+newmtl slot129
+map_Kd media/philipk2/pk02_switches01b_C.png
+
+newmtl slot130
+map_Kd media/philipk2/pk02_switches01c_C.png
+
+newmtl slot136
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot137
+map_Kd media/philipk2/pk02_floor11_C.png
+
+newmtl slot138
+map_Kd media/philipk2/pk02_trim_set02a_C.png
+
+newmtl slot139
+map_Kd media/philipk2/pk02_trim_set02a_C.png
+
+newmtl slot140
+map_Kd media/base/base3.png
+
+newmtl slot141
+map_Kd media/base/base4.png
+
+newmtl slot142
+map_Kd media/base/base3.png
+
+newmtl slot143
+map_Kd media/philipk2/pk02_wall_big01b_C.png
+
+newmtl slot145
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot147
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot148
+map_Kd media/philipk2/pk02_floor11_C.png
+
+newmtl slot149
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot150
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot151
+map_Kd media/philipk2/pk02_floor11_C.png
+
+newmtl slot152
+map_Kd media/philipk2/pk02_floor12a_C.png
+
+newmtl slot153
+map_Kd media/kurt/circuit01_C.jpg
+
+newmtl slot154
+map_Kd media/kurt/wires01_C.jpg
+
+newmtl slot155
+map_Kd media/kurt/wires01_C.jpg
+
+newmtl slot156
+map_Kd media/kurt/wires01_C.jpg
+
+newmtl slot157
+map_Kd media/kurt/wires01_C.jpg
+
+newmtl slot159
+map_Kd media/kurt/circuit01_C.jpg
+
+newmtl slot161
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot162
+map_Kd media/nobiax/pattern056_diffuse.png
+
+newmtl slot168
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot173
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot174
+map_Kd media/philipk2/pk02_floor11_C.png
+
+newmtl slot177
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot178
+map_Kd media/philipk2/pk02_light01b_C.png
+
+newmtl slot179
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot190
+map_Kd media/base/base4.png
+
+newmtl slot191
+map_Kd media/base/base3.png
+
+newmtl slot192
+map_Kd media/philipk2/pk02_wall_big01b_C.png
+
+newmtl slot193
+map_Kd media/philipk2/pk02_wall_big01b_C.png
+
+newmtl slot196
+map_Kd media/nobiax/pattern045_diffuse.png
+
+newmtl slot204
+map_Kd media/base/base4.png
+
+newmtl slot205
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot206
+map_Kd media/philipk2/pk02_wall_big02a_C.png
+
+newmtl slot207
+map_Kd media/philipk2/pk02_wall_big02a_C.png
+
+newmtl slot208
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot210
+map_Kd media/philipk2/pk02_wall_big02a_C.png
+
+newmtl slot212
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot213
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot214
+map_Kd media/base/base4.png
+
+newmtl slot215
+map_Kd media/nieb/complex/step02.png
+
+newmtl slot223
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot225
+map_Kd media/base/base4.png
+
+newmtl slot230
+map_Kd media/philipk2/pk02_trim_set02a_C.png
+
+newmtl slot231
+map_Kd media/base/base4.png
+
+newmtl slot232
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot238
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot273
+map_Kd media/nieb/complex/step01.png
+
+newmtl slot274
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot275
+map_Kd media/philipk2/pk02_light01b_C.png
+
+newmtl slot276
+map_Kd media/philipk2/pk02_light01b_C.png
+
+newmtl slot279
+map_Kd media/philipk2/pk02_light01b_C.png
+
+newmtl slot280
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot281
+map_Kd media/philipk2/pk02_generic01b_C.png
+
+newmtl slot282
+map_Kd media/philipk2/pk02_wall03a_C.png
+
+newmtl slot283
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot286
+map_Kd media/philipk2/pk02_wall04a_C.png
+
+newmtl slot287
+map_Kd media/philipk2/pk02_wall04a_C.png
+
+newmtl slot288
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot290
+map_Kd media/cgtextures/tilesplain0119.png
+
+newmtl slot294
+map_Kd media/philipk2/pk02_switches01c_C.png
+
+newmtl slot296
+map_Kd media/philipk2/pk02_computer01c_C.png
+
+newmtl slot299
+map_Kd media/kurt/wires01_C.jpg
+
+newmtl slot300
+map_Kd media/kurt/wires01_C.jpg
+
+newmtl slot302
+map_Kd media/kurt/circuit01_C.jpg
+
+newmtl slot303
+map_Kd media/philipk2/pk02_switches01b_C.png
+
+newmtl slot304
+map_Kd media/philipk2/pk02_wall07b_C.png
+
+newmtl slot305
+map_Kd media/philipk2/pk02_wall07b_C.png
+
+newmtl slot308
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot309
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot311
+map_Kd media/philipk2/pk02_floor06a_C.png
+
+newmtl slot312
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot314
+map_Kd media/nobiax/pattern045_diffuse.png
+
+newmtl slot315
+map_Kd media/nobiax/pattern045_diffuse.png
+
+newmtl slot320
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot321
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot322
+map_Kd media/kurt/circuit01_C.jpg
+
+newmtl slot323
+map_Kd media/kurt/circuit01_C.jpg
+
+newmtl slot324
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot325
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot326
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot327
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot329
+map_Kd media/kurt/circuit01_C.jpg
+
+newmtl slot336
+map_Kd media/philipk2/pk02_wall_big02a_C.png
+
+newmtl slot337
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot339
+map_Kd media/philipk2/pk02_wall_big02a_C.png
+
+newmtl slot341
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot344
+map_Kd media/philipk2/pk02_floor06a_C.png
+
+newmtl slot345
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot346
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot347
+map_Kd media/philipk2/pk02_wall_big02a_C.png
+
+newmtl slot348
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot349
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot350
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot351
+map_Kd media/nobiax/pattern045_diffuse.png
+
+newmtl slot362
+map_Kd media/kurt/circuit01_C.jpg
+
+newmtl slot363
+map_Kd media/philipk2/pk02_switches01b_C.png
+
+newmtl slot366
+map_Kd media/philipk2/pk02_wall_big02b_C.png
+
+newmtl slot367
+map_Kd media/philipk2/pk02_light01b_C.png
+
+newmtl slot368
+map_Kd media/base/base3.png
+
+newmtl slot369
+map_Kd media/agf81/metal_a2_diffuse.png
+
+newmtl slot370
+map_Kd media/kurt/circuit01_C.jpg
+
+newmtl slot371
+map_Kd media/philipk2/pk02_generic01b_C.png
+
+newmtl slot372
+map_Kd media/philipk2/pk02_floor05_C.png
+
+newmtl slot374
+map_Kd media/kurt/circuit01_C.jpg
+
+newmtl slot376
+map_Kd media/kurt/wires01_C.jpg
+
+newmtl slot377
+map_Kd media/philipk2/pk02_generic01b_C.png
+
+newmtl slot379
+map_Kd media/philipk2/pk02_wall_big02a_C.png
+
+newmtl slot380
+map_Kd media/philipk2/pk02_wall_big02a_C.png
+
+newmtl slot381
+map_Kd media/philipk2/pk02_wall_big02a_C.png
+
+newmtl slot411
+map_Kd media/nieb/complex/step03.png
+
+newmtl slot412
+map_Kd media/base/base3.png
+
+newmtl slot413
+map_Kd media/philipk2/pk02_floor_cyl01_C.png
+
+newmtl slot414
+map_Kd media/philipk2/pk02_floor_cyl01_C.png
+
+newmtl slot415
+map_Kd media/philipk2/pk02_floor_cyl01_C.png
+
+newmtl slot416
+map_Kd media/philipk2/pk02_floor_cyl01_C.png
+
+newmtl slot418
+map_Kd media/philipk2/pk02_floor_cyl01_C.png
+
+newmtl slot419
+map_Kd media/philipk2/pk02_floor_cyl01_C.png
+
+newmtl slot420
+map_Kd media/kurt/circuit01_C.jpg
+
+newmtl slot421
+map_Kd media/kurt/wires01_C.jpg
+

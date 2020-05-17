@@ -1,0 +1,68 @@
+# mtl file of Cube 2 level
+
+newmtl slot4
+map_Kd packages/ik2k/ik_floor_wood128b.jpg
+
+newmtl slot5
+map_Kd packages/ik2k/ik_ground_cobbles128.jpg
+
+newmtl slot11
+map_Kd packages/dg/floor_pavement_stone4_3.jpg
+
+newmtl slot14
+map_Kd packages/dg/floor_pavement_stone_four2.jpg
+
+newmtl slot35
+map_Kd packages/dg/sup075.jpg
+
+newmtl slot202
+map_Kd packages/jf1/jf32.jpg
+
+newmtl slot204
+map_Kd packages/jf1/jf128.jpg
+
+newmtl slot207
+map_Kd packages/jf1/jfgrid.jpg
+
+newmtl slot212
+map_Kd packages/jf1/jfrust.jpg
+
+newmtl slot329
+map_Kd packages/rorschach/2_conc_celing01.jpg
+
+newmtl slot346
+map_Kd packages/rorschach/3r_light01b.jpg
+
+newmtl slot347
+map_Kd packages/rorschach/3r_lighthh01b.jpg
+
+newmtl slot452
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot647
+map_Kd packages/aftas/piso5.jpg
+
+newmtl slot648
+map_Kd packages/aftas/par9.jpg
+
+newmtl slot649
+map_Kd packages/aftas/par10_a.jpg
+
+newmtl slot652
+map_Kd packages/aftas/piso2.jpg
+
+newmtl slot653
+map_Kd packages/aftas/rodape1.jpg
+
+newmtl slot654
+map_Kd packages/aftas/rodape1.jpg
+
+newmtl slot658
+map_Kd packages/aftas/piso3.jpg
+
+newmtl slot662
+map_Kd packages/mitaman/mm-tile38.jpg
+
+newmtl slot749
+map_Kd <dup:1,2>packages/rorschach/5_blood01.jpg
+

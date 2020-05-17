@@ -1,0 +1,335 @@
+# mtl file of map
+
+newmtl slot1
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot3
+map_Kd data/trak/trak6/tile3.jpg
+
+newmtl slot5
+map_Kd data/trak/trak5/light3a.jpg
+
+newmtl slot6
+map_Kd data/trak/trak5/pipe1b.jpg
+
+newmtl slot7
+map_Kd data/trak/trak5/pipe1c.jpg
+
+newmtl slot8
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot9
+map_Kd data/trak/trak5/tile1e.jpg
+
+newmtl slot10
+map_Kd data/trak/trak5/trim3e.jpg
+
+newmtl slot12
+map_Kd data/philipk/pk01/panel_small01_d.png
+
+newmtl slot13
+map_Kd data/philipk/pk01/floor01a_d.png
+
+newmtl slot14
+map_Kd data/philipk/pk01/floor02b_d.png
+
+newmtl slot15
+map_Kd data/philipk/pk01/gra_floor02_d.png
+
+newmtl slot16
+map_Kd data/philipk/pk01/vent_wall01a_d.png
+
+newmtl slot17
+map_Kd data/philipk/pk02/light01b_c.png
+
+newmtl slot18
+map_Kd data/philipk/pk02/pipes01_c.png
+
+newmtl slot19
+map_Kd data/philipk/pk02/switches01b_c.png
+
+newmtl slot20
+map_Kd data/philipk/pk02/switches01c_c.png
+
+newmtl slot21
+map_Kd data/philipk/pk02/floor01_c.png
+
+newmtl slot23
+map_Kd data/philipk/pk02/floor05_c.png
+
+newmtl slot24
+map_Kd data/philipk/pk02/floor06a_c.png
+
+newmtl slot25
+map_Kd data/philipk/pk02/floor07_c.png
+
+newmtl slot26
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot27
+map_Kd data/philipk/pk02/switches01a_c.png
+
+newmtl slot28
+map_Kd data/philipk/pk02/trim04a_c.png
+
+newmtl slot29
+map_Kd data/philipk/pk02/wall_big01a_c.png
+
+newmtl slot30
+map_Kd data/philipk/pk02/wall_big01b_c.png
+
+newmtl slot34
+map_Kd data/philipk/pk02/switches01c_c.png
+
+newmtl slot35
+map_Kd data/philipk/pk02/switches01c_c.png
+
+newmtl slot36
+map_Kd data/appleflap/danger.jpg
+
+newmtl slot38
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot40
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot41
+map_Kd data/nieb/complex/step02.png
+
+newmtl slot42
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot45
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot47
+map_Kd data/trak/trak5/tile3d.jpg
+
+newmtl slot48
+map_Kd data/trak/trak5/tile5c.jpg
+
+newmtl slot53
+map_Kd data/nieb/complex/step01.png
+
+newmtl slot54
+map_Kd data/philipk/pk02/light02a_c.png
+
+newmtl slot60
+map_Kd data/misc/agf81/concrete1w_diffuse.png
+
+newmtl slot61
+map_Kd data/jojo/sand01.png
+
+newmtl slot62
+map_Kd data/jojo/sand01.png
+
+newmtl slot63
+map_Kd data/jojo/sand01.png
+
+newmtl slot64
+map_Kd data/jojo/sand01.png
+
+newmtl slot65
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot66
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot67
+map_Kd data/nieb/complex/wall01.png
+
+newmtl slot68
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot69
+map_Kd data/trak/trak6/tile3.jpg
+
+newmtl slot70
+map_Kd data/philipk/pk02/floor12a_c.png
+
+newmtl slot71
+map_Kd data/nieb/complex/step02.png
+
+newmtl slot72
+map_Kd data/trak/trak5/tile1e.jpg
+
+newmtl slot73
+map_Kd data/trak/trak5/wall3e.jpg
+
+newmtl slot74
+map_Kd data/trak/trak5/wall1e.jpg
+
+newmtl slot75
+map_Kd data/trak/trak6/tile3.jpg
+
+newmtl slot76
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot77
+map_Kd data/philipk/pk02/floor05_c.png
+
+newmtl slot78
+map_Kd data/trak/trak5/tile1e.jpg
+
+newmtl slot79
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot80
+map_Kd data/trak/trak5/tile1e.jpg
+
+newmtl slot81
+map_Kd data/trak/trak6/light1.jpg
+
+newmtl slot82
+map_Kd data/trak/trak5/light3a.jpg
+
+newmtl slot83
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot84
+map_Kd data/acerspyro/light1/light1.png
+
+newmtl slot85
+map_Kd data/philipk/pk02/trim04a_c.png
+
+newmtl slot87
+map_Kd data/trak/trak6/tile3.jpg
+
+newmtl slot88
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot89
+map_Kd data/acerspyro/light1/light1.png
+
+newmtl slot91
+map_Kd data/acerspyro/light1/light1.png
+
+newmtl slot92
+map_Kd data/trak/trak6/light1.jpg
+
+newmtl slot94
+map_Kd data/philipk/pk02/light01b_c.png
+
+newmtl slot95
+map_Kd data/philipk/pk02/light01b_c.png
+
+newmtl slot96
+map_Kd data/trak/trak5/tile1e.jpg
+
+newmtl slot97
+map_Kd data/trak/trak5/light3a.jpg
+
+newmtl slot98
+map_Kd data/trak/trak5/tile1e.jpg
+
+newmtl slot99
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot100
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot101
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot102
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot103
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot104
+map_Kd data/philipk/pk02/generic01b_c.png
+
+newmtl slot105
+map_Kd data/trak/trak5/trim3e.jpg
+
+newmtl slot106
+map_Kd data/philipk/pk01/floor02b_d.png
+
+newmtl slot107
+map_Kd data/acerspyro/light1/light1.png
+
+newmtl slot108
+map_Kd data/philipk/pk01/floor01a_d.png
+
+newmtl slot109
+map_Kd data/acerspyro/light1/light1.png
+
+newmtl slot110
+map_Kd data/philipk/pk02/floor07_c.png
+
+newmtl slot111
+map_Kd data/philipk/pk02/wall_big01b_c.png
+
+newmtl slot112
+map_Kd data/trak/trak5/ribs1a.jpg
+
+newmtl slot113
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot114
+map_Kd data/trak/trak5/light3a.jpg
+
+newmtl slot115
+map_Kd data/philipk/pk01/floor02b_d.png
+
+newmtl slot116
+map_Kd data/philipk/pk02/switches01a_c.png
+
+newmtl slot117
+map_Kd data/trak/trak6/light1.jpg
+
+newmtl slot118
+map_Kd data/acerspyro/light2/light2.png
+
+newmtl slot119
+map_Kd data/philipk/pk01/floor02b_d.png
+
+newmtl slot120
+map_Kd data/acerspyro/light1/light1.png
+
+newmtl slot121
+map_Kd data/trak/trak5/light3a.jpg
+
+newmtl slot122
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot123
+map_Kd data/philipk/pk02/switches01a_c.png
+
+newmtl slot124
+map_Kd data/trak/trak6/tile3.jpg
+
+newmtl slot125
+map_Kd data/jojo/sand01.png
+
+newmtl slot127
+map_Kd data/jojo/windowstile04_g.png
+
+newmtl slot128
+map_Kd data/acerspyro/light1/light1.png
+
+newmtl slot129
+map_Kd data/trak/trak6/tile3.jpg
+
+newmtl slot130
+map_Kd data/trak/trak6/tile3.jpg
+
+newmtl slot131
+map_Kd data/mikeplus64/plain.png
+
+newmtl slot132
+map_Kd data/trak/trak6/tile3.jpg
+
+newmtl slot133
+map_Kd data/nieb/complex/step03.png
+
+newmtl slot134
+map_Kd data/trak/trak5/light3a.jpg
+
+newmtl slot135
+map_Kd data/trak/trak6/trim1.jpg
+
+newmtl slot136
+map_Kd data/trak/trak6/trim1.jpg
+

@@ -1,0 +1,1121 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/textures/default.png
+
+newmtl slot2
+map_Kd packages/egyptsoc/block01a.jpg
+
+newmtl slot6
+map_Kd packages/egyptsoc/block03a.jpg
+
+newmtl slot7
+map_Kd packages/egyptsoc/block03b.jpg
+
+newmtl slot10
+map_Kd packages/egyptsoc/block06a.jpg
+
+newmtl slot11
+map_Kd packages/egyptsoc/block06b.jpg
+
+newmtl slot12
+map_Kd packages/egyptsoc/block07a.jpg
+
+newmtl slot13
+map_Kd packages/egyptsoc/block07b.jpg
+
+newmtl slot15
+map_Kd packages/egyptsoc/block08b.jpg
+
+newmtl slot18
+map_Kd packages/egyptsoc/block09a.jpg
+
+newmtl slot19
+map_Kd packages/egyptsoc/block09b.jpg
+
+newmtl slot20
+map_Kd packages/egyptsoc/block10a.jpg
+
+newmtl slot21
+map_Kd packages/egyptsoc/block10b.jpg
+
+newmtl slot37
+map_Kd packages/egyptsoc/block01a-mat.jpg
+
+newmtl slot38
+map_Kd packages/egyptsoc/block01b-mat.jpg
+
+newmtl slot39
+map_Kd packages/egyptsoc/block01c.jpg
+
+newmtl slot40
+map_Kd packages/egyptsoc/block01d.jpg
+
+newmtl slot42
+map_Kd packages/egyptsoc/block02b.jpg
+
+newmtl slot43
+map_Kd packages/egyptsoc/block02c.jpg
+
+newmtl slot46
+map_Kd packages/egyptsoc/sand1b.jpg
+
+newmtl slot48
+map_Kd packages/egyptsoc/wood04.jpg
+
+newmtl slot54
+map_Kd packages/egyptsoc/wood18.jpg
+
+newmtl slot64
+map_Kd packages/egyptsoc/stone01b.jpg
+
+newmtl slot66
+map_Kd packages/egyptsoc/stone01d.jpg
+
+newmtl slot71
+map_Kd packages/egyptsoc/stone03bb.jpg
+
+newmtl slot72
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot73
+map_Kd packages/egyptsoc/stone03c.jpg
+
+newmtl slot74
+map_Kd packages/egyptsoc/stone03d.jpg
+
+newmtl slot75
+map_Kd packages/egyptsoc/stone04a.jpg
+
+newmtl slot76
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot77
+map_Kd packages/egyptsoc/stone04c.jpg
+
+newmtl slot78
+map_Kd packages/egyptsoc/stone04d.jpg
+
+newmtl slot79
+map_Kd packages/egyptsoc/stone05a.jpg
+
+newmtl slot81
+map_Kd packages/egyptsoc/stone06a.jpg
+
+newmtl slot84
+map_Kd packages/egyptsoc/stone07a.jpg
+
+newmtl slot89
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot90
+map_Kd packages/egyptsoc/stone08c.jpg
+
+newmtl slot91
+map_Kd packages/egyptsoc/stone08d.jpg
+
+newmtl slot92
+map_Kd packages/egyptsoc/stone09a.jpg
+
+newmtl slot93
+map_Kd packages/egyptsoc/stone09b.jpg
+
+newmtl slot94
+map_Kd packages/egyptsoc/stone09c.jpg
+
+newmtl slot95
+map_Kd packages/egyptsoc/stone09d.jpg
+
+newmtl slot96
+map_Kd packages/egyptsoc/stone10a.jpg
+
+newmtl slot97
+map_Kd packages/egyptsoc/stone10b.jpg
+
+newmtl slot99
+map_Kd packages/egyptsoc/stone10d.jpg
+
+newmtl slot101
+map_Kd packages/egyptsoc/stone11b.jpg
+
+newmtl slot105
+map_Kd packages/egyptsoc/032-01b.jpg
+
+newmtl slot110
+map_Kd packages/egyptsoc/032-03a.jpg
+
+newmtl slot111
+map_Kd packages/egyptsoc/032-03b.jpg
+
+newmtl slot114
+map_Kd packages/egyptsoc/032-04b.jpg
+
+newmtl slot123
+map_Kd packages/egyptsoc/032-06a.jpg
+
+newmtl slot124
+map_Kd packages/egyptsoc/032-06b.jpg
+
+newmtl slot129
+map_Kd packages/egyptsoc/048-02a.jpg
+
+newmtl slot138
+map_Kd packages/egyptsoc/064-01b.jpg
+
+newmtl slot141
+map_Kd packages/egyptsoc/064-02b.jpg
+
+newmtl slot157
+map_Kd packages/egyptsoc/064-07a.jpg
+
+newmtl slot169
+map_Kd packages/egyptsoc/128-01a.jpg
+
+newmtl slot170
+map_Kd packages/egyptsoc/128-01b.jpg
+
+newmtl slot172
+map_Kd packages/egyptsoc/128-01pa.jpg
+
+newmtl slot173
+map_Kd packages/egyptsoc/128-01pb.jpg
+
+newmtl slot176
+map_Kd packages/egyptsoc/128-02b.jpg
+
+newmtl slot179
+map_Kd packages/egyptsoc/128-02pb.jpg
+
+newmtl slot181
+map_Kd packages/egyptsoc/128-03a.jpg
+
+newmtl slot182
+map_Kd packages/egyptsoc/128-03b.jpg
+
+newmtl slot189
+map_Kd packages/egyptsoc/128-04dr.jpg
+
+newmtl slot191
+map_Kd packages/egyptsoc/128-05b.jpg
+
+newmtl slot195
+map_Kd packages/egyptsoc/128-05f.jpg
+
+newmtl slot197
+map_Kd packages/egyptsoc/128-05h.jpg
+
+newmtl slot198
+map_Kd packages/egyptsoc/128-05i.jpg
+
+newmtl slot201
+map_Kd packages/egyptsoc/256-01a.jpg
+
+newmtl slot202
+map_Kd packages/egyptsoc/256-01b.jpg
+
+newmtl slot206
+map_Kd packages/egyptsoc/256-03d.jpg
+
+newmtl slot208
+map_Kd packages/egyptsoc/256-04b.jpg
+
+newmtl slot212
+map_Kd packages/egyptsoc/lig_128-05b.jpg
+
+newmtl slot244
+map_Kd packages/egyptsoc/s128-01a.jpg
+
+newmtl slot262
+map_Kd packages/egyptsoc/s128-04b.jpg
+
+newmtl slot270
+map_Kd packages/egyptsoc/s064-05b.jpg
+
+newmtl slot274
+map_Kd packages/egyptsoc/s064-05f.jpg
+
+newmtl slot282
+map_Kd packages/egyptsoc/s064-05n.jpg
+
+newmtl slot285
+map_Kd packages/egyptsoc/step01a.jpg
+
+newmtl slot286
+map_Kd packages/egyptsoc/step01b.jpg
+
+newmtl slot288
+map_Kd packages/egyptsoc/stepangle01b.jpg
+
+newmtl slot292
+map_Kd packages/egyptsoc/t064-01b.jpg
+
+newmtl slot294
+map_Kd packages/egyptsoc/t064-02b.jpg
+
+newmtl slot298
+map_Kd packages/egyptsoc/v064-01b.jpg
+
+newmtl slot306
+map_Kd packages/egyptsoc/v064-02b.jpg
+
+newmtl slot375
+map_Kd packages/egyptsoc/lig_032-01y2.jpg
+
+newmtl slot435
+map_Kd packages/egyptsoc/lig_064-06r2.jpg
+
+newmtl slot449
+map_Kd packages/egyptsoc/lig_b064-01b.jpg
+
+newmtl slot547
+map_Kd packages/egyptsoc/lig_064-06b2.jpg
+
+newmtl slot553
+map_Kd packages/egyptsoc/lig_064-06y2.jpg
+
+newmtl slot562
+map_Kd packages/egyptsoc/lig_b064-01a.jpg
+
+newmtl slot564
+map_Kd packages/egyptsoc/lig_b064-01c.jpg
+
+newmtl slot565
+map_Kd packages/egyptsoc/lig_b064-01d.jpg
+
+newmtl slot592
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot593
+map_Kd packages/egyptsoc/wood18_diagonal.jpg
+
+newmtl slot594
+map_Kd packages/caustics/caust00.png
+
+newmtl slot852
+map_Kd packages/egyptsoc/sand1b.jpg
+
+newmtl slot854
+map_Kd packages/egyptsoc/step01a.jpg
+
+newmtl slot855
+map_Kd packages/egyptsoc/jumppad1bb.png
+
+newmtl slot856
+map_Kd packages/egyptsoc/block03b.jpg
+
+newmtl slot857
+map_Kd packages/egyptsoc/256-03b.jpg
+
+newmtl slot859
+map_Kd packages/egyptsoc/stone09b.jpg
+
+newmtl slot860
+map_Kd packages/egyptsoc/128-05b.jpg
+
+newmtl slot861
+map_Kd packages/egyptsoc/128-05b.jpg
+
+newmtl slot862
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot863
+map_Kd packages/egyptsoc/128-05b.jpg
+
+newmtl slot864
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot866
+map_Kd packages/egyptsoc/lig_128-05a.jpg
+
+newmtl slot867
+map_Kd packages/egyptsoc/s128-02b.jpg
+
+newmtl slot868
+map_Kd packages/egyptsoc/256-03b.jpg
+
+newmtl slot870
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot871
+map_Kd packages/egyptsoc/stone11b.jpg
+
+newmtl slot872
+map_Kd packages/egyptsoc/256-01b.jpg
+
+newmtl slot873
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot874
+map_Kd packages/egyptsoc/stone04a.jpg
+
+newmtl slot875
+map_Kd packages/egyptsoc/s128-01cr.jpg
+
+newmtl slot876
+map_Kd packages/egyptsoc/lig_064-01w1.jpg
+
+newmtl slot877
+map_Kd packages/egyptsoc/stone04a.jpg
+
+newmtl slot878
+map_Kd packages/egyptsoc/032-06b.jpg
+
+newmtl slot879
+map_Kd packages/egyptsoc/032-06a.jpg
+
+newmtl slot880
+map_Kd packages/egyptsoc/032-06b.jpg
+
+newmtl slot881
+map_Kd packages/egyptsoc/wood18.jpg
+
+newmtl slot882
+map_Kd packages/egyptsoc/s128-02e.jpg
+
+newmtl slot883
+map_Kd packages/egyptsoc/stone10a.jpg
+
+newmtl slot884
+map_Kd packages/egyptsoc/stone11a.jpg
+
+newmtl slot885
+map_Kd packages/egyptsoc/stone08a.jpg
+
+newmtl slot886
+map_Kd packages/egyptsoc/s128-02a.jpg
+
+newmtl slot887
+map_Kd packages/egyptsoc/s128-02a.jpg
+
+newmtl slot888
+map_Kd packages/egyptsoc/s064-05a.jpg
+
+newmtl slot889
+map_Kd packages/egyptsoc/stone03c.jpg
+
+newmtl slot890
+map_Kd packages/egyptsoc/step01b.jpg
+
+newmtl slot891
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot892
+map_Kd packages/egyptsoc/stone05a.jpg
+
+newmtl slot893
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot894
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot895
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot896
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot897
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot898
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot899
+map_Kd packages/egyptsoc/wood18_diagonal.jpg
+
+newmtl slot901
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot902
+map_Kd packages/egyptsoc/128-01pb.jpg
+
+newmtl slot904
+map_Kd packages/egyptsoc/stone10b.jpg
+
+newmtl slot905
+map_Kd packages/egyptsoc/s128-01b.jpg
+
+newmtl slot906
+map_Kd packages/egyptsoc/s128-01b.jpg
+
+newmtl slot907
+map_Kd packages/egyptsoc/block10a.jpg
+
+newmtl slot908
+map_Kd packages/egyptsoc/block10a.jpg
+
+newmtl slot909
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot910
+map_Kd packages/egyptsoc/stone09b.jpg
+
+newmtl slot911
+map_Kd packages/egyptsoc/step01b.jpg
+
+newmtl slot912
+map_Kd packages/egyptsoc/stone10d.jpg
+
+newmtl slot913
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot914
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot915
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot916
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot917
+map_Kd packages/egyptsoc/t064-01b.jpg
+
+newmtl slot919
+map_Kd packages/egyptsoc/block10a.jpg
+
+newmtl slot920
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot921
+map_Kd packages/egyptsoc/stone08d.jpg
+
+newmtl slot923
+map_Kd packages/egyptsoc/stone09b.jpg
+
+newmtl slot924
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot925
+map_Kd packages/egyptsoc/stone09b.jpg
+
+newmtl slot926
+map_Kd packages/egyptsoc/block10a.jpg
+
+newmtl slot928
+map_Kd packages/egyptsoc/s128-01cr.jpg
+
+newmtl slot929
+map_Kd packages/egyptsoc/128-05g.jpg
+
+newmtl slot930
+map_Kd packages/egyptsoc/stone10c.jpg
+
+newmtl slot931
+map_Kd packages/egyptsoc/stone08a.jpg
+
+newmtl slot932
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot933
+map_Kd packages/egyptsoc/256-03c.jpg
+
+newmtl slot936
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot937
+map_Kd packages/egyptsoc/t064-01b.jpg
+
+newmtl slot938
+map_Kd packages/egyptsoc/lig_064-06r2.jpg
+
+newmtl slot940
+map_Kd packages/egyptsoc/128-05j.jpg
+
+newmtl slot941
+map_Kd packages/egyptsoc/block10b.jpg
+
+newmtl slot942
+map_Kd packages/egyptsoc/128-01pb.jpg
+
+newmtl slot943
+map_Kd packages/egyptsoc/128-01pb.jpg
+
+newmtl slot944
+map_Kd packages/egyptsoc/step01b.jpg
+
+newmtl slot945
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot946
+map_Kd packages/egyptsoc/s064-05b.jpg
+
+newmtl slot947
+map_Kd packages/egyptsoc/s128-04b.jpg
+
+newmtl slot948
+map_Kd packages/egyptsoc/s128-02dd.jpg
+
+newmtl slot949
+map_Kd packages/egyptsoc/128-01pb.jpg
+
+newmtl slot950
+map_Kd packages/egyptsoc/lig_b064-02d.jpg
+
+newmtl slot952
+map_Kd packages/egyptsoc/128-05b.jpg
+
+newmtl slot953
+map_Kd packages/egyptsoc/lig_b064-01a.jpg
+
+newmtl slot954
+map_Kd packages/egyptsoc/032-04a.jpg
+
+newmtl slot955
+map_Kd packages/egyptsoc/lig_b064-01a.jpg
+
+newmtl slot956
+map_Kd packages/egyptsoc/lig_b064-01a.jpg
+
+newmtl slot957
+map_Kd packages/egyptsoc/v128-03d.jpg
+
+newmtl slot961
+map_Kd packages/egyptsoc/stone04d.jpg
+
+newmtl slot962
+map_Kd packages/egyptsoc/128-05b.jpg
+
+newmtl slot963
+map_Kd packages/egyptsoc/128-01pb.jpg
+
+newmtl slot970
+map_Kd packages/egyptsoc/064-01b.jpg
+
+newmtl slot971
+map_Kd packages/egyptsoc/stone08a.jpg
+
+newmtl slot972
+map_Kd packages/egyptsoc/stone01b.jpg
+
+newmtl slot974
+map_Kd packages/egyptsoc/s128-01dr.jpg
+
+newmtl slot975
+map_Kd packages/egyptsoc/lig_064-01w2.jpg
+
+newmtl slot976
+map_Kd packages/egyptsoc/128-01a.jpg
+
+newmtl slot977
+map_Kd packages/egyptsoc/128-02a.jpg
+
+newmtl slot979
+map_Kd packages/egyptsoc/128-03a.jpg
+
+newmtl slot980
+map_Kd packages/egyptsoc/032-06b.jpg
+
+newmtl slot981
+map_Kd packages/egyptsoc/block07b.jpg
+
+newmtl slot983
+map_Kd packages/egyptsoc/128-02b.jpg
+
+newmtl slot984
+map_Kd packages/egyptsoc/048-02h.jpg
+
+newmtl slot985
+map_Kd packages/egyptsoc/048-02h.jpg
+
+newmtl slot986
+map_Kd packages/egyptsoc/lig_032-04r2.jpg
+
+newmtl slot993
+map_Kd packages/egyptsoc/lig_032-04r2.jpg
+
+newmtl slot994
+map_Kd packages/egyptsoc/048-02h.jpg
+
+newmtl slot996
+map_Kd packages/egyptsoc/128-05f.jpg
+
+newmtl slot997
+map_Kd packages/egyptsoc/stone09b.jpg
+
+newmtl slot999
+map_Kd packages/egyptsoc/block09b.jpg
+
+newmtl slot1000
+map_Kd packages/egyptsoc/lig_064-05w2.jpg
+
+newmtl slot1002
+map_Kd packages/egyptsoc/jumppad1ar.png
+
+newmtl slot1003
+map_Kd packages/egyptsoc/v128-03b.jpg
+
+newmtl slot1004
+map_Kd packages/egyptsoc/stone01d.jpg
+
+newmtl slot1005
+map_Kd packages/egyptsoc/032-01b.jpg
+
+newmtl slot1007
+map_Kd packages/egyptsoc/s064-05b.jpg
+
+newmtl slot1009
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot1011
+map_Kd packages/egyptsoc/032-01b.jpg
+
+newmtl slot1012
+map_Kd packages/egyptsoc/128-04dr.jpg
+
+newmtl slot1013
+map_Kd packages/egyptsoc/block01a.jpg
+
+newmtl slot1014
+map_Kd packages/egyptsoc/v064-01a.jpg
+
+newmtl slot1015
+map_Kd packages/egyptsoc/stone09a.jpg
+
+newmtl slot1016
+map_Kd packages/egyptsoc/stone09a.jpg
+
+newmtl slot1017
+map_Kd packages/egyptsoc/stone04a.jpg
+
+newmtl slot1018
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1019
+map_Kd packages/egyptsoc/t064-02b.jpg
+
+newmtl slot1020
+map_Kd packages/egyptsoc/128-05b.jpg
+
+newmtl slot1022
+map_Kd packages/egyptsoc/s064-05b.jpg
+
+newmtl slot1024
+map_Kd packages/egyptsoc/s064-05b.jpg
+
+newmtl slot1026
+map_Kd packages/egyptsoc/s064-05b.jpg
+
+newmtl slot1027
+map_Kd packages/egyptsoc/stone09b.jpg
+
+newmtl slot1028
+map_Kd packages/egyptsoc/v064-01b.jpg
+
+newmtl slot1029
+map_Kd packages/egyptsoc/stone04d.jpg
+
+newmtl slot1030
+map_Kd packages/egyptsoc/s128-01b.jpg
+
+newmtl slot1031
+map_Kd packages/egyptsoc/s128-01b.jpg
+
+newmtl slot1032
+map_Kd packages/egyptsoc/128-01pb.jpg
+
+newmtl slot1034
+map_Kd packages/egyptsoc/lig_064-06b2.jpg
+
+newmtl slot1037
+map_Kd packages/egyptsoc/lig_064-06y2.jpg
+
+newmtl slot1039
+map_Kd packages/egyptsoc/stone03d.jpg
+
+newmtl slot1040
+map_Kd packages/egyptsoc/s128-02a.jpg
+
+newmtl slot1042
+map_Kd packages/egyptsoc/stone04d.jpg
+
+newmtl slot1044
+map_Kd packages/egyptsoc/stepangle01b.jpg
+
+newmtl slot1045
+map_Kd packages/egyptsoc/s128-02dr.jpg
+
+newmtl slot1046
+map_Kd packages/egyptsoc/s128-01b.jpg
+
+newmtl slot1047
+map_Kd packages/egyptsoc/stone11b.jpg
+
+newmtl slot1048
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot1049
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot1050
+map_Kd packages/egyptsoc/block07b.jpg
+
+newmtl slot1053
+map_Kd packages/egyptsoc/jumppad1bg.png
+
+newmtl slot1054
+map_Kd packages/egyptsoc/stone11d.jpg
+
+newmtl slot1056
+map_Kd packages/egyptsoc/v064-01b.jpg
+
+newmtl slot1057
+map_Kd packages/egyptsoc/s128-01b.jpg
+
+newmtl slot1059
+map_Kd packages/egyptsoc/marker1bg.jpg
+
+newmtl slot1060
+map_Kd packages/egyptsoc/stone04d.jpg
+
+newmtl slot1061
+map_Kd packages/egyptsoc/lig_b064-01d.jpg
+
+newmtl slot1063
+map_Kd packages/egyptsoc/s064-05l.jpg
+
+newmtl slot1064
+map_Kd packages/egyptsoc/stone09b.jpg
+
+newmtl slot1065
+map_Kd packages/egyptsoc/s128-02dd.jpg
+
+newmtl slot1066
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot1067
+map_Kd packages/egyptsoc/wood18.jpg
+
+newmtl slot1068
+map_Kd packages/egyptsoc/block02b-floor.jpg
+
+newmtl slot1069
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot1070
+map_Kd packages/egyptsoc/stone11b.jpg
+
+newmtl slot1071
+map_Kd packages/egyptsoc/s064-05d.jpg
+
+newmtl slot1073
+map_Kd packages/egyptsoc/lig_064-06y2.jpg
+
+newmtl slot1074
+map_Kd packages/egyptsoc/032-06b.jpg
+
+newmtl slot1075
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot1076
+map_Kd packages/egyptsoc/v128-02b.jpg
+
+newmtl slot1077
+map_Kd packages/egyptsoc/stone04c.jpg
+
+newmtl slot1078
+map_Kd packages/egyptsoc/stepangle01a.jpg
+
+newmtl slot1079
+map_Kd packages/egyptsoc/032-01a.jpg
+
+newmtl slot1081
+map_Kd packages/egyptsoc/256-01a.jpg
+
+newmtl slot1082
+map_Kd packages/egyptsoc/256-03a.jpg
+
+newmtl slot1083
+map_Kd packages/egyptsoc/block08c.jpg
+
+newmtl slot1084
+map_Kd packages/egyptsoc/stone04a.jpg
+
+newmtl slot1085
+map_Kd packages/egyptsoc/stone04a.jpg
+
+newmtl slot1087
+map_Kd packages/egyptsoc/032-06b.jpg
+
+newmtl slot1088
+map_Kd packages/egyptsoc/stone04d.jpg
+
+newmtl slot1089
+map_Kd packages/egyptsoc/stone03d.jpg
+
+newmtl slot1092
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot1094
+map_Kd packages/egyptsoc/block10a.jpg
+
+newmtl slot1095
+map_Kd packages/egyptsoc/stepangle01a.jpg
+
+newmtl slot1097
+map_Kd packages/egyptsoc/032-03b.jpg
+
+newmtl slot1098
+map_Kd packages/egyptsoc/256-04b.jpg
+
+newmtl slot1099
+map_Kd packages/egyptsoc/256-04b.jpg
+
+newmtl slot1100
+map_Kd packages/egyptsoc/stone09b.jpg
+
+newmtl slot1101
+map_Kd packages/egyptsoc/032-06b.jpg
+
+newmtl slot1102
+map_Kd packages/egyptsoc/032-03b.jpg
+
+newmtl slot1104
+map_Kd packages/egyptsoc/s064-05b.jpg
+
+newmtl slot1105
+map_Kd packages/egyptsoc/lig_b064-01d.jpg
+
+newmtl slot1106
+map_Kd packages/egyptsoc/s064-05b.jpg
+
+newmtl slot1107
+map_Kd packages/egyptsoc/stone08a.jpg
+
+newmtl slot1109
+map_Kd packages/egyptsoc/032-06b.jpg
+
+newmtl slot1111
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1112
+map_Kd packages/egyptsoc/stone08d.jpg
+
+newmtl slot1114
+map_Kd packages/egyptsoc/s128-02b.jpg
+
+newmtl slot1116
+map_Kd packages/egyptsoc/stone08d.jpg
+
+newmtl slot1117
+map_Kd packages/egyptsoc/lig_032-04r2.jpg
+
+newmtl slot1118
+map_Kd packages/egyptsoc/048-02h.jpg
+
+newmtl slot1121
+map_Kd packages/egyptsoc/lig_032-04r2.jpg
+
+newmtl slot1123
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot1124
+map_Kd packages/egyptsoc/block07b.jpg
+
+newmtl slot1125
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot1126
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot1127
+map_Kd packages/egyptsoc/block07b.jpg
+
+newmtl slot1128
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1129
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot1130
+map_Kd packages/egyptsoc/256-03b.jpg
+
+newmtl slot1131
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot1132
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot1133
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1134
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1136
+map_Kd packages/egyptsoc/block07b.jpg
+
+newmtl slot1137
+map_Kd packages/egyptsoc/block01a.jpg
+
+newmtl slot1138
+map_Kd packages/egyptsoc/marker1ag.jpg
+
+newmtl slot1139
+map_Kd packages/egyptsoc/s128-02b.jpg
+
+newmtl slot1140
+map_Kd packages/egyptsoc/s128-02b.jpg
+
+newmtl slot1141
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1143
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1144
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot1145
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot1146
+map_Kd packages/egyptsoc/stepangle01b.jpg
+
+newmtl slot1147
+map_Kd packages/egyptsoc/s064-05b.jpg
+
+newmtl slot1148
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1149
+map_Kd packages/egyptsoc/stone03d.jpg
+
+newmtl slot1150
+map_Kd packages/egyptsoc/stone03d.jpg
+
+newmtl slot1151
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot1152
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot1153
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1154
+map_Kd packages/egyptsoc/s128-02dr.jpg
+
+newmtl slot1156
+map_Kd packages/egyptsoc/128-01pb.jpg
+
+newmtl slot1158
+map_Kd packages/egyptsoc/032-06b.jpg
+
+newmtl slot1159
+map_Kd packages/egyptsoc/stone08a.jpg
+
+newmtl slot1161
+map_Kd packages/egyptsoc/lig_064-05y2.jpg
+
+newmtl slot1162
+map_Kd packages/egyptsoc/128-05b.jpg
+
+newmtl slot1165
+map_Kd packages/egyptsoc/128-05b.jpg
+
+newmtl slot1166
+map_Kd packages/egyptsoc/stone05b.jpg
+
+newmtl slot1167
+map_Kd packages/egyptsoc/stone04a.jpg
+
+newmtl slot1171
+map_Kd packages/egyptsoc/256-03d.jpg
+
+newmtl slot1172
+map_Kd packages/egyptsoc/stone03d.jpg
+
+newmtl slot1173
+map_Kd packages/egyptsoc/stone03c.jpg
+
+newmtl slot1174
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1175
+map_Kd packages/egyptsoc/128-01b.jpg
+
+newmtl slot1178
+map_Kd packages/egyptsoc/s128-01b.jpg
+
+newmtl slot1179
+map_Kd packages/egyptsoc/stone08b.jpg
+
+newmtl slot1180
+map_Kd packages/egyptsoc/stepangle01b.jpg
+
+newmtl slot1181
+map_Kd packages/egyptsoc/s128-02b.jpg
+
+newmtl slot1182
+map_Kd packages/egyptsoc/s128-02b.jpg
+
+newmtl slot1183
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot1184
+map_Kd packages/egyptsoc/s064-05d.jpg
+
+newmtl slot1185
+map_Kd packages/egyptsoc/stepangle01a.jpg
+
+newmtl slot1186
+map_Kd packages/egyptsoc/v128-03a.jpg
+
+newmtl slot1187
+map_Kd packages/egyptsoc/lig_b064-01d.jpg
+
+newmtl slot1188
+map_Kd packages/egyptsoc/032-03b.jpg
+
+newmtl slot1189
+map_Kd packages/egyptsoc/032-03b.jpg
+
+newmtl slot1191
+map_Kd packages/egyptsoc/stone03b.jpg
+
+newmtl slot1193
+map_Kd packages/egyptsoc/lig_064-01w2.jpg
+
+newmtl slot1195
+map_Kd packages/egyptsoc/032-06a.jpg
+
+newmtl slot1196
+map_Kd packages/egyptsoc/stone08c.jpg
+
+newmtl slot1197
+map_Kd packages/egyptsoc/stone04a.jpg
+
+newmtl slot1198
+map_Kd packages/egyptsoc/stone08a.jpg
+
+newmtl slot1199
+map_Kd packages/egyptsoc/stone08a.jpg
+
+newmtl slot1200
+map_Kd packages/egyptsoc/block10a.jpg
+
+newmtl slot1201
+map_Kd packages/egyptsoc/lig_128-05a.jpg
+
+newmtl slot1202
+map_Kd packages/egyptsoc/128-05h.jpg
+
+newmtl slot1203
+map_Kd packages/egyptsoc/stone04b.jpg
+
+newmtl slot1204
+map_Kd packages/egyptsoc/block07b.jpg
+
+newmtl slot1205
+map_Kd packages/egyptsoc/block07b.jpg
+
+newmtl slot1206
+map_Kd packages/egyptsoc/032-06b.jpg
+
+newmtl slot1207
+map_Kd packages/egyptsoc/s064-05b.jpg
+
+newmtl slot1209
+map_Kd packages/egyptsoc/stone03b.jpg
+

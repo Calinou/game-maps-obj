@@ -1,0 +1,797 @@
+# mtl file of Cube 2 level
+
+newmtl slot6
+map_Kd packages/evil_textures/e7brickfloor01.jpg
+
+newmtl slot7
+map_Kd packages/evil_textures/e7bricks01.jpg
+
+newmtl slot8
+map_Kd packages/evil_textures/e7dimfloor.jpg
+
+newmtl slot9
+map_Kd packages/evil_textures/e7dimfloor_ow.jpg
+
+newmtl slot10
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot18
+map_Kd packages/evil_textures/e7beam01b.jpg
+
+newmtl slot19
+map_Kd packages/evil_textures/e7beam02.jpg
+
+newmtl slot20
+map_Kd packages/evil_textures/e7beam02_blue.jpg
+
+newmtl slot21
+map_Kd packages/evil_textures/e7beam02_red.jpg
+
+newmtl slot22
+map_Kd packages/evil_textures/e7bmtrim2.jpg
+
+newmtl slot23
+map_Kd packages/evil_textures/e7brnmetal.jpg
+
+newmtl slot24
+map_Kd packages/evil_textures/e7plate01.jpg
+
+newmtl slot27
+map_Kd packages/evil_textures/e7steptop2.jpg
+
+newmtl slot28
+map_Kd packages/textures/yves_allaire/e7/e7trim01.jpg
+
+newmtl slot29
+map_Kd packages/evil_textures/e7dimfloor.jpg
+
+newmtl slot35
+map_Kd packages/evil_textures/e8_rlight.jpg
+
+newmtl slot40
+map_Kd packages/textures/yves_allaire/e8/e8_rlightb.jpg
+
+newmtl slot47
+map_Kd packages/gor/WT_GK_017_cc.jpg
+
+newmtl slot48
+map_Kd packages/textures/yves_allaire/e8/e8_base1.jpg
+
+newmtl slot49
+map_Kd packages/textures/yves_allaire/e8/e8_base1b.jpg
+
+newmtl slot51
+map_Kd packages/textures/yves_allaire/e8/e8base_red.jpg
+
+newmtl slot52
+map_Kd packages/textures/yves_allaire/e8/e8base_red.jpg
+
+newmtl slot53
+map_Kd packages/textures/yves_allaire/e8/e8base_blue.jpg
+
+newmtl slot60
+map_Kd packages/textures/yves_allaire/e8/e8metal03b.jpg
+
+newmtl slot61
+map_Kd packages/textures/yves_allaire/e8/e8metal03c.jpg
+
+newmtl slot72
+map_Kd packages/caustics/caust00.png
+
+newmtl slot73
+map_Kd packages/caustics/caust00.png
+
+newmtl slot75
+map_Kd packages/caustics/caust00.png
+
+newmtl slot88
+map_Kd packages/textures/yves_allaire/e8/e8tmtllight2.jpg
+
+newmtl slot90
+map_Kd packages/textures/yves_allaire/e8/e8tmtllight2.jpg
+
+newmtl slot93
+map_Kd packages/textures/yves_allaire/e8/e8_btrim01.jpg
+
+newmtl slot94
+map_Kd packages/textures/yves_allaire/e8/e8_btrim02.jpg
+
+newmtl slot95
+map_Kd packages/textures/yves_allaire/e8/e8_btrim03b.jpg
+
+newmtl slot96
+map_Kd packages/textures/yves_allaire/e8/e8_btrim04b.jpg
+
+newmtl slot97
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot98
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05b.jpg
+
+newmtl slot99
+map_Kd packages/textures/yves_allaire/e8/e8basictrim2_blue.jpg
+
+newmtl slot100
+map_Kd packages/textures/yves_allaire/e8/e8basictrim2_red.jpg
+
+newmtl slot103
+map_Kd packages/textures/yves_allaire/e8/e8beam01.jpg
+
+newmtl slot104
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot105
+map_Kd packages/textures/yves_allaire/e8/e8bolttrimb.jpg
+
+newmtl slot106
+map_Kd packages/textures/yves_allaire/e8/e8cretesmlltrim.jpg
+
+newmtl slot109
+map_Kd packages/textures/yves_allaire/e8/e8support03b_blue.jpg
+
+newmtl slot110
+map_Kd packages/textures/yves_allaire/e8/e8support03b_red.jpg
+
+newmtl slot115
+map_Kd packages/textures/yves_allaire/e8/e8support06b.jpg
+
+newmtl slot116
+map_Kd packages/textures/yves_allaire/e8/e8supporttrim01b.jpg
+
+newmtl slot117
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot125
+map_Kd packages/textures/yves_allaire/e8/e8smlltrim1.jpg
+
+newmtl slot138
+map_Kd packages/textures/yves_allaire/e6/e6xgratebasic1.jpg
+
+newmtl slot151
+map_Kd packages/textures/yves_allaire/e6/e6v_light.jpg
+
+newmtl slot158
+map_Kd packages/textures/yves_allaire/e6/e6v_light.jpg
+
+newmtl slot160
+map_Kd packages/mitaman/mm-metalplates51.jpg
+
+newmtl slot184
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot185
+map_Kd packages/dg/mad064.jpg
+
+newmtl slot186
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot187
+map_Kd packages/dg/mad066.jpg
+
+newmtl slot270
+map_Kd packages/noctua/planks01.jpg
+
+newmtl slot394
+map_Kd packages/textures/yves_allaire/e8/e8metal01.jpg
+
+newmtl slot395
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot397
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot399
+map_Kd packages/evil_textures/e7beam02_blue.jpg
+
+newmtl slot400
+map_Kd packages/evil_textures/e7steptop2.jpg
+
+newmtl slot401
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot402
+map_Kd packages/textures/yves_allaire/e8/e8_btrim01.jpg
+
+newmtl slot403
+map_Kd packages/textures/yves_allaire/e8/e8support06b.jpg
+
+newmtl slot404
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot405
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot406
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot407
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot409
+map_Kd packages/textures/yves_allaire/e8/e8_btrim02.jpg
+
+newmtl slot410
+map_Kd packages/evil_textures/e7plate01.jpg
+
+newmtl slot411
+map_Kd packages/evil_textures/e7beam01b.jpg
+
+newmtl slot412
+map_Kd packages/evil_textures/e7beam02_red.jpg
+
+newmtl slot413
+map_Kd packages/evil_textures/e7beam02_blue.jpg
+
+newmtl slot414
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot415
+map_Kd packages/textures/yves_allaire/e8/e8cretesmlltrim.jpg
+
+newmtl slot416
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot417
+map_Kd packages/evil_textures/e7beam02_red.jpg
+
+newmtl slot418
+map_Kd packages/evil_textures/e7beam02_blue.jpg
+
+newmtl slot419
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot420
+map_Kd packages/evil_textures/e7brickfloor01.jpg
+
+newmtl slot421
+map_Kd packages/evil_textures/e7beam02_red.jpg
+
+newmtl slot422
+map_Kd packages/textures/yves_allaire/e6/e6walllight.jpg
+
+newmtl slot423
+map_Kd packages/evil_textures/e7dimfloor_ow.jpg
+
+newmtl slot424
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot425
+map_Kd packages/textures/yves_allaire/e8/e8_btrim04b.jpg
+
+newmtl slot426
+map_Kd packages/textures/yves_allaire/e8/e8_btrim04b.jpg
+
+newmtl slot428
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05b.jpg
+
+newmtl slot429
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light.jpg
+
+newmtl slot431
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light.jpg
+
+newmtl slot432
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05b.jpg
+
+newmtl slot433
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05b.jpg
+
+newmtl slot434
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05b.jpg
+
+newmtl slot435
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05b.jpg
+
+newmtl slot437
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05b.jpg
+
+newmtl slot438
+map_Kd packages/textures/yves_allaire/e8/e8_btrim03b.jpg
+
+newmtl slot439
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot441
+map_Kd packages/evil_textures/e7steptop2.jpg
+
+newmtl slot443
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot444
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot445
+map_Kd packages/noctua/planks01.jpg
+
+newmtl slot446
+map_Kd packages/evil_textures/e7beam01.jpg
+
+newmtl slot447
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot448
+map_Kd packages/noctua/planks01.jpg
+
+newmtl slot449
+map_Kd packages/evil_textures/e7brickfloor01.jpg
+
+newmtl slot450
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot452
+map_Kd packages/textures/yves_allaire/e8/e8_base1.jpg
+
+newmtl slot455
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light_trnd.jpg
+
+newmtl slot458
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light_trnd.jpg
+
+newmtl slot461
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot462
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot464
+map_Kd packages/evil_textures/e7beam01.jpg
+
+newmtl slot465
+map_Kd packages/textures/yves_allaire/e6/e6v_light.jpg
+
+newmtl slot466
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot467
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot468
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot469
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot470
+map_Kd packages/textures/yves_allaire/e6/e6metalfan.jpg
+
+newmtl slot471
+map_Kd packages/textures/yves_allaire/e8/e8beam01.jpg
+
+newmtl slot472
+map_Kd packages/textures/yves_allaire/e8/e8beam01.jpg
+
+newmtl slot473
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot476
+map_Kd packages/textures/yves_allaire/e6/e6v_light.jpg
+
+newmtl slot477
+map_Kd packages/textures/yves_allaire/e6/e6v_light.jpg
+
+newmtl slot478
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot480
+map_Kd packages/textures/yves_allaire/e7/e7trimlight.jpg
+
+newmtl slot481
+map_Kd packages/evil_textures/e7beam02_blue.jpg
+
+newmtl slot482
+map_Kd packages/textures/yves_allaire/e7/e7trimlight.jpg
+
+newmtl slot484
+map_Kd packages/textures/yves_allaire/e8/e8cretesmlltrim.jpg
+
+newmtl slot486
+map_Kd packages/evil_textures/e7brickfloor01.jpg
+
+newmtl slot488
+map_Kd packages/textures/yves_allaire/e8/e8mtltrim.jpg
+
+newmtl slot489
+map_Kd packages/evil_textures/e8_rlight.jpg
+
+newmtl slot490
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot492
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot494
+map_Kd packages/evil_textures/e7dimfloor_ow.jpg
+
+newmtl slot495
+map_Kd packages/textures/yves_allaire/e8/e8support06b.jpg
+
+newmtl slot496
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light.jpg
+
+newmtl slot499
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light.jpg
+
+newmtl slot500
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot506
+map_Kd packages/textures/yves_allaire/e8/e8_base1b.jpg
+
+newmtl slot507
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot508
+map_Kd packages/evil_textures/e7brickfloor01.jpg
+
+newmtl slot509
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot513
+map_Kd packages/textures/yves_allaire/e8/e8_base1.jpg
+
+newmtl slot514
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot515
+map_Kd packages/evil_textures/e7beam02.jpg
+
+newmtl slot516
+map_Kd packages/textures/yves_allaire/e8/e8support04_blue.jpg
+
+newmtl slot517
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot518
+map_Kd packages/evil_textures/e7beam02_blue.jpg
+
+newmtl slot521
+map_Kd packages/evil_textures/e7beam02_blue.jpg
+
+newmtl slot524
+map_Kd packages/evil_textures/e7plate01.jpg
+
+newmtl slot525
+map_Kd packages/textures/yves_allaire/e8/e8_btrim03b.jpg
+
+newmtl slot526
+map_Kd packages/textures/yves_allaire/e8/e8_btrim01.jpg
+
+newmtl slot527
+map_Kd packages/textures/yves_allaire/e8/e8_btrim01.jpg
+
+newmtl slot528
+map_Kd packages/textures/yves_allaire/e8/e8basictrim2_blue.jpg
+
+newmtl slot529
+map_Kd packages/textures/yves_allaire/e8/e8basictrim2_blue.jpg
+
+newmtl slot531
+map_Kd packages/textures/yves_allaire/e6/e6symbol_b.jpg
+
+newmtl slot533
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot535
+map_Kd packages/textures/yves_allaire/e6/e6mtltpnl_light.jpg
+
+newmtl slot538
+map_Kd packages/textures/yves_allaire/e6/e6symbol_a.jpg
+
+newmtl slot540
+map_Kd packages/textures/yves_allaire/e6/e6symbol_b.jpg
+
+newmtl slot542
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot543
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot544
+map_Kd packages/textures/yves_allaire/e8/e8_btrim01.jpg
+
+newmtl slot548
+map_Kd packages/textures/yves_allaire/e8/e8_btrim02.jpg
+
+newmtl slot549
+map_Kd packages/textures/yves_allaire/e8/e8supporttrim01b.jpg
+
+newmtl slot550
+map_Kd packages/evil_textures/e7steptop2.jpg
+
+newmtl slot553
+map_Kd packages/gor/WT_GK_017_cc.jpg
+
+newmtl slot554
+map_Kd packages/textures/yves_allaire/e8/e8metal01.jpg
+
+newmtl slot555
+map_Kd packages/textures/yves_allaire/e8/e8tmtllight2.jpg
+
+newmtl slot556
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot557
+map_Kd packages/textures/yves_allaire/e8/e8cretesmlltrim.jpg
+
+newmtl slot558
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05b.jpg
+
+newmtl slot559
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05b.jpg
+
+newmtl slot560
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot561
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05b.jpg
+
+newmtl slot562
+map_Kd packages/evil_textures/e7brickfloor01.jpg
+
+newmtl slot564
+map_Kd packages/textures/yves_allaire/e8/e8tmtllight2.jpg
+
+newmtl slot565
+map_Kd packages/evil_textures/e7beam01b.jpg
+
+newmtl slot566
+map_Kd packages/evil_textures/e7beam01b.jpg
+
+newmtl slot570
+map_Kd packages/evil_textures/e7plate01.jpg
+
+newmtl slot572
+map_Kd packages/evil_textures/e7bmtrim2.jpg
+
+newmtl slot573
+map_Kd packages/evil_textures/e7bmtrim2.jpg
+
+newmtl slot574
+map_Kd packages/evil_textures/e7bmtrim2.jpg
+
+newmtl slot575
+map_Kd packages/evil_textures/e7walldesign01b.jpg
+
+newmtl slot576
+map_Kd packages/textures/yves_allaire/e8/e8tmtllight2.jpg
+
+newmtl slot577
+map_Kd packages/evil_textures/e7sbrickfloorbig.jpg
+
+newmtl slot578
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light_trnd.jpg
+
+newmtl slot579
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light_trnd.jpg
+
+newmtl slot580
+map_Kd packages/textures/yves_allaire/e8/e8_btrim02.jpg
+
+newmtl slot581
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot582
+map_Kd packages/textures/yves_allaire/e8/e8_btrim04b.jpg
+
+newmtl slot583
+map_Kd packages/textures/yves_allaire/e8/e8_rlightb.jpg
+
+newmtl slot584
+map_Kd packages/evil_textures/e7steptop2.jpg
+
+newmtl slot586
+map_Kd packages/textures/yves_allaire/e8/e8_rlightb.jpg
+
+newmtl slot589
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot590
+map_Kd packages/textures/yves_allaire/e8/e8_btrim02.jpg
+
+newmtl slot592
+map_Kd packages/textures/yves_allaire/e6/e6metalfan.jpg
+
+newmtl slot594
+map_Kd packages/textures/yves_allaire/e8/e8_btrim03b.jpg
+
+newmtl slot595
+map_Kd packages/textures/yves_allaire/e8/e8tmtllight.jpg
+
+newmtl slot596
+map_Kd packages/textures/yves_allaire/e8/e8tmtllight.jpg
+
+newmtl slot598
+map_Kd packages/payne/Box12b.jpg
+
+newmtl slot599
+map_Kd packages/textures/yves_allaire/e8/e8_rlightb.jpg
+
+newmtl slot600
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot601
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot602
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot604
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot607
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot612
+map_Kd packages/textures/yves_allaire/e8/e8_btrim01.jpg
+
+newmtl slot613
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot616
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot617
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot618
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot620
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot621
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot625
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot626
+map_Kd packages/textures/yves_allaire/e8/e8support05.jpg
+
+newmtl slot627
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot628
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot629
+map_Kd packages/evil_textures/e7beam01.jpg
+
+newmtl slot630
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot631
+map_Kd packages/textures/yves_allaire/e8/e8tmtllight2.jpg
+
+newmtl slot632
+map_Kd packages/textures/yves_allaire/e6/e6v_light.jpg
+
+newmtl slot633
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot634
+map_Kd packages/gor/WT_GK_017_cc.jpg
+
+newmtl slot635
+map_Kd packages/evil_textures/e7beam01.jpg
+
+newmtl slot636
+map_Kd packages/textures/yves_allaire/e8/e8support04_red.jpg
+
+newmtl slot637
+map_Kd packages/textures/yves_allaire/e6/e6v_light.jpg
+
+newmtl slot638
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot639
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot640
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot642
+map_Kd packages/textures/yves_allaire/e8/e8_btrim01.jpg
+
+newmtl slot645
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot647
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot648
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot649
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot651
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot652
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot656
+map_Kd packages/evil_textures/e8_rlight.jpg
+
+newmtl slot657
+map_Kd packages/textures/yves_allaire/e8/e8beam02.jpg
+
+newmtl slot658
+map_Kd packages/evil_textures/e7brnmetal.jpg
+
+newmtl slot660
+map_Kd packages/textures/yves_allaire/e6/e6metalfan.jpg
+
+newmtl slot661
+map_Kd packages/textures/yves_allaire/e8/e8metal01.jpg
+
+newmtl slot670
+map_Kd packages/textures/yves_allaire/e8/e8_btrim02.jpg
+
+newmtl slot671
+map_Kd packages/evil_textures/e8_rlight.jpg
+
+newmtl slot672
+map_Kd packages/textures/yves_allaire/e7/e7trimlight.jpg
+
+newmtl slot673
+map_Kd packages/textures/yves_allaire/e7/e7trimlight.jpg
+
+newmtl slot676
+map_Kd packages/evil_textures/e7sbrickfloorbig.jpg
+
+newmtl slot678
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot680
+map_Kd packages/textures/yves_allaire/e8/e8_btrim05.jpg
+
+newmtl slot681
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light_trnd.jpg
+
+newmtl slot682
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light_trnd.jpg
+
+newmtl slot684
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light_trnd.jpg
+
+newmtl slot685
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light_trnd.jpg
+
+newmtl slot686
+map_Kd packages/noctua/planks01.jpg
+
+newmtl slot688
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot689
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot692
+map_Kd packages/textures/yves_allaire/e6/e6mtltpnl_light.jpg
+
+newmtl slot693
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot694
+map_Kd packages/evil_textures/e7sbrickfloor_jump.jpg
+
+newmtl slot695
+map_Kd packages/textures/yves_allaire/e6/e6v_light.jpg
+
+newmtl slot696
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light.jpg
+
+newmtl slot697
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light.jpg
+
+newmtl slot699
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light.jpg
+
+newmtl slot700
+map_Kd packages/textures/yves_allaire/e6/e6btrim_light.jpg
+
+newmtl slot701
+map_Kd packages/textures/yves_allaire/e6/e6walllight.jpg
+

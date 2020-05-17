@@ -1,0 +1,116 @@
+# mtl file of Cube 2 level
+
+newmtl slot4
+map_Kd media/base/base4.png
+
+newmtl slot5
+map_Kd media/base/white.png
+
+newmtl slot6
+map_Kd media/base/black.png
+
+newmtl slot10
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot11
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot56
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot57
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot58
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot59
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot60
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot61
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot62
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot63
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot64
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot65
+map_Kd media/base/base3.png
+
+newmtl slot66
+map_Kd media/base/black.png
+
+newmtl slot67
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot68
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot69
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot70
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot72
+map_Kd media/base/black.png
+
+newmtl slot76
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot77
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot79
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot80
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot82
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot83
+map_Kd media/nieb/complex/vent.png
+
+newmtl slot84
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot85
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot86
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot88
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot89
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot91
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot92
+map_Kd media/nieb/complex/glass.png
+
+newmtl slot95
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot96
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot98
+map_Kd media/nieb/complex/light01.png
+
+newmtl slot99
+map_Kd media/nieb/complex/light01.png
+

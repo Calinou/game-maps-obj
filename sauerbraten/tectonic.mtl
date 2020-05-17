@@ -1,0 +1,122 @@
+# mtl file of Cube 2 level
+
+newmtl slot24
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot417
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot452
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot600
+map_Kd packages/gor/GR_GK_007_cc.jpg
+
+newmtl slot601
+map_Kd packages/gor/GR_GK_008_cc.jpg
+
+newmtl slot617
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot647
+map_Kd packages/aftas/piso5.jpg
+
+newmtl slot649
+map_Kd packages/aftas/par10_a.jpg
+
+newmtl slot655
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot656
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot658
+map_Kd packages/aftas/piso3.jpg
+
+newmtl slot662
+map_Kd packages/mitaman/mm-tile38.jpg
+
+newmtl slot951
+map_Kd packages/dg/floor_lava2.jpg
+
+newmtl slot953
+map_Kd packages/dg/floor_lava2.jpg
+
+newmtl slot954
+map_Kd packages/dg/floor_lava2.jpg
+
+newmtl slot955
+map_Kd packages/dg/floor_lava2.jpg
+
+newmtl slot956
+map_Kd packages/dg/floor_lava2.jpg
+
+newmtl slot957
+map_Kd packages/dg/floor_lava2.jpg
+
+newmtl slot958
+map_Kd packages/dg/floor_lava2.jpg
+
+newmtl slot962
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot963
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot965
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot966
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot967
+map_Kd packages/aftas/rodape1.jpg
+
+newmtl slot968
+map_Kd packages/aftas/piso5.jpg
+
+newmtl slot969
+map_Kd packages/aftas/piso5.jpg
+
+newmtl slot970
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot972
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot973
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot974
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot979
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot987
+map_Kd packages/lunaran/rock1_d.jpg
+
+newmtl slot988
+map_Kd packages/aftas/piso3.jpg
+
+newmtl slot989
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot990
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot991
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot992
+map_Kd packages/dg/mad065.jpg
+
+newmtl slot995
+map_Kd packages/gor/WTA_GK_002_cc.jpg
+
+newmtl slot997
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1001
+map_Kd packages/lunaran/rock1_d.jpg
+
