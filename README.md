@@ -8,6 +8,18 @@ and [Tesseract](https://tesseract.gg). These maps were exported using the
 Looking for the cmvalley map exported as an OBJ file? Head to the
 [Releases](https://github.com/Calinou/game-maps-obj/releases/latest) tab.
 
+## Caveats
+
+- Maps are exported at a larger scale than you probably want.
+  This may cause large maps not to appear at all once imported due to
+  view frustum culling. To solve this, tell the engine to import the OBJ mesh
+  at a lower scale if possible. Otherwise, you can scale the OBJ mesh by a
+  factor of about 0.1. (This may reduce mesh precision, which is why scaling
+  at import-time should be preferred.)
+- Due to how maps are designed in Cube 2 engine games, their topology may be
+  inefficient or otherwise unusual. This could lead to issues when generating
+  collision meshes automatically.
+
 ## License
 
 See `.txt` files associated with each map for the license.
