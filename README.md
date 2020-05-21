@@ -8,6 +8,14 @@ and [Tesseract](https://tesseract.gg). These maps were exported using the
 Looking for the cmvalley map exported as an OBJ file? Head to the
 [Releases](https://github.com/Calinou/game-maps-obj/releases/latest) tab.
 
+## Games
+
+Maps were exported from the following games:
+
+- **Red Eclipse** (commit [`ecfe18c51`](https://github.com/redeclipse/maps/commit/ecfe18c51ffa192ca127920170ea7f33b99c2dd2))
+- **Sauerbraten** (SVN revision 5980)
+- **Tesseract** (SVN revision 2343)
+
 ## Caveats
 
 - Maps are exported at a larger scale than you probably want.
