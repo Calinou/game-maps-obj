@@ -20,22 +20,22 @@ Maps were exported from the following games:
 
 Here are some hand-picked recommendations if you'd like to try out some maps:
 
-|            Name | Vertex/triangle count   | Good for                                                         | License         |
-|----------------:|:------------------------|:-----------------------------------------------------------------|:----------------|
-|       cmvalley¹ | 1112k verts, 2080k tris | Testing renderers in a large scale/open world map                | CC BY 4.0       |
-|   core_transfer | 45k verts, 76k tris     | Testing global illumination and fog                              | CC BY-NC-SA 2.5 |
-|  eternal_valley | 55k verts, 98k tris     | Testing global illumination and its resistance to leaks          | CC BY-NC-SA 3.0 |
-|             fc4 | 44k verts, 80k tris     | Testing renderers over a fairly large area (with inland terrain) | CC BY-NC-SA 3.0 |
-|             fc5 | 103k verts, 189k tris   | Testing renderers over a fairly large area (mostly buildings)    | CC BY-NC-SA 3.0 |
-|          hidden | 105k verts, 190k tris   | Testing renderers over a fairly large area (mostly buildings)    | CC BY-NC-SA 3.0 |
-|          k_rpg1 | 136k verts, 261k tris   | Testing renderers in a large scale/open world map                | CC BY-NC-SA 2.5 |
-|         octavus | 52k verts, 86k tris     | Testing renderers over a fairly large area (with smooth terrain) | CC BY-SA 3.0    |
-|         pandora | 36k verts, 61k tris     | Testing lighting in a fully indoor level                         | CC BY 4.0       |
-|      reflection | 68k verts, 116k tris    | Testing global illumination and fog (indoors with sunlight)      | CC BY-SA 3.0    |
-|          skrsp1 | 59k verts, 103k tris    | Testing renderers over a fairly large area (with terrain)        | CC BY-NC-SA 3.0 |
-|       steelribs | 27k verts, 46k tris     | Testing renderers with a floating hard-surface map               | CC BY-SA 3.0    |
-|        tectonic | 47k verts, 87k tris     | Testing renderers with an island-style map (buildings + terrain) | CC BY 4.0       |
-|            ubik | 87k verts, 166k tris    | Testing renderers with a floating futuristic urban area          | CC BY-SA 3.0    |
+|            Name | Game        | Vertex/triangle count   | Good for                                                         | License         |
+|----------------:|:------------|:------------------------|:-----------------------------------------------------------------|:----------------|
+|       cmvalley¹ | Sauerbraten | 1112k verts, 2080k tris | Testing renderers in a large scale/open world map                | CC BY 4.0       |
+|   core_transfer | Sauerbraten | 45k verts, 76k tris     | Testing global illumination and fog                              | CC BY-NC-SA 2.5 |
+|  eternal_valley | Sauerbraten | 55k verts, 98k tris     | Testing global illumination and its resistance to leaks          | CC BY-NC-SA 3.0 |
+|             fc4 | Sauerbraten | 44k verts, 80k tris     | Testing renderers over a fairly large area (with inland terrain) | CC BY-NC-SA 3.0 |
+|             fc5 | Sauerbraten | 103k verts, 189k tris   | Testing renderers over a fairly large area (mostly buildings)    | CC BY-NC-SA 3.0 |
+|          hidden | Sauerbraten | 105k verts, 190k tris   | Testing renderers over a fairly large area (mostly buildings)    | CC BY-NC-SA 3.0 |
+|          k_rpg1 | Sauerbraten | 136k verts, 261k tris   | Testing renderers in a large scale/open world map                | CC BY-NC-SA 2.5 |
+|         octavus | Red Eclipse | 52k verts, 86k tris     | Testing renderers over a fairly large area (with smooth terrain) | CC BY-SA 3.0    |
+|         pandora | Sauerbraten | 36k verts, 61k tris     | Testing lighting in a fully indoor level                         | CC BY 4.0       |
+|      reflection | Tesseract   | 68k verts, 116k tris    | Testing global illumination and fog (indoors with sunlight)      | CC BY-SA 3.0    |
+|          skrsp1 | Sauerbraten | 59k verts, 103k tris    | Testing renderers over a fairly large area (with terrain)        | CC BY-NC-SA 3.0 |
+|       steelribs | Tesseract   | 27k verts, 46k tris     | Testing renderers with a floating hard-surface map               | CC BY-SA 3.0    |
+|        tectonic | Sauerbraten | 47k verts, 87k tris     | Testing renderers with an island-style map (buildings + terrain) | CC BY 4.0       |
+|            ubik | Red Eclipse | 87k verts, 166k tris    | Testing renderers with a floating futuristic urban area          | CC BY-SA 3.0    |
 
 ¹: cmvalley can be downloaded from the [Releases](https://github.com/Calinou/game-maps-obj/releases/latest) tab.
 
