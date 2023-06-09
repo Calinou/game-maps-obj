@@ -63,20 +63,17 @@ map_Kd packages/textures/yves_allaire/e7/e7wgrate.jpg
 newmtl slot37
 map_Kd packages/evil_textures/e8bolttrim.jpg
 
-newmtl slot42
+newmtl slot43
 map_Kd packages/evil_textures/e7sbrickfloor.jpg
 
-newmtl slot43
+newmtl slot44
 map_Kd packages/evil_textures/e7sbrickfloorbig.jpg
 
-newmtl slot44
+newmtl slot45
 map_Kd packages/textures/yves_allaire/e7/e7sfx_lava.jpg
 
-newmtl slot45
+newmtl slot46
 map_Kd packages/evil_textures/e7bmtrim2.jpg
-
-newmtl slot47
-map_Kd packages/evil_textures/e7bigwall.jpg
 
 newmtl slot48
 map_Kd packages/evil_textures/e7bigwall.jpg
@@ -85,58 +82,64 @@ newmtl slot49
 map_Kd packages/evil_textures/e7bigwall.jpg
 
 newmtl slot50
-map_Kd packages/evil_textures/e7brnmetal.jpg
+map_Kd packages/evil_textures/e7bigwall.jpg
 
 newmtl slot51
-map_Kd packages/evil_textures/e7beam02.jpg
-
-newmtl slot53
-map_Kd packages/evil_textures/e8bolttrim.jpg
-
-newmtl slot59
-map_Kd packages/evil_textures/e8_rlight.jpg
-
-newmtl slot61
-map_Kd packages/evil_textures/e7stepborder2.jpg
-
-newmtl slot63
-map_Kd packages/evil_textures/e7bmtrim2.jpg
-
-newmtl slot64
-map_Kd packages/evil_textures/e7sbrickfloor.jpg
-
-newmtl slot65
-map_Kd packages/evil_textures/e7beam01.jpg
-
-newmtl slot68
-map_Kd packages/evil_textures/e7walldesign01b.jpg
-
-newmtl slot69
-map_Kd packages/evil_textures/e7sbrickfloorbig.jpg
-
-newmtl slot70
-map_Kd packages/evil_textures/e7beam01b.jpg
-
-newmtl slot71
-map_Kd packages/evil_textures/e7bmtrim.jpg
-
-newmtl slot72
-map_Kd packages/textures/yves_allaire/e7/e7trimlight.jpg
-
-newmtl slot75
 map_Kd packages/evil_textures/e7brnmetal.jpg
 
-newmtl slot79
+newmtl slot52
+map_Kd packages/evil_textures/e7beam02.jpg
+
+newmtl slot54
+map_Kd packages/evil_textures/e8bolttrim.jpg
+
+newmtl slot60
 map_Kd packages/evil_textures/e8_rlight.jpg
 
-newmtl slot82
+newmtl slot62
+map_Kd packages/evil_textures/e7stepborder2.jpg
+
+newmtl slot64
+map_Kd packages/evil_textures/e7bmtrim2.jpg
+
+newmtl slot65
+map_Kd packages/evil_textures/e7sbrickfloor.jpg
+
+newmtl slot66
+map_Kd packages/evil_textures/e7beam01.jpg
+
+newmtl slot69
 map_Kd packages/evil_textures/e7walldesign01b.jpg
+
+newmtl slot70
+map_Kd packages/evil_textures/e7sbrickfloorbig.jpg
+
+newmtl slot71
+map_Kd packages/evil_textures/e7beam01b.jpg
+
+newmtl slot72
+map_Kd packages/evil_textures/e7bmtrim.jpg
+
+newmtl slot73
+map_Kd packages/textures/yves_allaire/e7/e7trimlight.jpg
+
+newmtl slot76
+map_Kd packages/evil_textures/e7brnmetal.jpg
+
+newmtl slot80
+map_Kd packages/evil_textures/e7walldesign01b.jpg
+
+newmtl slot81
+map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
+
+newmtl slot82
+map_Kd packages/textures/yves_allaire/e7/e7panelwood1.jpg
 
 newmtl slot83
 map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
 
 newmtl slot84
-map_Kd packages/textures/yves_allaire/e7/e7panelwood1.jpg
+map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
 
 newmtl slot85
 map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
@@ -144,90 +147,84 @@ map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
 newmtl slot86
 map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
 
-newmtl slot87
-map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
-
 newmtl slot88
 map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
 
-newmtl slot90
+newmtl slot89
 map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
+
+newmtl slot90
+map_Kd packages/textures/yves_allaire/e7/e7trim01.jpg
 
 newmtl slot91
-map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
+map_Kd packages/evil_textures/e7slight.jpg
 
 newmtl slot92
-map_Kd packages/textures/yves_allaire/e7/e7trim01.jpg
+map_Kd packages/evil_textures/e7bmtrim2.jpg
 
 newmtl slot93
-map_Kd packages/evil_textures/e7slight.jpg
+map_Kd packages/evil_textures/e7walldesign01b.jpg
 
 newmtl slot94
-map_Kd packages/evil_textures/e7bmtrim2.jpg
+map_Kd packages/evil_textures/e7walldesign01b.jpg
 
 newmtl slot95
-map_Kd packages/evil_textures/e7walldesign01b.jpg
-
-newmtl slot96
-map_Kd packages/evil_textures/e7walldesign01b.jpg
-
-newmtl slot97
 map_Kd packages/evil_textures/e7slight.jpg
 
-newmtl slot98
+newmtl slot96
 map_Kd packages/textures/yves_allaire/e7/e7trim01.jpg
 
-newmtl slot99
+newmtl slot97
 map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
 
-newmtl slot100
+newmtl slot98
 map_Kd packages/textures/yves_allaire/e7/e7walldesign02.jpg
 
-newmtl slot110
-map_Kd packages/textures/default.png
-
-newmtl slot117
+newmtl slot108
 map_Kd packages/evil_textures/e8_rlight.jpg
+
+newmtl slot116
+map_Kd packages/evil_textures/e8_rlight.jpg
+
+newmtl slot122
+map_Kd packages/evil_textures/e7arch01.jpg
 
 newmtl slot123
-map_Kd packages/evil_textures/e7arch01.jpg
-
-newmtl slot124
 map_Kd packages/evil_textures/e7bmtrim2.jpg
 
-newmtl slot126
+newmtl slot125
 map_Kd packages/evil_textures/e7bricks01.jpg
 
-newmtl slot127
+newmtl slot126
 map_Kd packages/evil_textures/e7arch01.jpg
 
-newmtl slot128
+newmtl slot127
 map_Kd packages/evil_textures/e7swindow.jpg
 
-newmtl slot129
+newmtl slot130
 map_Kd packages/evil_textures/e7brnmetal.jpg
 
-newmtl slot136
+newmtl slot139
 map_Kd packages/evil_textures/e7sbrickfloorbig.jpg
 
-newmtl slot139
+newmtl slot142
 map_Kd packages/evil_textures/e7walldesign01b.jpg
 
-newmtl slot145
+newmtl slot148
 map_Kd packages/evil_textures/e7bricks01.jpg
 
-newmtl slot146
+newmtl slot149
 map_Kd packages/evil_textures/e7bigwall.jpg
 
-newmtl slot151
+newmtl slot154
 map_Kd packages/evil_textures/e8_rlight.jpg
-
-newmtl slot153
-map_Kd packages/evil_textures/e7walldesign01b.jpg
 
 newmtl slot155
 map_Kd packages/evil_textures/e7walldesign01b.jpg
 
-newmtl slot158
+newmtl slot157
+map_Kd packages/evil_textures/e7walldesign01b.jpg
+
+newmtl slot160
 map_Kd packages/textures/yves_allaire/e7/e7wgrate.jpg
 

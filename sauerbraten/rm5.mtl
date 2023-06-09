@@ -165,16 +165,16 @@ map_Kd packages/textures/notexture.png
 newmtl slot805
 map_Kd packages/textures/nieb/rough1.jpg
 
-newmtl slot808
+newmtl slot809
 map_Kd packages/tech1soc/grill_wall01b.jpg
 
-newmtl slot809
+newmtl slot810
 map_Kd packages/tech1soc/064lig20bb.jpg
 
-newmtl slot810
+newmtl slot811
 map_Kd packages/tech1soc/octlig01bc.jpg
 
-newmtl slot813
+newmtl slot814
 map_Kd packages/tech1soc/032-10a.jpg
 
 newmtl slot815
@@ -183,22 +183,19 @@ map_Kd packages/tech1soc/064-12a.jpg
 newmtl slot817
 map_Kd packages/tech1soc/s256-02a.jpg
 
-newmtl slot818
-map_Kd packages/tech1soc/064-12a.jpg
-
 newmtl slot819
 map_Kd packages/tech1soc/s256-02a.jpg
 
-newmtl slot821
+newmtl slot820
 map_Kd packages/tech1soc/blank02b.jpg
 
-newmtl slot823
-map_Kd packages/tech1soc/s064-02a.jpg
+newmtl slot822
+map_Kd packages/tech1soc/064-12a.jpg
 
 newmtl slot825
-map_Kd packages/tech1soc/s128-06b.jpg
+map_Kd packages/tech1soc/s064-02a.jpg
 
-newmtl slot827
+newmtl slot826
 map_Kd packages/tech1soc/s128-06b.jpg
 
 newmtl slot828
@@ -216,23 +213,23 @@ map_Kd packages/tech1soc/032-14b.jpg
 newmtl slot833
 map_Kd packages/tech1soc/mix_wall03ab.jpg
 
-newmtl slot834
-map_Kd packages/tech1soc/064-12a.jpg
-
-newmtl slot836
+newmtl slot835
 map_Kd packages/tech1soc/s064-03b.jpg
 
-newmtl slot837
+newmtl slot836
 map_Kd packages/tech1soc/s064-03a.jpg
 
-newmtl slot838
+newmtl slot837
 map_Kd packages/tech1soc/blank01c.jpg
 
-newmtl slot840
+newmtl slot839
 map_Kd packages/tech1soc/032lig20yb.jpg
 
-newmtl slot841
+newmtl slot840
 map_Kd packages/tech1soc/o128-02a.jpg
+
+newmtl slot841
+map_Kd packages/tech1soc/s128-06b.jpg
 
 newmtl slot842
 map_Kd packages/tech1soc/s128-06b.jpg
@@ -243,129 +240,132 @@ map_Kd packages/tech1soc/octlig01bc.jpg
 newmtl slot844
 map_Kd packages/tech1soc/blank03d.jpg
 
-newmtl slot849
+newmtl slot846
 map_Kd packages/tech1soc/064-12a.jpg
 
-newmtl slot850
+newmtl slot847
 map_Kd packages/tech1soc/s256-02a.jpg
 
-newmtl slot851
+newmtl slot848
 map_Kd packages/tech1soc/sqrlig03bc.jpg
+
+newmtl slot849
+map_Kd packages/tech1soc/grill_wall01b.jpg
+
+newmtl slot850
+map_Kd packages/tech1soc/064-11b.jpg
 
 newmtl slot852
-map_Kd packages/tech1soc/grill_wall01b.jpg
+map_Kd packages/tech1soc/mix_wall03ab.jpg
 
 newmtl slot853
-map_Kd packages/tech1soc/064-11b.jpg
-
-newmtl slot855
-map_Kd packages/tech1soc/mix_wall03ab.jpg
-
-newmtl slot856
 map_Kd packages/tech1soc/064lig22wb.jpg
 
-newmtl slot857
+newmtl slot854
 map_Kd packages/tech1soc/grill_wall01b.jpg
 
-newmtl slot860
+newmtl slot857
 map_Kd packages/tech1soc/sqrlig03bc.jpg
 
-newmtl slot861
+newmtl slot858
 map_Kd packages/tech1soc/064lig20bb.jpg
 
-newmtl slot862
+newmtl slot859
 map_Kd packages/tech1soc/032-02b.jpg
 
-newmtl slot863
+newmtl slot860
 map_Kd packages/tech1soc/panel20c.jpg
 
-newmtl slot865
+newmtl slot862
 map_Kd packages/textures/notexture.png
 
-newmtl slot867
+newmtl slot864
 map_Kd packages/tech1soc/064-15b.jpg
 
-newmtl slot868
+newmtl slot865
 map_Kd packages/tech1soc/032lig11rb.jpg
 
-newmtl slot869
+newmtl slot866
 map_Kd packages/tech1soc/032lig11bb.jpg
 
-newmtl slot870
-map_Kd packages/tech1soc/064-11b.jpg
-
-newmtl slot871
+newmtl slot867
 map_Kd packages/tech1soc/mix_wall03ab.jpg
 
-newmtl slot873
+newmtl slot868
+map_Kd packages/tech1soc/064-11b.jpg
+
+newmtl slot870
 map_Kd packages/tech1soc/s256-02b.jpg
 
-newmtl slot875
+newmtl slot872
 map_Kd packages/tech1soc/sqrlig03bc.jpg
 
-newmtl slot877
+newmtl slot874
 map_Kd packages/tech1soc/grill_wall01b.jpg
 
-newmtl slot878
+newmtl slot875
 map_Kd packages/tech1soc/064-12a.jpg
 
-newmtl slot879
+newmtl slot876
 map_Kd packages/tech1soc/064-12a.jpg
 
-newmtl slot880
+newmtl slot877
 map_Kd packages/tech1soc/128-05c.jpg
 
-newmtl slot881
+newmtl slot878
 map_Kd packages/tech1soc/032lig20yb.jpg
 
-newmtl slot882
+newmtl slot879
 map_Kd packages/tech1soc/032lig12ya.jpg
 
-newmtl slot883
+newmtl slot880
 map_Kd packages/tech1soc/032lig12ya.jpg
 
-newmtl slot884
+newmtl slot881
 map_Kd packages/tech1soc/s128-01c.jpg
 
-newmtl slot887
+newmtl slot884
 map_Kd packages/tech1soc/half_grill_wall03b.jpg
 
-newmtl slot889
+newmtl slot886
+map_Kd packages/tech1soc/half_grill_wall03b.jpg
+
+newmtl slot888
 map_Kd packages/tech1soc/half_grill_wall03b.jpg
 
 newmtl slot891
-map_Kd packages/tech1soc/half_grill_wall03b.jpg
-
-newmtl slot894
 map_Kd packages/tech1soc/half_grill_wall01b.jpg
 
-newmtl slot896
+newmtl slot893
 map_Kd packages/tech1soc/064lig20bb.jpg
 
-newmtl slot897
+newmtl slot894
 map_Kd packages/tech1soc/064lig20bb.jpg
 
-newmtl slot901
+newmtl slot898
 map_Kd packages/tech1soc/064-13b.jpg
 
+newmtl slot899
+map_Kd packages/tech1soc/sqrlig02wb.jpg
+
+newmtl slot900
+map_Kd packages/tech1soc/sqrlig02wb.jpg
+
+newmtl slot901
+map_Kd packages/tech1soc/sqrlig02wb.jpg
+
 newmtl slot902
-map_Kd packages/tech1soc/sqrlig02wb.jpg
-
-newmtl slot903
-map_Kd packages/tech1soc/sqrlig02wb.jpg
-
-newmtl slot904
-map_Kd packages/tech1soc/sqrlig02wb.jpg
-
-newmtl slot906
-map_Kd packages/tech1soc/s128-06b.jpg
-
-newmtl slot908
-map_Kd packages/tech1soc/o128-02a.jpg
-
-newmtl slot911
 map_Kd packages/tech1soc/064-12a.jpg
 
-newmtl slot913
+newmtl slot904
+map_Kd packages/tech1soc/s128-06b.jpg
+
+newmtl slot906
+map_Kd packages/tech1soc/o128-02a.jpg
+
+newmtl slot909
+map_Kd packages/tech1soc/064-12a.jpg
+
+newmtl slot911
 map_Kd packages/tech1soc/block19b.jpg
 
