@@ -1,0 +1,779 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/textures/default.png
+
+newmtl slot31
+map_Kd packages/dg/muv158.jpg
+
+newmtl slot52
+map_Kd packages/tech1soc/032-15a.jpg
+
+newmtl slot53
+map_Kd packages/tech1soc/032-15b.jpg
+
+newmtl slot92
+map_Kd packages/tech1soc/matbrown_lgt2.jpg
+
+newmtl slot119
+map_Kd packages/ik2k/ik_brickwall_gry.jpg
+
+newmtl slot147
+map_Kd packages/ikbase/ik_conc_gmoss.jpg
+
+newmtl slot221
+map_Kd packages/aard/aardmbr16_2.jpg
+
+newmtl slot226
+map_Kd packages/schwenz/dt_tile_check.01.jpg
+
+newmtl slot242
+map_Kd packages/egyptsoc/block10c.jpg
+
+newmtl slot258
+map_Kd packages/egyptsoc/s064-03a.jpg
+
+newmtl slot269
+map_Kd packages/egyptsoc/woodmgrid1a.jpg
+
+newmtl slot281
+map_Kd packages/egyptsoc/s064-05c.jpg
+
+newmtl slot325
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot349
+map_Kd packages/rorschach/3r_plaster02.jpg
+
+newmtl slot353
+map_Kd packages/rorschach/5_blood01.jpg
+
+newmtl slot354
+map_Kd packages/rorschach/5_bricks01.jpg
+
+newmtl slot369
+map_Kd packages/rorschach/j256_cobl01.jpg
+
+newmtl slot401
+map_Kd packages/g_pack/g-metbas0c1.jpg
+
+newmtl slot407
+map_Kd packages/g_pack/g-mettrim03.jpg
+
+newmtl slot417
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot509
+map_Kd packages/gibbie/base30_d.jpg
+
+newmtl slot597
+map_Kd packages/gor/GR_GK_004_cc.jpg
+
+newmtl slot600
+map_Kd packages/gor/GR_GK_007_cc.jpg
+
+newmtl slot601
+map_Kd packages/gor/GR_GK_008_cc.jpg
+
+newmtl slot603
+map_Kd packages/gor/GR_GK_010_cc.jpg
+
+newmtl slot604
+map_Kd packages/gor/GR_GK_011_cc.jpg
+
+newmtl slot605
+map_Kd packages/gor/ST_GK_001_cc.jpg
+
+newmtl slot607
+map_Kd packages/gor/ST_GK_003_cc.jpg
+
+newmtl slot611
+map_Kd packages/gor/ST_GK_006_cc.jpg
+
+newmtl slot617
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot624
+map_Kd packages/gor/WT_GK_006_cc.jpg
+
+newmtl slot628
+map_Kd packages/gor/WT_GK_008_cc.jpg
+
+newmtl slot629
+map_Kd packages/gor/WTA_GK_005_cc.jpg
+
+newmtl slot630
+map_Kd packages/gor/WTA_GK_006_cc.jpg
+
+newmtl slot635
+map_Kd packages/gor/WT_GK_010_cc.jpg
+
+newmtl slot636
+map_Kd packages/gor/WT_GK_011_cc.jpg
+
+newmtl slot637
+map_Kd packages/gor/WT_GK_012_cc.jpg
+
+newmtl slot640
+map_Kd packages/gor/WT_GK_015_cc.jpg
+
+newmtl slot641
+map_Kd packages/gor/WT_GK_016_cc.jpg
+
+newmtl slot646
+map_Kd packages/aftas/par11.jpg
+
+newmtl slot647
+map_Kd packages/aftas/piso5.jpg
+
+newmtl slot648
+map_Kd packages/aftas/par9.jpg
+
+newmtl slot649
+map_Kd packages/aftas/par10_a.jpg
+
+newmtl slot651
+map_Kd packages/aftas/detalhe1.jpg
+
+newmtl slot652
+map_Kd packages/aftas/piso2.jpg
+
+newmtl slot654
+map_Kd packages/aftas/rodape1.jpg
+
+newmtl slot656
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot658
+map_Kd packages/aftas/piso3.jpg
+
+newmtl slot660
+map_Kd packages/aftas/pedras.jpg
+
+newmtl slot662
+map_Kd packages/mitaman/mm-tile38.jpg
+
+newmtl slot663
+map_Kd packages/mitaman/mm-brickfloor15.jpg
+
+newmtl slot678
+map_Kd packages/mitaman/mm-bricksmall44.jpg
+
+newmtl slot691
+map_Kd packages/mitaman/mm-border24.jpg
+
+newmtl slot694
+map_Kd packages/mitaman/mm-ornament1.jpg
+
+newmtl slot695
+map_Kd packages/mitaman/mm-metalseam25.jpg
+
+newmtl slot700
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot701
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot705
+map_Kd packages/mitaman/mm-bricksmall06.jpg
+
+newmtl slot712
+map_Kd packages/mitaman/mm-woodshutter.jpg
+
+newmtl slot713
+map_Kd packages/mitaman/mm-tilesmedium16.jpg
+
+newmtl slot715
+map_Kd packages/mitaman/mm-concretebare07.jpg
+
+newmtl slot717
+map_Kd packages/mitaman/mm-concretetrim07a.jpg
+
+newmtl slot733
+map_Kd packages/mitaman/mm-brickold88a.jpg
+
+newmtl slot736
+map_Kd packages/noctua/plast07.jpg
+
+newmtl slot738
+map_Kd packages/noctua/planks01.jpg
+
+newmtl slot743
+map_Kd packages/loopix/cobbst2.jpg
+
+newmtl slot771
+map_Kd packages/textures/nieb/concrete-tan.jpg
+
+newmtl slot775
+map_Kd packages/textures/nieb/concrete-light.jpg
+
+newmtl slot776
+map_Kd packages/textures/nieb/concrete-dark.jpg
+
+newmtl slot779
+map_Kd packages/textures/nieb/metal-orange.jpg
+
+newmtl slot951
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot959
+map_Kd packages/textures/nieb/garden/sand1.jpg
+
+newmtl slot978
+map_Kd packages/textures/medieval_soc/button_woodshoot.jpg
+
+newmtl slot979
+map_Kd packages/textures/medieval_soc/button_woodside.jpg
+
+newmtl slot984
+map_Kd packages/textures/medieval_soc/floor_stone1.jpg
+
+newmtl slot985
+map_Kd packages/textures/medieval_soc/marble_black.jpg
+
+newmtl slot989
+map_Kd packages/textures/medieval_soc/rooftile1.jpg
+
+newmtl slot990
+map_Kd packages/textures/medieval_soc/stone1.jpg
+
+newmtl slot991
+map_Kd packages/textures/medieval_soc/stone2.jpg
+
+newmtl slot992
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot993
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot994
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot996
+map_Kd packages/textures/medieval_soc/wood_browndark.jpg
+
+newmtl slot997
+map_Kd packages/textures/medieval_soc/wood_brownlight.jpg
+
+newmtl slot998
+map_Kd packages/textures/medieval_soc/wood_grey.jpg
+
+newmtl slot1006
+map_Kd packages/textures/terrain_soc/rock_grey2.jpg
+
+newmtl slot1008
+map_Kd packages/textures/terrain_soc/rock_grey3.jpg
+
+newmtl slot1025
+map_Kd packages/textures/nieb/autumn/stone_rubble.jpg
+
+newmtl slot1680
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1681
+map_Kd packages/textures/default.png
+
+newmtl slot1682
+map_Kd packages/gor/GR_GK_007_cc.jpg
+
+newmtl slot1684
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1685
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1686
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1687
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1688
+map_Kd packages/egyptsoc/lig_064-01b1.jpg
+
+newmtl slot1689
+map_Kd packages/gor/WT_GK_010_cc.jpg
+
+newmtl slot1690
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1691
+map_Kd packages/loopix/cobbst2.jpg
+
+newmtl slot1692
+map_Kd packages/aftas/par11.jpg
+
+newmtl slot1694
+map_Kd packages/mitaman/mm-concretebare07.jpg
+
+newmtl slot1695
+map_Kd packages/textures/default.png
+
+newmtl slot1696
+map_Kd packages/ik2k/ik_brick_trimh32a.jpg
+
+newmtl slot1697
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1698
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1699
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1700
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1701
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1702
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1703
+map_Kd packages/loopix/cobbst2.jpg
+
+newmtl slot1704
+map_Kd packages/aftas/caibro1.jpg
+
+newmtl slot1705
+map_Kd packages/mitaman/mm-metalseam25.jpg
+
+newmtl slot1707
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1708
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1709
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1711
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1712
+map_Kd packages/egyptsoc/block01a.jpg
+
+newmtl slot1713
+map_Kd packages/egyptsoc/lig_064-01b1.jpg
+
+newmtl slot1715
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot1716
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1718
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1719
+map_Kd packages/egyptsoc/lig_064-01b1.jpg
+
+newmtl slot1720
+map_Kd packages/textures/nieb/autumn/stone_rubble.jpg
+
+newmtl slot1721
+map_Kd packages/egyptsoc/lig_064-01b1.jpg
+
+newmtl slot1723
+map_Kd packages/gor/WTA_GK_004_cc.jpg
+
+newmtl slot1724
+map_Kd packages/gor/WTA_GK_004_cc.jpg
+
+newmtl slot1725
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot1726
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot1728
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1729
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot1730
+map_Kd packages/ikbase/ik_conc_gmoss.jpg
+
+newmtl slot1731
+map_Kd packages/ikbase/ik_conc_gmoss.jpg
+
+newmtl slot1732
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1733
+map_Kd packages/textures/medieval_soc/marble_black.jpg
+
+newmtl slot1734
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1736
+map_Kd packages/textures/default.png
+
+newmtl slot1738
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1739
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1741
+map_Kd packages/gor/GR_GK_010_cc.jpg
+
+newmtl slot1742
+map_Kd packages/gor/WT_GK_015_cc.jpg
+
+newmtl slot1744
+map_Kd packages/gor/WT_GK_015_cc.jpg
+
+newmtl slot1746
+map_Kd packages/noctua/planks01.jpg
+
+newmtl slot1747
+map_Kd packages/gor/ST_GK_006_cc.jpg
+
+newmtl slot1748
+map_Kd packages/gor/ST_GK_006_cc.jpg
+
+newmtl slot1749
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot1750
+map_Kd packages/egyptsoc/lig_064-01b1.jpg
+
+newmtl slot1752
+map_Kd packages/lunaran/glue1_d.jpg
+
+newmtl slot1753
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1754
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1755
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1756
+map_Kd packages/rorschach/128_ivbr_trim02.jpg
+
+newmtl slot1759
+map_Kd packages/gor/WT_GK_007_cc.jpg
+
+newmtl slot1761
+map_Kd packages/textures/medieval_soc/rooftile1.jpg
+
+newmtl slot1762
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1763
+map_Kd packages/rorschach/128_ivbr_trim02.jpg
+
+newmtl slot1766
+map_Kd packages/gor/WT_GK_003_cc.jpg
+
+newmtl slot1768
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1772
+map_Kd packages/mitaman/mm-metalseam25.jpg
+
+newmtl slot1774
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1775
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1776
+map_Kd packages/gor/WTA_GK_004_cc.jpg
+
+newmtl slot1777
+map_Kd packages/gor/WTA_GK_004_cc.jpg
+
+newmtl slot1778
+map_Kd packages/gor/WTA_GK_002_cc.jpg
+
+newmtl slot1779
+map_Kd packages/gor/WTA_GK_004_cc.jpg
+
+newmtl slot1780
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1782
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1783
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1784
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1785
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1787
+map_Kd packages/rorschach/256_gate_water02.jpg
+
+newmtl slot1790
+map_Kd packages/egyptsoc/s064-05c.jpg
+
+newmtl slot1791
+map_Kd packages/mitaman/mm-woodshutter.jpg
+
+newmtl slot1792
+map_Kd packages/egyptsoc/s064-05c.jpg
+
+newmtl slot1794
+map_Kd packages/textures/medieval_soc/button_woodshoot.jpg
+
+newmtl slot1795
+map_Kd packages/ik2k/ik_stonestep25632.jpg
+
+newmtl slot1797
+map_Kd packages/ik2k/ik_stonestep25632.jpg
+
+newmtl slot1799
+map_Kd packages/mitaman/mm-ornament1.jpg
+
+newmtl slot1800
+map_Kd packages/gor/WT_GK_007_cc.jpg
+
+newmtl slot1801
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot1802
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot1803
+map_Kd packages/mitaman/mm-ornament1.jpg
+
+newmtl slot1804
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1805
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1806
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1807
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1808
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1809
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1810
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1811
+map_Kd packages/egyptsoc/s064-05c.jpg
+
+newmtl slot1812
+map_Kd packages/mitaman/mm-woodshutter.jpg
+
+newmtl slot1813
+map_Kd packages/egyptsoc/s064-03a.jpg
+
+newmtl slot1816
+map_Kd packages/egyptsoc/s064-03a.jpg
+
+newmtl slot1818
+map_Kd packages/mitaman/mm-ornament1.jpg
+
+newmtl slot1821
+map_Kd packages/gor/WO_GK_001_cc.jpg
+
+newmtl slot1822
+map_Kd packages/gor/WO_GK_001_cc.jpg
+
+newmtl slot1826
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1827
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1828
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1829
+map_Kd packages/textures/nieb/garden/base.png
+
+newmtl slot1830
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1831
+map_Kd packages/egyptsoc/lig_064-01b1.jpg
+
+newmtl slot1832
+map_Kd packages/gor/WTA_GK_004_cc.jpg
+
+newmtl slot1833
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1834
+map_Kd packages/mitaman/mm-ornament1.jpg
+
+newmtl slot1835
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1837
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1838
+map_Kd packages/textures/medieval_soc/marble_black.jpg
+
+newmtl slot1839
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1841
+map_Kd packages/mitaman/mm-ornament1.jpg
+
+newmtl slot1842
+map_Kd packages/mitaman/mm-ornament1.jpg
+
+newmtl slot1843
+map_Kd packages/gor/WT_GK_015_cc.jpg
+
+newmtl slot1845
+map_Kd packages/gor/WT_GK_015_cc.jpg
+
+newmtl slot1848
+map_Kd packages/gor/WT_GK_015_cc.jpg
+
+newmtl slot1850
+map_Kd packages/gor/WT_GK_015_cc.jpg
+
+newmtl slot1851
+map_Kd packages/gor/WT_GK_015_cc.jpg
+
+newmtl slot1852
+map_Kd packages/gor/WT_GK_015_cc.jpg
+
+newmtl slot1853
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1854
+map_Kd packages/gor/WT_GK_001_cc.jpg
+
+newmtl slot1855
+map_Kd packages/dg/muv158.jpg
+
+newmtl slot1858
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1859
+map_Kd packages/mitaman/mm-concretebare07.jpg
+
+newmtl slot1862
+map_Kd packages/textures/medieval_soc/woodplank_2.jpg
+
+newmtl slot1863
+map_Kd packages/gor/WT_GK_007_cc.jpg
+
+newmtl slot1864
+map_Kd packages/mitaman/mm-concretetrim07a.jpg
+
+newmtl slot1865
+map_Kd packages/textures/medieval_soc/button_woodshoot.jpg
+
+newmtl slot1866
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1867
+map_Kd packages/mitaman/mm-wood-worn.jpg
+
+newmtl slot1868
+map_Kd packages/textures/medieval_soc/woodplank_1a.jpg
+
+newmtl slot1869
+map_Kd packages/egyptsoc/lig_064-01b1.jpg
+
+newmtl slot1870
+map_Kd packages/egyptsoc/lig_064-01b1.jpg
+
+newmtl slot1871
+map_Kd packages/textures/medieval_soc/stone_trim1.jpg
+
+newmtl slot1872
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1873
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1875
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1877
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1878
+map_Kd packages/textures/medieval_soc/woodplank_1b.jpg
+
+newmtl slot1879
+map_Kd packages/mitaman/mm-ornament1.jpg
+
+newmtl slot1880
+map_Kd packages/aftas/detalhe1.jpg
+
+newmtl slot1881
+map_Kd packages/aftas/detalhe1.jpg
+
+newmtl slot1882
+map_Kd packages/egyptsoc/s064-03a.jpg
+
+newmtl slot1883
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1884
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1885
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1886
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1887
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1888
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1889
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1890
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1891
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1892
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1893
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1894
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot1896
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot1897
+map_Kd packages/rorschach/2_conc_floorpat02_s.jpg
+
+newmtl slot1898
+map_Kd packages/textures/medieval_soc/button_woodshoot.jpg
+
+newmtl slot1899
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1900
+map_Kd packages/rorschach/2_256_redsup01.jpg
+
+newmtl slot1901
+map_Kd packages/rorschach/2_256_redsup01.jpg
+

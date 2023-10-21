@@ -1,0 +1,4193 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd packages/textures/default.png
+
+newmtl slot777
+map_Kd packages/textures/nieb/rubber-trim.jpg
+
+newmtl slot784
+map_Kd packages/textures/nieb/stripes.jpg
+
+newmtl slot785
+map_Kd packages/textures/nieb/stripes.jpg
+
+newmtl slot811
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot813
+map_Kd packages/trak5/base1a.jpg
+
+newmtl slot815
+map_Kd packages/trak5/base1c.jpg
+
+newmtl slot828
+map_Kd packages/trak5/pits1a.jpg
+
+newmtl slot829
+map_Kd packages/trak5/holes1a.jpg
+
+newmtl slot830
+map_Kd packages/trak5/holes1b.jpg
+
+newmtl slot832
+map_Kd packages/trak5/pipe1b.jpg
+
+newmtl slot835
+map_Kd packages/trak5/floor2a.jpg
+
+newmtl slot846
+map_Kd packages/trak5/thingy1a.jpg
+
+newmtl slot852
+map_Kd packages/trak5/tile2a.jpg
+
+newmtl slot860
+map_Kd packages/trak5/tile3e.jpg
+
+newmtl slot861
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot870
+map_Kd packages/trak5/tile5e.jpg
+
+newmtl slot871
+map_Kd packages/trak5/trim1a.jpg
+
+newmtl slot872
+map_Kd packages/trak5/trim1b.jpg
+
+newmtl slot1022
+map_Kd packages/textures/nieb/autumn/rock.jpg
+
+newmtl slot1028
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1029
+map_Kd packages/textures/philipk/pk02/computer01a_c.jpg
+
+newmtl slot1030
+map_Kd packages/textures/philipk/pk02/computer01b_c.jpg
+
+newmtl slot1031
+map_Kd packages/textures/philipk/pk02/computer01c_c.jpg
+
+newmtl slot1033
+map_Kd packages/textures/philipk/pk02/light01b_c.jpg
+
+newmtl slot1034
+map_Kd packages/textures/philipk/pk02/light02a_c.jpg
+
+newmtl slot1037
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot1038
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1039
+map_Kd packages/textures/philipk/pk02/switches01b_c.jpg
+
+newmtl slot1040
+map_Kd packages/textures/philipk/pk02/switches01c_c.jpg
+
+newmtl slot1041
+map_Kd packages/textures/philipk/pk02/wall02a_c.jpg
+
+newmtl slot1042
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot1044
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1045
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot1046
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1047
+map_Kd packages/textures/philipk/pk02/door03_c.jpg
+
+newmtl slot1049
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1050
+map_Kd packages/textures/philipk/pk02/floor01_c.jpg
+
+newmtl slot1051
+map_Kd packages/textures/philipk/pk02/floor02_c.jpg
+
+newmtl slot1052
+map_Kd packages/textures/philipk/pk02/floor03_c.jpg
+
+newmtl slot1053
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot1054
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1055
+map_Kd packages/textures/philipk/pk02/floor06a_c.jpg
+
+newmtl slot1056
+map_Kd packages/textures/philipk/pk02/floor06b_c.jpg
+
+newmtl slot1057
+map_Kd packages/textures/philipk/pk02/floor07_c.jpg
+
+newmtl slot1058
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1059
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1060
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1062
+map_Kd packages/textures/philipk/pk02/floor10_c.jpg
+
+newmtl slot1064
+map_Kd packages/textures/philipk/pk02/floor12a_c.jpg
+
+newmtl slot1065
+map_Kd packages/textures/philipk/pk02/floor12b_c.jpg
+
+newmtl slot1066
+map_Kd packages/textures/philipk/pk02/floor13a_c.jpg
+
+newmtl slot1067
+map_Kd packages/textures/philipk/pk02/floor13b_c.jpg
+
+newmtl slot1068
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot1069
+map_Kd packages/textures/philipk/pk02/generic01b_c.jpg
+
+newmtl slot1070
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1071
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1072
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1073
+map_Kd packages/textures/philipk/pk02/plates01a_c.jpg
+
+newmtl slot1074
+map_Kd packages/textures/philipk/pk02/plates01b_c.jpg
+
+newmtl slot1077
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot1078
+map_Kd packages/textures/philipk/pk02/trim_set01a_c.jpg
+
+newmtl slot1079
+map_Kd packages/textures/philipk/pk02/trim_set01b_c.jpg
+
+newmtl slot1080
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot1081
+map_Kd packages/textures/philipk/pk02/trim_set02b_c.jpg
+
+newmtl slot1082
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1083
+map_Kd packages/textures/philipk/pk02/trim02_c.jpg
+
+newmtl slot1084
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1085
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1086
+map_Kd packages/textures/philipk/pk02/trim04b_c.jpg
+
+newmtl slot1087
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1088
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1089
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1090
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1091
+map_Kd packages/textures/philipk/pk02/wall01_c.jpg
+
+newmtl slot1092
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot1093
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1094
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1095
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot1096
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot1114
+map_Kd packages/textures/philipk/pk02/wall05b_c.jpg
+
+newmtl slot1115
+map_Kd packages/textures/philipk/pk02/wall05c_c.jpg
+
+newmtl slot1116
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot1117
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1118
+map_Kd packages/textures/philipk/pk02/wall07a_c.jpg
+
+newmtl slot1119
+map_Kd packages/textures/philipk/pk02/wall07b_c.jpg
+
+newmtl slot1120
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1121
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1127
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1128
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1129
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1130
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1131
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot1132
+map_Kd packages/textures/philipk/pk02/floor10_c.jpg
+
+newmtl slot1133
+map_Kd packages/trak5/glass.jpg
+
+newmtl slot1134
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1135
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1136
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1137
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot1139
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1141
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1142
+map_Kd packages/textures/default.png
+
+newmtl slot1143
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot1144
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1145
+map_Kd packages/textures/nieb/rubber-trim.jpg
+
+newmtl slot1146
+map_Kd packages/textures/default.png
+
+newmtl slot1147
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1148
+map_Kd packages/trak5/thingy1a.jpg
+
+newmtl slot1149
+map_Kd packages/textures/default.png
+
+newmtl slot1150
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1151
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1152
+map_Kd packages/textures/philipk/pk02/trim_set02b_c.jpg
+
+newmtl slot1153
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1154
+map_Kd packages/textures/philipk/pk02/trim_set02b_c.jpg
+
+newmtl slot1155
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1156
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1157
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1158
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1159
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1160
+map_Kd packages/textures/default.png
+
+newmtl slot1161
+map_Kd packages/trak5/glass.jpg
+
+newmtl slot1162
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1163
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot1164
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1165
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1166
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1167
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1168
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1169
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1170
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1171
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot1172
+map_Kd packages/textures/philipk/pk02/floor01_c.jpg
+
+newmtl slot1173
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1174
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1175
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1176
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1177
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1178
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1179
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1180
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1181
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1182
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1183
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1184
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1185
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1186
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1187
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1188
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1189
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1190
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot1191
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1192
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1193
+map_Kd packages/textures/philipk/pk02/computer01c_c.jpg
+
+newmtl slot1194
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1195
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1196
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1197
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1198
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1199
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1200
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1201
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1202
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1203
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1204
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1205
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1206
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1207
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1208
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1209
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1210
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1211
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1212
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1213
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1214
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1215
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1216
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1217
+map_Kd packages/textures/default.png
+
+newmtl slot1218
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1219
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1220
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1221
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1222
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1223
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1224
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1225
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1226
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1227
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1228
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot1229
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1230
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1234
+map_Kd packages/textures/philipk/pk02/trim_set01a_c.jpg
+
+newmtl slot1235
+map_Kd packages/textures/philipk/pk02/plates01b_c.jpg
+
+newmtl slot1236
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1237
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1238
+map_Kd packages/textures/philipk/pk02/computer01b_c.jpg
+
+newmtl slot1239
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot1240
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1241
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot1242
+map_Kd packages/textures/philipk/pk02/computer01a_c.jpg
+
+newmtl slot1243
+map_Kd packages/textures/philipk/pk02/floor06b_c.jpg
+
+newmtl slot1244
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot1245
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1246
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1247
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1248
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1249
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1250
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1251
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1252
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1253
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1254
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1255
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1256
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1257
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1258
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1259
+map_Kd packages/textures/philipk/pk02/door03_c.jpg
+
+newmtl slot1260
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot1261
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot1262
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1263
+map_Kd packages/textures/philipk/pk02/trim02_c.jpg
+
+newmtl slot1264
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1265
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1266
+map_Kd packages/textures/philipk/pk02/computer01b_c.jpg
+
+newmtl slot1267
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1268
+map_Kd packages/textures/philipk/pk02/floor06a_c.jpg
+
+newmtl slot1269
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1270
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1271
+map_Kd packages/textures/philipk/pk02/door03_c.jpg
+
+newmtl slot1272
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1273
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1274
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1275
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot1276
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1277
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1278
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1279
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1280
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1281
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1282
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1284
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1285
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot1286
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1287
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1288
+map_Kd packages/textures/philipk/pk02/wall01_c.jpg
+
+newmtl slot1289
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1290
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1291
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1292
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1293
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1294
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1295
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1296
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1297
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1298
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1299
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1300
+map_Kd packages/textures/philipk/pk02/trim_set02b_c.jpg
+
+newmtl slot1301
+map_Kd packages/textures/philipk/pk02/trim_set02b_c.jpg
+
+newmtl slot1302
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1303
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1304
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1305
+map_Kd packages/trak5/thingy1a.jpg
+
+newmtl slot1306
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1307
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1308
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1309
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1310
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1311
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1312
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1313
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1314
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1315
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1316
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1317
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1318
+map_Kd packages/trak5/light2a.jpg
+
+newmtl slot1319
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot1320
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1321
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1322
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1323
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1324
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1325
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1326
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1327
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1328
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1329
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1330
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1331
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1332
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1333
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1334
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1335
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1336
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1337
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1338
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1339
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1340
+map_Kd packages/textures/philipk/pk02/floor07_c.jpg
+
+newmtl slot1341
+map_Kd packages/textures/philipk/pk02/trim02_c.jpg
+
+newmtl slot1342
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1343
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1344
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1345
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1346
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1347
+map_Kd packages/textures/default.png
+
+newmtl slot1348
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1349
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1350
+map_Kd packages/textures/philipk/pk02/wall02a_c.jpg
+
+newmtl slot1351
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1352
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1353
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1354
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1355
+map_Kd packages/textures/philipk/pk02/floor11_c.jpg
+
+newmtl slot1356
+map_Kd packages/trak5/pits1a.jpg
+
+newmtl slot1357
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1358
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1359
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1360
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1361
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1362
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1363
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1364
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1365
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1366
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1367
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1368
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1369
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1370
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1371
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1372
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1373
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1374
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1375
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot1376
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1377
+map_Kd packages/trak5/glass.jpg
+
+newmtl slot1378
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot1379
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot1380
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot1381
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot1382
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot1383
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1384
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1385
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1386
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1387
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1388
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1389
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1390
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1391
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1392
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1393
+map_Kd packages/textures/philipk/pk02/plates01b_c.jpg
+
+newmtl slot1394
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1395
+map_Kd packages/textures/philipk/pk02/plates01b_c.jpg
+
+newmtl slot1396
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1397
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1398
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot1399
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot1400
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot1401
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1402
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1403
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1404
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1405
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1406
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1407
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1408
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1409
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1410
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1411
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1412
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1413
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1414
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1415
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1416
+map_Kd packages/trak5/pits1a.jpg
+
+newmtl slot1417
+map_Kd packages/textures/default.png
+
+newmtl slot1418
+map_Kd packages/textures/default.png
+
+newmtl slot1419
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1420
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1421
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1422
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1423
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1424
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1425
+map_Kd packages/textures/philipk/pk02/floor01_c.jpg
+
+newmtl slot1426
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot1427
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1428
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1429
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1430
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot1431
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot1432
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1433
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1434
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1435
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1436
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1437
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1438
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1439
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1440
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot1441
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1442
+map_Kd packages/textures/philipk/pk02/wall02a_c.jpg
+
+newmtl slot1443
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1444
+map_Kd packages/textures/default.png
+
+newmtl slot1445
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1446
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1447
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1448
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1449
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1450
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot1451
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1452
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1453
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1454
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1455
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1456
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1457
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1458
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1459
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1460
+map_Kd packages/textures/default.png
+
+newmtl slot1461
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1462
+map_Kd packages/textures/default.png
+
+newmtl slot1463
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1464
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1465
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1466
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1467
+map_Kd packages/textures/default.png
+
+newmtl slot1468
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1469
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1470
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1471
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1472
+map_Kd packages/textures/philipk/pk02/floor03_c.jpg
+
+newmtl slot1473
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1474
+map_Kd packages/rorschach/5_blood01.jpg
+
+newmtl slot1476
+map_Kd packages/trak5/base1b.jpg
+
+newmtl slot1477
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1478
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1479
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1480
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1481
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1482
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot1483
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1484
+map_Kd packages/textures/philipk/pk02/floor06a_c.jpg
+
+newmtl slot1485
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot1486
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1487
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot1488
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot1489
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1490
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1491
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1492
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1493
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1494
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1495
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1496
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1497
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot1498
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1499
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1500
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot1501
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1502
+map_Kd packages/textures/philipk/pk02/switches01b_c.jpg
+
+newmtl slot1503
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1504
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1505
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1506
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1507
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1508
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1509
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1510
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot1511
+map_Kd packages/textures/philipk/pk02/trim_set02b_c.jpg
+
+newmtl slot1512
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot1513
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1514
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1515
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1516
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1517
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot1518
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1519
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1520
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot1521
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1522
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot1523
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot1524
+map_Kd packages/textures/philipk/pk02/light02b_c.jpg
+
+newmtl slot1525
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1526
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1527
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1528
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1529
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1530
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1531
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1532
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1533
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1534
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1535
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1536
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1537
+map_Kd packages/textures/philipk/pk02/wall02a_c.jpg
+
+newmtl slot1538
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1539
+map_Kd packages/textures/philipk/pk02/wall02c_c.jpg
+
+newmtl slot1540
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1541
+map_Kd packages/textures/philipk/pk02/switches01b_c.jpg
+
+newmtl slot1542
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1543
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1544
+map_Kd packages/textures/philipk/pk02/generic01b_c.jpg
+
+newmtl slot1545
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1546
+map_Kd packages/textures/philipk/pk02/floor03_c.jpg
+
+newmtl slot1547
+map_Kd packages/textures/philipk/pk02/generic01b_c.jpg
+
+newmtl slot1548
+map_Kd packages/textures/philipk/pk02/trim02_c.jpg
+
+newmtl slot1549
+map_Kd packages/textures/philipk/pk02/floor06b_c.jpg
+
+newmtl slot1550
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1551
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot1552
+map_Kd packages/textures/philipk/pk02/wall02c_c.jpg
+
+newmtl slot1553
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1554
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1555
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1556
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1557
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1558
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1559
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1560
+map_Kd packages/textures/default.png
+
+newmtl slot1561
+map_Kd packages/textures/nieb/stripes.jpg
+
+newmtl slot1562
+map_Kd packages/trak5/holes1b.jpg
+
+newmtl slot1563
+map_Kd packages/textures/nieb/stripes.jpg
+
+newmtl slot1564
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1565
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1566
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1567
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1568
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1569
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1570
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1571
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1572
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1573
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1574
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1575
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1576
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1577
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1578
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1579
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1580
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1581
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1582
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot1583
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1584
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1585
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1586
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1587
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1588
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1589
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot1590
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot1591
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1592
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1593
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1594
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1595
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1596
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1597
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1598
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot1599
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1600
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1601
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1602
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1603
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1604
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1605
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1606
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot1607
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1608
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1609
+map_Kd packages/textures/philipk/pk02/floor02_c.jpg
+
+newmtl slot1610
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1611
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1612
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1613
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1614
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1615
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot1616
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot1617
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot1618
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot1619
+map_Kd packages/textures/philipk/pk02/wall02a_c.jpg
+
+newmtl slot1620
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1621
+map_Kd packages/textures/philipk/pk02/floor01_c.jpg
+
+newmtl slot1622
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1623
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1624
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1625
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1626
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1627
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1628
+map_Kd packages/textures/philipk/pk02/wall02a_c.jpg
+
+newmtl slot1629
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1630
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1631
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1632
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot1633
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1634
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1635
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1636
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1637
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1638
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1639
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1640
+map_Kd packages/textures/default.png
+
+newmtl slot1641
+map_Kd packages/textures/default.png
+
+newmtl slot1642
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1643
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1644
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1645
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1646
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1647
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1648
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1649
+map_Kd packages/textures/philipk/pk02/wall01_c.jpg
+
+newmtl slot1650
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1651
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1652
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1653
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1654
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1655
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1656
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1657
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot1658
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1659
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1660
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1661
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1662
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1663
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1664
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1665
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1666
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1667
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1668
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1669
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1670
+map_Kd packages/textures/philipk/pk02/trim_set01a_c.jpg
+
+newmtl slot1671
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1672
+map_Kd packages/textures/philipk/pk02/switches01c_c.jpg
+
+newmtl slot1673
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot1674
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot1675
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1676
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1677
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1678
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot1679
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1680
+map_Kd packages/trak5/pits1a.jpg
+
+newmtl slot1681
+map_Kd packages/textures/philipk/pk02/wall07a_c.jpg
+
+newmtl slot1682
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1683
+map_Kd packages/textures/philipk/pk02/wall05b_c.jpg
+
+newmtl slot1684
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot1685
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1686
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1687
+map_Kd packages/textures/philipk/pk02/floor02_c.jpg
+
+newmtl slot1688
+map_Kd packages/textures/philipk/pk02/wall07a_c.jpg
+
+newmtl slot1689
+map_Kd packages/textures/philipk/pk02/wall07b_c.jpg
+
+newmtl slot1690
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1691
+map_Kd packages/textures/philipk/pk02/wall01_c.jpg
+
+newmtl slot1692
+map_Kd packages/textures/philipk/pk02/wall01_c.jpg
+
+newmtl slot1693
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1694
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1695
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot1696
+map_Kd packages/textures/philipk/pk02/wall07a_c.jpg
+
+newmtl slot1697
+map_Kd packages/textures/philipk/pk02/wall05b_c.jpg
+
+newmtl slot1698
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1699
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1700
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot1701
+map_Kd packages/textures/philipk/pk02/computer01c_c.jpg
+
+newmtl slot1702
+map_Kd packages/textures/philipk/pk02/computer01a_c.jpg
+
+newmtl slot1703
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1704
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1705
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1706
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1707
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1708
+map_Kd packages/textures/philipk/pk02/wall01_c.jpg
+
+newmtl slot1709
+map_Kd packages/textures/philipk/pk02/trim_set01a_c.jpg
+
+newmtl slot1710
+map_Kd packages/textures/philipk/pk02/floor02_c.jpg
+
+newmtl slot1711
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1712
+map_Kd packages/textures/default.png
+
+newmtl slot1713
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1714
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1715
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1716
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1717
+map_Kd packages/trak5/glass.jpg
+
+newmtl slot1718
+map_Kd packages/trak5/base1a.jpg
+
+newmtl slot1719
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1720
+map_Kd packages/textures/philipk/pk02/wall01_c.jpg
+
+newmtl slot1721
+map_Kd packages/textures/philipk/pk02/trim_set01a_c.jpg
+
+newmtl slot1722
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1723
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1724
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1725
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1726
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1727
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot1728
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1729
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1730
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1731
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1732
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot1733
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1734
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1735
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1736
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1737
+map_Kd packages/textures/philipk/pk02/floor02_c.jpg
+
+newmtl slot1738
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1739
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot1740
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1741
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1742
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1743
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1744
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1745
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1746
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1747
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1748
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot1749
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1750
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1751
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1752
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1753
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1754
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1755
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1756
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1757
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1758
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1759
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1760
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1761
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1762
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1763
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1764
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1765
+map_Kd packages/textures/philipk/pk02/wall07b_c.jpg
+
+newmtl slot1766
+map_Kd packages/textures/philipk/pk02/trim_set01a_c.jpg
+
+newmtl slot1767
+map_Kd packages/textures/philipk/pk02/trim04b_c.jpg
+
+newmtl slot1768
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot1769
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1770
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1771
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1772
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1773
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot1774
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot1775
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot1776
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1777
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1778
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot1779
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1780
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot1781
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1782
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot1783
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1784
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1785
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1786
+map_Kd packages/textures/philipk/pk02/light02b_c.jpg
+
+newmtl slot1787
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot1788
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1789
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1790
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1791
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1792
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1793
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1794
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1795
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1796
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot1797
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot1798
+map_Kd packages/textures/philipk/pk02/trim_set02b_c.jpg
+
+newmtl slot1799
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot1800
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1801
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1802
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot1803
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot1804
+map_Kd packages/textures/philipk/pk02/computer01c_c.jpg
+
+newmtl slot1805
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1806
+map_Kd packages/textures/philipk/pk02/computer01a_c.jpg
+
+newmtl slot1807
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1808
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1809
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1810
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1811
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1812
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1813
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1814
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot1815
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1816
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1817
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot1818
+map_Kd packages/textures/philipk/pk02/wall02c_c.jpg
+
+newmtl slot1819
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1820
+map_Kd packages/textures/philipk/pk02/trim_set02b_c.jpg
+
+newmtl slot1821
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1822
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1823
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1824
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1825
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1826
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1827
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1828
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot1829
+map_Kd packages/trak5/light2a.jpg
+
+newmtl slot1830
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot1831
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot1832
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1833
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1834
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1835
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1836
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1837
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1838
+map_Kd packages/textures/philipk/pk02/floor02_c.jpg
+
+newmtl slot1839
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1840
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1841
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1842
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1843
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1844
+map_Kd packages/textures/philipk/pk02/computer01b_c.jpg
+
+newmtl slot1845
+map_Kd packages/textures/philipk/pk02/switches01c_c.jpg
+
+newmtl slot1846
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1847
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1848
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1849
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1850
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1851
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot1852
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1853
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1854
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1855
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1856
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1857
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1858
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1859
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1860
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1861
+map_Kd packages/textures/philipk/pk02/computer01b_c.jpg
+
+newmtl slot1862
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot1863
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1864
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1865
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot1866
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1867
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1868
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1869
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1870
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot1871
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1872
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1873
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot1874
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1875
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1876
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1877
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1878
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1879
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1880
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot1881
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot1882
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1883
+map_Kd packages/rorschach/5_blood01.jpg
+
+newmtl slot1884
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot1886
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot1887
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot1888
+map_Kd packages/textures/default.png
+
+newmtl slot1889
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1890
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot1891
+map_Kd packages/textures/philipk/pk02/floor09b_c.jpg
+
+newmtl slot1892
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1893
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1894
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1895
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1896
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1897
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1898
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1899
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1900
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1901
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1902
+map_Kd packages/textures/philipk/pk02/wall01_c.jpg
+
+newmtl slot1903
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot1904
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1905
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot1906
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1907
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot1908
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot1909
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot1910
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot1911
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot1912
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot1913
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot1914
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1915
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1916
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1917
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot1918
+map_Kd packages/textures/philipk/pk02/floor09b_c.jpg
+
+newmtl slot1919
+map_Kd packages/textures/philipk/pk02/floor03_c.jpg
+
+newmtl slot1920
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1921
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1922
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1923
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1924
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot1925
+map_Kd packages/textures/philipk/pk02/light02b_c.jpg
+
+newmtl slot1926
+map_Kd packages/trak5/trim1a.jpg
+
+newmtl slot1927
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1928
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot1929
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1930
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot1931
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot1932
+map_Kd packages/textures/philipk/pk02/wall01_c.jpg
+
+newmtl slot1933
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1934
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1935
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot1936
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1937
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1938
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1939
+map_Kd packages/textures/philipk/pk02/light02a_c.jpg
+
+newmtl slot1940
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot1941
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot1942
+map_Kd packages/textures/philipk/pk02/light02a_c.jpg
+
+newmtl slot1943
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot1944
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot1945
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot1946
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1947
+map_Kd packages/textures/philipk/pk02/wall07a_c.jpg
+
+newmtl slot1948
+map_Kd packages/textures/philipk/pk02/floor06a_c.jpg
+
+newmtl slot1949
+map_Kd packages/textures/philipk/pk02/trim04b_c.jpg
+
+newmtl slot1950
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1951
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1952
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot1953
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1954
+map_Kd packages/textures/default.png
+
+newmtl slot1955
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1956
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot1957
+map_Kd packages/trak5/base1b.jpg
+
+newmtl slot1958
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot1959
+map_Kd packages/trak5/light2a.jpg
+
+newmtl slot1960
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot1961
+map_Kd packages/textures/philipk/pk02/floor01_c.jpg
+
+newmtl slot1962
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1963
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot1964
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1965
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1966
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot1967
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1968
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot1969
+map_Kd packages/textures/nieb/stripes.jpg
+
+newmtl slot1970
+map_Kd packages/trak5/base1c.jpg
+
+newmtl slot1971
+map_Kd packages/textures/default.png
+
+newmtl slot1972
+map_Kd packages/textures/default.png
+
+newmtl slot1973
+map_Kd packages/textures/default.png
+
+newmtl slot1974
+map_Kd packages/trak5/base1b.jpg
+
+newmtl slot1975
+map_Kd packages/textures/philipk/pk02/floor13a_c.jpg
+
+newmtl slot1976
+map_Kd packages/textures/default.png
+
+newmtl slot1977
+map_Kd packages/textures/default.png
+
+newmtl slot1978
+map_Kd packages/trak5/glass.jpg
+
+newmtl slot1979
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot1980
+map_Kd packages/textures/philipk/pk02/floor03_c.jpg
+
+newmtl slot1981
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot1983
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot1984
+map_Kd packages/trak5/glass.jpg
+
+newmtl slot1985
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1986
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot1987
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1988
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1989
+map_Kd packages/textures/philipk/pk02/floor10_c.jpg
+
+newmtl slot1990
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1991
+map_Kd packages/textures/philipk/pk02/floor10_c.jpg
+
+newmtl slot1992
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1993
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1994
+map_Kd packages/textures/philipk/pk02/floor10_c.jpg
+
+newmtl slot1995
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot1996
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1997
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1998
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot1999
+map_Kd packages/textures/default.png
+
+newmtl slot2000
+map_Kd packages/textures/philipk/pk02/floor09b_c.jpg
+
+newmtl slot2001
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2002
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2003
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2004
+map_Kd packages/textures/philipk/pk02/floor09b_c.jpg
+
+newmtl slot2005
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot2006
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2007
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2008
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2009
+map_Kd packages/trak5/thingy1a.jpg
+
+newmtl slot2010
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2011
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2012
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2013
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2014
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2015
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2016
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2017
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2018
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2019
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2020
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2021
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot2022
+map_Kd packages/textures/philipk/pk02/light02a_c.jpg
+
+newmtl slot2023
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2024
+map_Kd packages/textures/philipk/pk02/floor01_c.jpg
+
+newmtl slot2025
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2026
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2027
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2028
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2029
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot2030
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2031
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot2032
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2033
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot2034
+map_Kd packages/textures/philipk/pk02/switches01c_c.jpg
+
+newmtl slot2035
+map_Kd packages/textures/philipk/pk02/light02a_c.jpg
+
+newmtl slot2036
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot2037
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2038
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2039
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot2040
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot2041
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot2042
+map_Kd packages/textures/philipk/pk02/trim04a_c.jpg
+
+newmtl slot2043
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2044
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2045
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot2046
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2047
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot2048
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot2049
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot2050
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot2051
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot2052
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2053
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2054
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot2055
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot2056
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2057
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2058
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2059
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot2060
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2061
+map_Kd packages/textures/philipk/pk02/floor06b_c.jpg
+
+newmtl slot2062
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot2063
+map_Kd packages/textures/philipk/pk02/wall02c_c.jpg
+
+newmtl slot2064
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2065
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2066
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2067
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2068
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2069
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2070
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2071
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot2072
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot2073
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2074
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2075
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2076
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot2077
+map_Kd packages/textures/philipk/pk02/wall05c_c.jpg
+
+newmtl slot2078
+map_Kd packages/textures/philipk/pk02/wall01_c.jpg
+
+newmtl slot2079
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2080
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2081
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2082
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2083
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2084
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2085
+map_Kd packages/textures/philipk/pk02/floor05_c.jpg
+
+newmtl slot2086
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2087
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2088
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2089
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot2090
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot2091
+map_Kd packages/trak5/tile3c.jpg
+
+newmtl slot2092
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot2093
+map_Kd packages/trak5/tile3a.jpg
+
+newmtl slot2094
+map_Kd packages/trak5/tile3a.jpg
+
+newmtl slot2095
+map_Kd packages/trak5/tile3a.jpg
+
+newmtl slot2096
+map_Kd packages/trak5/tile3a.jpg
+
+newmtl slot2097
+map_Kd packages/trak5/tile3a.jpg
+
+newmtl slot2098
+map_Kd packages/trak5/tile3a.jpg
+
+newmtl slot2099
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2100
+map_Kd packages/textures/philipk/pk02/wall07a_c.jpg
+
+newmtl slot2101
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot2102
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot2103
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2104
+map_Kd packages/textures/philipk/pk02/computer01c_c.jpg
+
+newmtl slot2105
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2106
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2107
+map_Kd packages/textures/nieb/stripes.jpg
+
+newmtl slot2108
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot2109
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2110
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2111
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot2112
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2113
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2114
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2115
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot2116
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot2117
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2118
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot2119
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2120
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2121
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2122
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2123
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2124
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2125
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot2126
+map_Kd packages/textures/philipk/pk02/wall08a_c.jpg
+
+newmtl slot2127
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot2128
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot2129
+map_Kd packages/textures/philipk/pk02/generic01b_c.jpg
+
+newmtl slot2130
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot2131
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot2132
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot2133
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot2134
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2135
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot2136
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2137
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2138
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot2139
+map_Kd packages/textures/philipk/pk02/floor09b_c.jpg
+
+newmtl slot2140
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot2141
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot2142
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot2143
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot2144
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot2145
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot2146
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2147
+map_Kd packages/textures/philipk/pk02/wall02c_c.jpg
+
+newmtl slot2148
+map_Kd packages/textures/philipk/pk02/floor09b_c.jpg
+
+newmtl slot2149
+map_Kd packages/textures/philipk/pk02/switches01b_c.jpg
+
+newmtl slot2150
+map_Kd packages/textures/philipk/pk02/switches01b_c.jpg
+
+newmtl slot2151
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2152
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2154
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2155
+map_Kd packages/textures/philipk/pk02/wall05b_c.jpg
+
+newmtl slot2156
+map_Kd packages/textures/philipk/pk02/trim01_c.jpg
+
+newmtl slot2157
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot2158
+map_Kd packages/trak5/holes1b.jpg
+
+newmtl slot2159
+map_Kd packages/textures/nieb/rubber-trim.jpg
+
+newmtl slot2160
+map_Kd packages/textures/philipk/pk02/wall05b_c.jpg
+
+newmtl slot2161
+map_Kd packages/textures/philipk/pk02/switches01b_c.jpg
+
+newmtl slot2162
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2163
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2164
+map_Kd packages/textures/philipk/pk02/switches01b_c.jpg
+
+newmtl slot2165
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2166
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2167
+map_Kd packages/textures/default.png
+
+newmtl slot2168
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2169
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2170
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot2171
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot2172
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot2173
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot2174
+map_Kd packages/trak5/grate1a.jpg
+
+newmtl slot2175
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot2176
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot2177
+map_Kd packages/textures/philipk/pk02/trim04b_c.jpg
+
+newmtl slot2178
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot2179
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot2180
+map_Kd packages/textures/philipk/pk02/trim_set01b_c.jpg
+
+newmtl slot2181
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot2182
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2183
+map_Kd packages/textures/philipk/pk02/generic01b_c.jpg
+
+newmtl slot2184
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot2185
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot2186
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2187
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot2188
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot2189
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2190
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2191
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2192
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2193
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2194
+map_Kd packages/textures/philipk/pk02/floor10_c.jpg
+
+newmtl slot2195
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2196
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2197
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot2198
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2199
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2200
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2201
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot2202
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2203
+map_Kd packages/textures/philipk/pk02/floor_cyl01_c.jpg
+
+newmtl slot2204
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2205
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2206
+map_Kd packages/textures/philipk/pk02/wall05b_c.jpg
+
+newmtl slot2207
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2208
+map_Kd packages/trak5/thingy1a.jpg
+
+newmtl slot2209
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2210
+map_Kd packages/textures/philipk/pk02/floor08b_c.jpg
+
+newmtl slot2211
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot2212
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2213
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot2214
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot2215
+map_Kd packages/textures/philipk/pk02/wall07b_c.jpg
+
+newmtl slot2216
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot2217
+map_Kd packages/textures/philipk/pk02/wall05c_c.jpg
+
+newmtl slot2218
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot2219
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot2220
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2221
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot2222
+map_Kd packages/textures/philipk/pk02/wall05c_c.jpg
+
+newmtl slot2223
+map_Kd packages/textures/philipk/pk02/wall07a_c.jpg
+
+newmtl slot2224
+map_Kd packages/textures/philipk/pk02/wall07b_c.jpg
+
+newmtl slot2225
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2226
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2227
+map_Kd packages/trak5/pits1a.jpg
+
+newmtl slot2228
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot2230
+map_Kd packages/textures/default.png
+
+newmtl slot2231
+map_Kd packages/textures/philipk/pk02/wall05b_c.jpg
+
+newmtl slot2232
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot2233
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot2234
+map_Kd packages/trak5/tile1a.jpg
+
+newmtl slot2235
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2236
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot2237
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot2238
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot2239
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot2240
+map_Kd packages/trak5/tile1a.jpg
+
+newmtl slot2241
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2242
+map_Kd packages/textures/philipk/pk02/switches01c_c.jpg
+
+newmtl slot2243
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2244
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2245
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2246
+map_Kd packages/trak5/ribs1a.jpg
+
+newmtl slot2247
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2248
+map_Kd packages/trak5/thingy1a.jpg
+
+newmtl slot2249
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2250
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2251
+map_Kd packages/textures/philipk/pk02/wall07b_c.jpg
+
+newmtl slot2252
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot2253
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot2254
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2255
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot2256
+map_Kd packages/trak5/pits1a.jpg
+
+newmtl slot2257
+map_Kd packages/textures/philipk/pk02/wall05a_c.jpg
+
+newmtl slot2258
+map_Kd packages/textures/philipk/pk02/wall07b_c.jpg
+
+newmtl slot2259
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2260
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot2261
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot2262
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot2263
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2264
+map_Kd packages/textures/philipk/pk02/wall07b_c.jpg
+
+newmtl slot2265
+map_Kd packages/textures/philipk/pk02/floor07_c.jpg
+
+newmtl slot2266
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2267
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2268
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot2269
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2270
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot2271
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2272
+map_Kd packages/trak5/light1a.jpg
+
+newmtl slot2273
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2274
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2275
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot2276
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot2277
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2278
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2279
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2280
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot2281
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2282
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot2283
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2284
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot2285
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2286
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot2287
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot2288
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot2289
+map_Kd packages/textures/philipk/pk02/floor10_c.jpg
+
+newmtl slot2290
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot2291
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot2292
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot2293
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot2294
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2295
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot2296
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2297
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2298
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot2299
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot2300
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot2301
+map_Kd packages/textures/philipk/pk02/panels01b_c.jpg
+
+newmtl slot2302
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot2303
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot2304
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2305
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2306
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot2307
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot2308
+map_Kd packages/textures/philipk/pk02/wall05b_c.jpg
+
+newmtl slot2309
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2310
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2311
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot2312
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot2313
+map_Kd packages/textures/philipk/pk02/door03_c.jpg
+
+newmtl slot2314
+map_Kd packages/trak5/tile4a.jpg
+
+newmtl slot2315
+map_Kd packages/textures/philipk/pk02/wall08b_c.jpg
+
+newmtl slot2316
+map_Kd packages/textures/philipk/pk02/wall07a_c.jpg
+
+newmtl slot2317
+map_Kd packages/textures/philipk/pk02/wall07a_c.jpg
+
+newmtl slot2318
+map_Kd packages/textures/philipk/pk02/wall07a_c.jpg
+
+newmtl slot2319
+map_Kd packages/textures/philipk/pk02/trim_set02a_c.jpg
+
+newmtl slot2320
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2321
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot2322
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot2323
+map_Kd packages/textures/nieb/stripes.jpg
+
+newmtl slot2324
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot2325
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2326
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2327
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot2328
+map_Kd packages/textures/philipk/pk02/ceiling02_c.jpg
+
+newmtl slot2329
+map_Kd packages/textures/philipk/pk02/wall05c_c.jpg
+
+newmtl slot2330
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot2331
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot2332
+map_Kd packages/trak5/thingy1a.jpg
+
+newmtl slot2333
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot2334
+map_Kd packages/textures/philipk/pk02/light03_c.jpg
+
+newmtl slot2335
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2336
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot2337
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2338
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2339
+map_Kd packages/textures/philipk/pk02/trim_set01b_c.jpg
+
+newmtl slot2340
+map_Kd packages/textures/philipk/pk02/wall04a_c.jpg
+
+newmtl slot2341
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot2342
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot2343
+map_Kd packages/trak5/floor2a.jpg
+
+newmtl slot2344
+map_Kd packages/textures/default.png
+
+newmtl slot2345
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2346
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot2347
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2348
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot2349
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2350
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2351
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot2352
+map_Kd packages/textures/philipk/pk02/trim_set01a_c.jpg
+
+newmtl slot2353
+map_Kd packages/textures/philipk/pk02/trim_set01a_c.jpg
+
+newmtl slot2354
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2355
+map_Kd packages/textures/philipk/pk02/floor02_c.jpg
+
+newmtl slot2356
+map_Kd packages/textures/philipk/pk02/floor08a_c.jpg
+
+newmtl slot2357
+map_Kd packages/trak5/light3a.jpg
+
+newmtl slot2358
+map_Kd packages/trak5/light2a.jpg
+
+newmtl slot2359
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot2360
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2361
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2362
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot2363
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot2364
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot2365
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2366
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2367
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot2368
+map_Kd packages/textures/philipk/pk02/wall04b_c.jpg
+
+newmtl slot2369
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2370
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2371
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2372
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2373
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2374
+map_Kd packages/textures/philipk/pk02/light02a_c.jpg
+
+newmtl slot2375
+map_Kd packages/textures/philipk/pk02/wall03b_c.jpg
+
+newmtl slot2376
+map_Kd packages/textures/philipk/pk02/plates01b_c.jpg
+
+newmtl slot2377
+map_Kd packages/textures/philipk/pk02/wall_big02b_c.jpg
+
+newmtl slot2378
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2379
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot2380
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2381
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2382
+map_Kd packages/textures/philipk/pk02/panels01c_c.jpg
+
+newmtl slot2383
+map_Kd packages/textures/philipk/pk02/generic01b_c.jpg
+
+newmtl slot2384
+map_Kd packages/textures/philipk/pk02/switches01a_c.jpg
+
+newmtl slot2385
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2386
+map_Kd packages/textures/philipk/pk02/wall_big01a_c.jpg
+
+newmtl slot2387
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot2388
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2389
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot2390
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot2391
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot2392
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2393
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2394
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2395
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2396
+map_Kd packages/textures/default.png
+
+newmtl slot2397
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2398
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2399
+map_Kd packages/textures/default.png
+
+newmtl slot2400
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2401
+map_Kd packages/textures/philipk/pk02/wall_big01b_c.jpg
+
+newmtl slot2402
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2403
+map_Kd packages/textures/philipk/pk02/computer01c_c.jpg
+
+newmtl slot2404
+map_Kd packages/textures/philipk/pk02/computer01b_c.jpg
+
+newmtl slot2405
+map_Kd packages/textures/philipk/pk02/floor09b_c.jpg
+
+newmtl slot2406
+map_Kd packages/textures/philipk/pk02/floor09b_c.jpg
+
+newmtl slot2407
+map_Kd packages/textures/philipk/pk02/wall_big02a_c.jpg
+
+newmtl slot2408
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot2409
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot2410
+map_Kd packages/textures/philipk/pk02/panels01a_c.jpg
+
+newmtl slot2411
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2412
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2413
+map_Kd packages/textures/philipk/pk02/wall03a_c.jpg
+
+newmtl slot2414
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot2415
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot2416
+map_Kd packages/textures/philipk/pk02/floor04_c.jpg
+
+newmtl slot2417
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot2418
+map_Kd packages/textures/philipk/pk02/computer01b_c.jpg
+
+newmtl slot2419
+map_Kd packages/textures/philipk/pk02/wall06a_c.jpg
+
+newmtl slot2420
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2421
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2422
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2423
+map_Kd packages/textures/philipk/pk02/floor_cyl02_c.jpg
+
+newmtl slot2424
+map_Kd packages/textures/philipk/pk02/door01_c.jpg
+
+newmtl slot2425
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot2426
+map_Kd packages/textures/philipk/pk02/wall05c_c.jpg
+
+newmtl slot2427
+map_Kd packages/textures/philipk/pk02/wall06b_c.jpg
+
+newmtl slot2428
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2429
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2430
+map_Kd packages/textures/philipk/pk02/trim03_c.jpg
+
+newmtl slot2431
+map_Kd packages/textures/philipk/pk02/switches01c_c.jpg
+
+newmtl slot2432
+map_Kd packages/textures/philipk/pk02/switches01c_c.jpg
+
+newmtl slot2433
+map_Kd packages/textures/philipk/pk02/ceiling03_c.jpg
+
+newmtl slot2434
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2435
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2436
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot2437
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot2438
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot2439
+map_Kd packages/textures/philipk/pk02/door02_c.jpg
+
+newmtl slot2440
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
+newmtl slot2441
+map_Kd packages/textures/philipk/pk02/floor09a_c.jpg
+
+newmtl slot2442
+map_Kd packages/textures/philipk/pk02/pipes01_c.jpg
+
+newmtl slot2443
+map_Kd packages/textures/philipk/pk02/switches01b_c.jpg
+
+newmtl slot2444
+map_Kd packages/textures/philipk/pk02/switches01c_c.jpg
+
+newmtl slot2445
+map_Kd packages/textures/philipk/pk02/wall02b_c.jpg
+
+newmtl slot2446
+map_Kd packages/textures/philipk/pk02/generic01a_c.jpg
+
