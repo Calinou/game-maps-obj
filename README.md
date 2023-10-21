@@ -42,6 +42,23 @@ Here are some hand-picked recommendations if you'd like to try out some maps:
 
 ¹: cmvalley can be downloaded from the [Releases](https://github.com/Calinou/game-maps-obj/releases/latest) tab.
 
+## Using textures
+
+If you wish textures to be available for use in other engines, you can extract
+them from a Sauerbraten, Red Eclipse or Tesseract installation folder.
+
+To avoid having to copy the entire installation folder (and suffering from long
+import times as a result), install [Python](https://www.python.org/) and run
+`collect_textures.py` with the following arguments:
+
+```bash
+python collect_textures.py path/to/file.mtl --input path/to/game/installation/folder --output path/to/folder
+```
+
+This will copy textures referenced within a MTL file to be used in another
+engine. Make sure to point `--output` to the location where the OBJ/MTL files
+are stored, as texture paths are relative to the MTL file's location.
+
 ## Caveats
 
 - Maps are exported at a larger scale than you probably want.
